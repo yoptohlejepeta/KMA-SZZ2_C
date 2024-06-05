@@ -1,0 +1,1445 @@
+﻿"NATMON_IND","Indicator","LOCATION","Country","TIME","Time","Value","Flag Codes","Flags"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BDI","Burundi","2017","2017",10.48098,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BDI","Burundi","2018","2018",10.14888,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NZL","New Zealand","2017","2017",19.38512,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NZL","New Zealand","2018","2018",19.33179,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NZL","New Zealand","2019","2019",20.03784,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NZL","New Zealand","2020","2020",19.70184,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NZL","New Zealand","2021","2021",20.16286,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40525","Arab States","2017","2017",11.72997,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40525","Arab States","2018","2018",11.83803,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40525","Arab States","2019","2019",11.96801,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40525","Arab States","2020","2020",12.04418,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40525","Arab States","2021","2021",12.10455,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GTM","Guatemala","2019","2019",10.93928,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HKG","China, Hong Kong Special Administrative Region","2017","2017",16.46075,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HKG","China, Hong Kong Special Administrative Region","2018","2018",16.7917,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HKG","China, Hong Kong Special Administrative Region","2019","2019",16.90179,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HKG","China, Hong Kong Special Administrative Region","2020","2020",17.01898,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HKG","China, Hong Kong Special Administrative Region","2021","2021",17.35923,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HKG","China, Hong Kong Special Administrative Region","2022","2022",17.18582,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MHL","Marshall Islands","2019","2019",16.09599,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MHL","Marshall Islands","2022","2022",17.01634,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40612","Central Asia","2017","2017",12.44171,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40612","Central Asia","2018","2018",12.54775,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40612","Central Asia","2019","2019",12.72597,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40612","Central Asia","2020","2020",12.69859,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40612","Central Asia","2021","2021",12.79236,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40612","Central Asia","2022","2022",12.82523,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISR","Israel","2017","2017",15.43283,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISR","Israel","2018","2018",15.36837,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISR","Israel","2019","2019",15.35238,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISR","Israel","2020","2020",15.37783,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISR","Israel","2021","2021",15.58276,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RUS","Russian Federation","2017","2017",14.63001,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RUS","Russian Federation","2018","2018",15.30922,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RUS","Russian Federation","2019","2019",15.32356,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RUS","Russian Federation","2020","2020",13.42469,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RUS","Russian Federation","2021","2021",13.3858,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RUS","Russian Federation","2022","2022",13.44124,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FIN","Finland","2017","2017",18.58182,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FIN","Finland","2018","2018",18.6307,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FIN","Finland","2019","2019",18.25285,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FIN","Finland","2020","2020",18.17844,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FIN","Finland","2021","2021",18.25875,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FIN","Finland","2022","2022",18.40107,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IND","India","2017","2017",12.17948,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IND","India","2018","2018",11.78324,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IND","India","2019","2019",11.68172,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IND","India","2020","2020",12.17147,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IND","India","2021","2021",12.47907,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IND","India","2022","2022",12.98404,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IND","India","2023","2023",12.94106,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CUB","Cuba","2017","2017",13.63932,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CUB","Cuba","2018","2018",13.79585,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CUB","Cuba","2019","2019",13.86809,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CUB","Cuba","2020","2020",13.79964,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CUB","Cuba","2021","2021",13.71633,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40650","Oceania","2017","2017",16.7843,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40650","Oceania","2018","2018",16.20458,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40650","Oceania","2019","2019",16.71131,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40650","Oceania","2020","2020",16.51216,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40650","Oceania","2021","2021",16.66818,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40650","Oceania","2022","2022",16.58956,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ALB","Albania","2017","2017",15.11301,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ALB","Albania","2018","2018",14.84559,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ALB","Albania","2019","2019",14.90936,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ALB","Albania","2020","2020",14.49291,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ALB","Albania","2021","2021",14.28942,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ALB","Albania","2022","2022",14.2922,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NPL","Nepal","2017","2017",12.97947,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NPL","Nepal","2019","2019",13.32362,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NPL","Nepal","2020","2020",12.8238,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UKR","Ukraine","2017","2017",13.45575,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UKR","Ukraine","2018","2018",13.43034,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UKR","Ukraine","2019","2019",13.48342,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UKR","Ukraine","2020","2020",13.40917,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UKR","Ukraine","2021","2021",13.12754,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","OMN","Oman","2017","2017",13.43154,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","OMN","Oman","2018","2018",13.50936,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","OMN","Oman","2019","2019",13.44144,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","OMN","Oman","2020","2020",12.73187,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","OMN","Oman","2021","2021",12.58941,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40550","Small Island Developing States","2017","2017",11.79623,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40550","Small Island Developing States","2018","2018",11.85808,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40550","Small Island Developing States","2019","2019",11.95457,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40550","Small Island Developing States","2020","2020",11.90644,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40550","Small Island Developing States","2021","2021",11.86538,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BFA","Burkina Faso","2017","2017",8.37919,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BFA","Burkina Faso","2018","2018",8.7515,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BFA","Burkina Faso","2019","2019",8.78297,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BFA","Burkina Faso","2020","2020",8.7117,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BFA","Burkina Faso","2021","2021",8.7512,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BFA","Burkina Faso","2022","2022",8.18846,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUS","Australia","2017","2017",21.50828,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUS","Australia","2018","2018",19.86492,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUS","Australia","2019","2019",20.74703,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUS","Australia","2020","2020",20.15477,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUS","Australia","2021","2021",20.19376,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUS","Australia","2022","2022",19.84202,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FRA","France","2017","2017",16.08797,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FRA","France","2018","2018",16.20206,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FRA","France","2019","2019",16.23834,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FRA","France","2020","2020",16.33693,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FRA","France","2021","2021",16.40241,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FRA","France","2022","2022",16.54313,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PHL","Philippines","2017","2017",13.21657,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PHL","Philippines","2018","2018",13.27168,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PHL","Philippines","2019","2019",13.45679,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PHL","Philippines","2020","2020",13.21806,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HRV","Croatia","2017","2017",16.13627,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HRV","Croatia","2018","2018",16.21974,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HRV","Croatia","2019","2019",16.30281,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HRV","Croatia","2020","2020",16.36845,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HRV","Croatia","2021","2021",16.48469,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MLI","Mali","2017","2017",7.74829,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SYC","Seychelles","2017","2017",14.2504,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SYC","Seychelles","2018","2018",14.61841,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SYC","Seychelles","2019","2019",14.84438,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SYC","Seychelles","2020","2020",14.47248,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SYC","Seychelles","2021","2021",15.57924,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SYC","Seychelles","2022","2022",15.4465,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TKM","Turkmenistan","2019","2019",12.05283,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TKM","Turkmenistan","2020","2020",12.39632,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TKM","Turkmenistan","2021","2021",12.89954,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TKM","Turkmenistan","2022","2022",13.24945,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ITA","Italy","2017","2017",16.45614,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ITA","Italy","2018","2018",16.61316,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ITA","Italy","2019","2019",16.76292,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ITA","Italy","2020","2020",16.99852,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ITA","Italy","2021","2021",17.14427,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BWA","Botswana","2021","2021",11.08065,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40334","Least Developed Countries","2017","2017",9.77998,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40334","Least Developed Countries","2018","2018",9.94278,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40334","Least Developed Countries","2019","2019",10.01267,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARM","Armenia","2018","2018",14.06499,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARM","Armenia","2019","2019",14.26832,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARM","Armenia","2020","2020",14.4081,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARM","Armenia","2021","2021",14.74233,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARM","Armenia","2022","2022",14.81291,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","URY","Uruguay","2021","2021",18.79311,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40620","Europe","2017","2017",15.75054,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40620","Europe","2018","2018",15.87223,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40620","Europe","2019","2019",15.87684,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40620","Europe","2020","2020",15.88114,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40620","Europe","2021","2021",15.95818,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40620","Europe","2022","2022",15.97113,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHE","Switzerland","2017","2017",16.1849,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHE","Switzerland","2018","2018",16.27742,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHE","Switzerland","2019","2019",16.35109,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHE","Switzerland","2020","2020",16.409,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHE","Switzerland","2021","2021",16.4982,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHE","Switzerland","2022","2022",16.54634,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NOR","Norway","2017","2017",17.37583,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NOR","Norway","2018","2018",17.45397,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NOR","Norway","2019","2019",17.54578,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NOR","Norway","2020","2020",17.58493,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NOR","Norway","2021","2021",17.80384,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLR","Belarus","2017","2017",14.78567,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLR","Belarus","2018","2018",14.55329,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLR","Belarus","2019","2019",14.38135,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLR","Belarus","2020","2020",14.25777,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLR","Belarus","2021","2021",14.15603,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLR","Belarus","2022","2022",14.04238,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ROU","Romania","2017","2017",14.62853,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ROU","Romania","2018","2018",14.78753,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ROU","Romania","2019","2019",14.8905,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ROU","Romania","2020","2020",14.12422,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ROU","Romania","2021","2021",15.04965,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40030","Middle income countries","2017","2017",12.31231,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40030","Middle income countries","2018","2018",12.21778,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40030","Middle income countries","2019","2019",12.33165,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40030","Middle income countries","2020","2020",12.50958,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40030","Middle income countries","2021","2021",12.63608,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40030","Middle income countries","2022","2022",12.83192,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LIE","Liechtenstein","2017","2017",13.85361,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LIE","Liechtenstein","2018","2018",13.67592,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LIE","Liechtenstein","2019","2019",14.25338,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LIE","Liechtenstein","2020","2020",14.18611,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LIE","Liechtenstein","2021","2021",14.36024,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UZB","Uzbekistan","2017","2017",12.11688,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UZB","Uzbekistan","2018","2018",12.25071,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UZB","Uzbekistan","2019","2019",12.41573,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UZB","Uzbekistan","2020","2020",12.09179,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","UZB","Uzbekistan","2021","2021",11.96601,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40617","Northern Africa and Western Asia","2017","2017",12.71405,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40617","Northern Africa and Western Asia","2018","2018",12.83271,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40617","Northern Africa and Western Asia","2019","2019",12.9528,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40617","Northern Africa and Western Asia","2020","2020",13.03843,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40617","Northern Africa and Western Asia","2021","2021",13.12016,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IRN","Iran (Islamic Republic of)","2017","2017",14.21577,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IRN","Iran (Islamic Republic of)","2020","2020",14.16625,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","QAT","Qatar","2017","2017",12.5171,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","QAT","Qatar","2018","2018",12.75271,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","QAT","Qatar","2019","2019",12.62609,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","QAT","Qatar","2020","2020",12.64909,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40505","Central Asia","2017","2017",12.86283,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40505","Central Asia","2018","2018",12.9279,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40505","Central Asia","2019","2019",13.05528,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40505","Central Asia","2020","2020",12.95712,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40505","Central Asia","2021","2021",12.99099,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40505","Central Asia","2022","2022",13.03535,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MDV","Maldives","2019","2019",13.27128,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LKA","Sri Lanka","2017","2017",12.95878,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LKA","Sri Lanka","2018","2018",13.14461,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CPV","Cabo Verde","2017","2017",11.81033,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CPV","Cabo Verde","2018","2018",11.57099,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LUX","Luxembourg","2017","2017",14.22867,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LUX","Luxembourg","2018","2018",14.24567,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LUX","Luxembourg","2019","2019",14.25139,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LUX","Luxembourg","2020","2020",14.28886,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LUX","Luxembourg","2021","2021",14.31557,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","COL","Colombia","2017","2017",14.99888,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","COL","Colombia","2018","2018",14.86277,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","COL","Colombia","2019","2019",14.72452,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","COL","Colombia","2020","2020",14.47732,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","COL","Colombia","2021","2021",14.67448,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","COL","Colombia","2022","2022",14.54108,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BRN","Brunei Darussalam","2017","2017",13.64943,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BRN","Brunei Darussalam","2018","2018",13.54666,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BRN","Brunei Darussalam","2019","2019",13.31603,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BRN","Brunei Darussalam","2020","2020",13.25225,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PRT","Portugal","2017","2017",16.43869,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PRT","Portugal","2018","2018",16.63084,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PRT","Portugal","2019","2019",16.78882,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PRT","Portugal","2020","2020",16.87392,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PRT","Portugal","2021","2021",17.0702,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40535","South and West Asia","2017","2017",11.36289,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40535","South and West Asia","2018","2018",10.78044,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40535","South and West Asia","2019","2019",10.87352,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40535","South and West Asia","2020","2020",11.06459,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40535","South and West Asia","2021","2021",11.23637,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40535","South and West Asia","2022","2022",11.647,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40611","Eastern Asia","2017","2017",14.27293,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40611","Eastern Asia","2018","2018",14.43825,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40611","Eastern Asia","2019","2019",14.73365,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40611","Eastern Asia","2020","2020",15.03482,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40611","Eastern Asia","2021","2021",15.325,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40611","Eastern Asia","2022","2022",15.54384,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40043","Upper middle income countries","2017","2017",13.93447,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40043","Upper middle income countries","2018","2018",14.03914,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40043","Upper middle income countries","2019","2019",14.1499,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40043","Upper middle income countries","2020","2020",14.31388,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40043","Upper middle income countries","2021","2021",14.47777,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40043","Upper middle income countries","2022","2022",14.62304,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40530","Central and Eastern Europe","2017","2017",15.97961,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40530","Central and Eastern Europe","2018","2018",16.28614,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40530","Central and Eastern Europe","2019","2019",16.35302,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40530","Central and Eastern Europe","2020","2020",16.38068,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40530","Central and Eastern Europe","2021","2021",16.57252,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40530","Central and Eastern Europe","2022","2022",16.57471,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MMR","Myanmar","2018","2018",11.96912,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KGZ","Kyrgyzstan","2017","2017",12.45423,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KGZ","Kyrgyzstan","2018","2018",12.33297,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KGZ","Kyrgyzstan","2019","2019",12.40438,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KGZ","Kyrgyzstan","2020","2020",12.5162,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KGZ","Kyrgyzstan","2021","2021",12.83446,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TON","Tonga","2020","2020",17.36093,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40642","Europe and Northern America","2017","2017",16.74317,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40642","Europe and Northern America","2018","2018",16.80888,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40642","Europe and Northern America","2019","2019",16.82976,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40642","Europe and Northern America","2020","2020",16.82016,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40642","Europe and Northern America","2021","2021",16.90605,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40642","Europe and Northern America","2022","2022",16.93663,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ZAF","South Africa","2017","2017",14.73662,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ZAF","South Africa","2018","2018",14.51227,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ZAF","South Africa","2019","2019",14.65775,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ZAF","South Africa","2020","2020",14.45914,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ZAF","South Africa","2021","2021",14.67354,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CAN","Canada","2017","2017",15.51483,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CAN","Canada","2018","2018",15.465,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CAN","Canada","2019","2019",15.45999,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CAN","Canada","2020","2020",15.44533,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CAN","Canada","2021","2021",15.41637,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAC","China, Macao Special Administrative Region","2017","2017",15.06247,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAC","China, Macao Special Administrative Region","2018","2018",14.51895,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAC","China, Macao Special Administrative Region","2019","2019",14.31397,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAC","China, Macao Special Administrative Region","2020","2020",14.25944,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAC","China, Macao Special Administrative Region","2021","2021",14.61013,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAC","China, Macao Special Administrative Region","2022","2022",15.37581,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MNE","Montenegro","2017","2017",15.22664,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MNE","Montenegro","2018","2018",15.20136,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MNE","Montenegro","2019","2019",15.30406,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MNE","Montenegro","2020","2020",15.50765,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MNE","Montenegro","2021","2021",15.60671,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MNE","Montenegro","2022","2022",15.55859,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CRI","Costa Rica","2017","2017",14.48884,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CRI","Costa Rica","2018","2018",14.71294,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CRI","Costa Rica","2019","2019",15.31027,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MDA","Republic of Moldova","2017","2017",14.56888,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MDA","Republic of Moldova","2018","2018",14.66278,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MDA","Republic of Moldova","2019","2019",14.69075,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MDA","Republic of Moldova","2020","2020",14.88332,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MDA","Republic of Moldova","2021","2021",15.16406,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MDA","Republic of Moldova","2022","2022",15.38689,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40651","Australia and New Zealand","2017","2017",20.84443,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40651","Australia and New Zealand","2018","2018",19.44404,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40651","Australia and New Zealand","2019","2019",20.44156,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40651","Australia and New Zealand","2020","2020",19.90826,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40651","Australia and New Zealand","2021","2021",20.02928,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40651","Australia and New Zealand","2022","2022",20.02766,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","VGB","British Virgin Islands","2021","2021",17.68369,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","VGB","British Virgin Islands","2022","2022",14.08058,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AFG","Afghanistan","2018","2018",7.98703,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVN","Slovenia","2017","2017",18.23362,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVN","Slovenia","2018","2018",18.21603,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVN","Slovenia","2019","2019",18.16566,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVN","Slovenia","2020","2020",18.13762,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVN","Slovenia","2021","2021",18.34461,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVN","Slovenia","2022","2022",18.3978,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GEO","Georgia","2017","2017",15.812,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GEO","Georgia","2018","2018",15.99838,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GEO","Georgia","2019","2019",16.39799,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GEO","Georgia","2020","2020",16.40266,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GEO","Georgia","2021","2021",16.78897,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GEO","Georgia","2022","2022",17.00892,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NER","Niger","2017","2017",7.38756,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","THA","Thailand","2020","2020",15.13755,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KAZ","Kazakhstan","2017","2017",14.49908,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KAZ","Kazakhstan","2018","2018",14.61267,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KAZ","Kazakhstan","2019","2019",14.86221,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KAZ","Kazakhstan","2020","2020",15.02603,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SAU","Saudi Arabia","2017","2017",16.65029,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SAU","Saudi Arabia","2018","2018",16.69643,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SAU","Saudi Arabia","2019","2019",16.63847,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SAU","Saudi Arabia","2020","2020",16.32858,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SAU","Saudi Arabia","2021","2021",16.18786,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SAU","Saudi Arabia","2022","2022",17.86843,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40618","Central and Southern Asia","2017","2017",11.22342,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40618","Central and Southern Asia","2018","2018",11.06548,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40618","Central and Southern Asia","2019","2019",11.06901,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40618","Central and Southern Asia","2020","2020",11.38202,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40618","Central and Southern Asia","2021","2021",11.59651,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40618","Central and Southern Asia","2022","2022",11.93108,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MEX","Mexico","2017","2017",14.6329,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MEX","Mexico","2018","2018",14.64509,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MEX","Mexico","2019","2019",14.62077,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MEX","Mexico","2020","2020",14.46677,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MEX","Mexico","2021","2021",14.053,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MEX","Mexico","2022","2022",13.9166,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BHR","Bahrain","2017","2017",15.48459,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BHR","Bahrain","2018","2018",15.80702,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BHR","Bahrain","2019","2019",16.14518,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BHR","Bahrain","2022","2022",15.73036,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40344","Small Island Developing States","2017","2017",11.67044,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40344","Small Island Developing States","2018","2018",11.71019,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40344","Small Island Developing States","2019","2019",11.7559,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40344","Small Island Developing States","2020","2020",11.68967,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HUN","Hungary","2017","2017",15.59085,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HUN","Hungary","2018","2018",15.48612,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HUN","Hungary","2019","2019",15.3533,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HUN","Hungary","2020","2020",15.38947,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","HUN","Hungary","2021","2021",15.42618,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40330","Landlocked Developing Countries","2017","2017",10.15666,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40330","Landlocked Developing Countries","2018","2018",10.22621,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40330","Landlocked Developing Countries","2019","2019",10.26706,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MDG","Madagascar","2018","2018",9.93807,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MDG","Madagascar","2019","2019",9.4649,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LSO","Lesotho","2017","2017",11.67891,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GHA","Ghana","2017","2017",11.26283,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GHA","Ghana","2018","2018",11.18617,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GHA","Ghana","2019","2019",11.45855,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GHA","Ghana","2020","2020",11.55268,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GHA","Ghana","2021","2021",11.68865,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GHA","Ghana","2022","2022",11.51691,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVK","Slovakia","2017","2017",14.07819,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVK","Slovakia","2018","2018",14.03665,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVK","Slovakia","2019","2019",14.00949,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVK","Slovakia","2020","2020",14.06161,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVK","Slovakia","2021","2021",14.19749,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVK","Slovakia","2022","2022",14.39934,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IRL","Ireland","2017","2017",18.62423,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IRL","Ireland","2018","2018",19.26097,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IRL","Ireland","2019","2019",18.64552,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IRL","Ireland","2020","2020",18.44169,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IRL","Ireland","2021","2021",18.77158,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TZA","United Republic of Tanzania","2017","2017",7.99015,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TZA","United Republic of Tanzania","2019","2019",8.76623,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TZA","United Republic of Tanzania","2021","2021",8.72376,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40515","East Asia and the Pacific","2017","2017",13.94182,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40515","East Asia and the Pacific","2018","2018",14.06322,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40515","East Asia and the Pacific","2019","2019",14.27354,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40515","East Asia and the Pacific","2020","2020",14.4658,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40515","East Asia and the Pacific","2021","2021",14.69742,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40515","East Asia and the Pacific","2022","2022",14.87598,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40540","Sub-Saharan Africa","2017","2017",8.80973,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40613","South-Eastern Asia","2017","2017",13.23715,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40613","South-Eastern Asia","2018","2018",13.28307,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40613","South-Eastern Asia","2019","2019",13.35684,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40613","South-Eastern Asia","2020","2020",13.35691,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40613","South-Eastern Asia","2021","2021",13.5433,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40614","Western Asia","2017","2017",12.41981,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40614","Western Asia","2018","2018",12.60019,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40614","Western Asia","2019","2019",12.71702,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40614","Western Asia","2020","2020",12.84301,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40614","Western Asia","2021","2021",12.99145,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40614","Western Asia","2022","2022",13.03331,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BGR","Bulgaria","2017","2017",14.41951,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BGR","Bulgaria","2018","2018",14.30073,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BGR","Bulgaria","2019","2019",14.00138,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BGR","Bulgaria","2020","2020",13.79266,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BGR","Bulgaria","2021","2021",13.62206,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLZ","Belize","2017","2017",13.55812,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLZ","Belize","2018","2018",13.61111,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLZ","Belize","2019","2019",13.65922,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLZ","Belize","2020","2020",13.55454,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLZ","Belize","2021","2021",13.19169,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLZ","Belize","2022","2022",12.80862,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MKD","North Macedonia","2017","2017",12.95032,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MKD","North Macedonia","2018","2018",12.81453,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MKD","North Macedonia","2019","2019",12.53417,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MKD","North Macedonia","2020","2020",12.50205,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MKD","North Macedonia","2021","2021",12.60997,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MKD","North Macedonia","2022","2022",12.67132,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40041","High income countries","2017","2017",16.12171,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40041","High income countries","2018","2018",16.06721,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40041","High income countries","2019","2019",16.09518,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40041","High income countries","2020","2020",16.08562,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40041","High income countries","2021","2021",16.04986,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40041","High income countries","2022","2022",16.07404,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SWE","Sweden","2017","2017",19.91831,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SWE","Sweden","2018","2018",20.06899,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SWE","Sweden","2019","2019",19.78601,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SWE","Sweden","2020","2020",20.07491,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SWE","Sweden","2021","2021",20.65983,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SWE","Sweden","2022","2022",20.70726,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CIV","Côte d'Ivoire","2017","2017",10.24315,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CIV","Côte d'Ivoire","2019","2019",10.54879,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CIV","Côte d'Ivoire","2020","2020",10.6576,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","VAT","Holy See","2017","2017",,"a","Category not applicable"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","VAT","Holy See","2018","2018",,"a","Category not applicable"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","VAT","Holy See","2019","2019",,"a","Category not applicable"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","VAT","Holy See","2020","2020",,"a","Category not applicable"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","VAT","Holy See","2021","2021",,"a","Category not applicable"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","VAT","Holy See","2022","2022",,"a","Category not applicable"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","VAT","Holy See","2023","2023",,"a","Category not applicable"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PER","Peru","2017","2017",14.47679,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40620","Europe","2017","2017",16.45432,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40620","Europe","2018","2018",16.57084,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40620","Europe","2019","2019",16.58843,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40620","Europe","2020","2020",16.58449,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40620","Europe","2021","2021",16.74366,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40620","Europe","2022","2022",16.75818,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ALB","Albania","2017","2017",15.53131,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ALB","Albania","2018","2018",15.36147,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ALB","Albania","2019","2019",15.43577,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ALB","Albania","2020","2020",15.01956,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ALB","Albania","2021","2021",14.84925,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ALB","Albania","2022","2022",14.68104,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40510","World","2017","2017",12.17206,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40510","World","2018","2018",12.18544,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40510","World","2019","2019",12.22309,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40510","World","2020","2020",12.38885,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40510","World","2021","2021",12.46197,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40510","World","2022","2022",12.58707,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MRT","Mauritania","2017","2017",8.17936,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MRT","Mauritania","2018","2018",8.56948,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MRT","Mauritania","2019","2019",8.69101,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MRT","Mauritania","2020","2020",7.95745,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SEN","Senegal","2019","2019",9.36251,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SEN","Senegal","2020","2020",9.57515,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SEN","Senegal","2021","2021",9.71004,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SEN","Senegal","2022","2022",9.88596,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MUS","Mauritius","2017","2017",15.37428,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MUS","Mauritius","2018","2018",15.37549,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MUS","Mauritius","2019","2019",15.34187,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MUS","Mauritius","2020","2020",15.18283,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NLD","Netherlands","2017","2017",18.15489,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NLD","Netherlands","2018","2018",18.11558,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NLD","Netherlands","2020","2020",18.12661,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NLD","Netherlands","2021","2021",18.23271,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","QAT","Qatar","2017","2017",14.93775,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","QAT","Qatar","2018","2018",14.95256,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","QAT","Qatar","2019","2019",15.16505,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","QAT","Qatar","2020","2020",15.28956,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MYS","Malaysia","2017","2017",12.94913,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MYS","Malaysia","2018","2018",12.71047,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MYS","Malaysia","2019","2019",12.64428,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MYS","Malaysia","2020","2020",12.50049,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MYS","Malaysia","2021","2021",12.49646,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CRI","Costa Rica","2017","2017",15.66827,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CRI","Costa Rica","2018","2018",15.77196,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CRI","Costa Rica","2019","2019",16.3951,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","EST","Estonia","2017","2017",15.06387,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","EST","Estonia","2018","2018",14.99603,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","EST","Estonia","2019","2019",14.97369,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","EST","Estonia","2020","2020",14.99682,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","EST","Estonia","2021","2021",15.13871,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","EST","Estonia","2022","2022",15.1443,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40606","Sub-Saharan Africa","2017","2017",8.80366,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MNG","Mongolia","2019","2019",13.76214,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISL","Iceland","2017","2017",19.8511,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISL","Iceland","2018","2018",19.61598,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISL","Iceland","2019","2019",19.42679,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISL","Iceland","2020","2020",19.46157,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ISL","Iceland","2021","2021",20.50426,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DNK","Denmark","2017","2017",19.45062,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DNK","Denmark","2018","2018",19.3261,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DNK","Denmark","2019","2019",19.21278,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DNK","Denmark","2020","2020",19.25827,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DNK","Denmark","2021","2021",19.37519,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DNK","Denmark","2022","2022",19.32867,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40619","Eastern and South-Eastern Asia","2017","2017",13.33679,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40619","Eastern and South-Eastern Asia","2018","2018",13.44216,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40619","Eastern and South-Eastern Asia","2019","2019",13.57716,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40619","Eastern and South-Eastern Asia","2020","2020",13.79822,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40619","Eastern and South-Eastern Asia","2021","2021",14.04912,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40619","Eastern and South-Eastern Asia","2022","2022",14.24518,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MOZ","Mozambique","2017","2017",10.85025,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40500","North America and Western Europe","2017","2017",17.31182,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40500","North America and Western Europe","2018","2018",17.31829,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40500","North America and Western Europe","2019","2019",17.35273,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40500","North America and Western Europe","2020","2020",17.37531,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40500","North America and Western Europe","2021","2021",17.46155,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40500","North America and Western Europe","2022","2022",17.49509,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHL","Chile","2017","2017",16.76624,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHL","Chile","2018","2018",16.86311,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHL","Chile","2019","2019",16.8846,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHL","Chile","2020","2020",16.57752,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHL","Chile","2021","2021",17.08077,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHL","Chile","2022","2022",17.18331,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SRB","Serbia","2017","2017",14.46343,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SRB","Serbia","2018","2018",14.39917,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SRB","Serbia","2019","2019",14.30753,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SRB","Serbia","2020","2020",14.04029,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SRB","Serbia","2021","2021",13.98247,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SRB","Serbia","2022","2022",13.29494,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40675","World","2017","2017",12.17206,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40675","World","2018","2018",12.18544,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40675","World","2019","2019",12.22309,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40675","World","2020","2020",12.38885,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40675","World","2021","2021",12.46197,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40675","World","2022","2022",12.58707,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IND","India","2017","2017",12.86585,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IND","India","2018","2018",11.85295,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IND","India","2019","2019",11.83324,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IND","India","2020","2020",12.083,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IND","India","2021","2021",12.31828,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IND","India","2022","2022",12.92634,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IND","India","2023","2023",12.83378,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KOR","Republic of Korea","2017","2017",16.8981,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KOR","Republic of Korea","2018","2018",16.80244,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KOR","Republic of Korea","2019","2019",16.75326,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KOR","Republic of Korea","2020","2020",16.7398,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KOR","Republic of Korea","2021","2021",16.84387,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KOR","Republic of Korea","2022","2022",16.91987,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GRC","Greece","2017","2017",18.88993,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GRC","Greece","2018","2018",19.18727,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GRC","Greece","2019","2019",19.58317,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GRC","Greece","2020","2020",19.54765,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GRC","Greece","2021","2021",19.89186,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARG","Argentina","2017","2017",16.47525,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARG","Argentina","2018","2018",16.46805,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARG","Argentina","2019","2019",16.61041,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARG","Argentina","2020","2020",16.75852,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARG","Argentina","2021","2021",17.13033,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RWA","Rwanda","2017","2017",11.07409,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RWA","Rwanda","2018","2018",10.76707,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RWA","Rwanda","2019","2019",10.82271,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","RWA","Rwanda","2022","2022",11.28066,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40616","Southern Asia","2017","2017",11.36289,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40616","Southern Asia","2018","2018",10.78044,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40616","Southern Asia","2019","2019",10.87352,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40616","Southern Asia","2020","2020",11.06459,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40616","Southern Asia","2021","2021",11.23637,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40616","Southern Asia","2022","2022",11.647,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CYP","Cyprus","2017","2017",15.27492,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CYP","Cyprus","2018","2018",15.60838,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CYP","Cyprus","2019","2019",15.96283,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CYP","Cyprus","2020","2020",16.07854,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CYP","Cyprus","2021","2021",15.84014,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PSE","Palestine","2017","2017",13.98661,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PSE","Palestine","2018","2018",14.01313,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PSE","Palestine","2019","2019",14.024,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PSE","Palestine","2020","2020",13.98743,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PSE","Palestine","2021","2021",13.90925,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PSE","Palestine","2022","2022",13.95714,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40042","Lower middle income countries","2017","2017",10.96823,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40042","Lower middle income countries","2018","2018",10.88681,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40042","Lower middle income countries","2019","2019",10.92591,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40042","Lower middle income countries","2020","2020",11.13515,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40042","Lower middle income countries","2021","2021",11.28035,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40042","Lower middle income countries","2022","2022",11.46012,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BTN","Bhutan","2018","2018",13.41145,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IDN","Indonesia","2017","2017",13.65792,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IDN","Indonesia","2018","2018",13.71538,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DZA","Algeria","2022","2022",14.74388,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TGO","Togo","2017","2017",11.49271,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40651","Australia and New Zealand","2017","2017",21.89015,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40651","Australia and New Zealand","2018","2018",20.72389,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40651","Australia and New Zealand","2019","2019",21.68706,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40651","Australia and New Zealand","2020","2020",21.39726,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40651","Australia and New Zealand","2021","2021",21.68283,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40651","Australia and New Zealand","2022","2022",21.67509,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2017","2017",17.95723,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2018","2018",17.70611,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2019","2019",17.76353,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2020","2020",17.77357,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2021","2021",18.20904,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2022","2022",18.31003,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARE","United Arab Emirates","2017","2017",13.49002,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARE","United Arab Emirates","2020","2020",16.3799,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAR","Morocco","2017","2017",12.70623,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAR","Morocco","2018","2018",12.97946,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAR","Morocco","2019","2019",13.31498,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAR","Morocco","2020","2020",13.64076,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAR","Morocco","2021","2021",13.88286,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAR","Morocco","2022","2022",14.49855,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUT","Austria","2017","2017",15.59511,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUT","Austria","2018","2018",15.68981,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUT","Austria","2019","2019",15.72529,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUT","Austria","2020","2020",15.74914,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AUT","Austria","2021","2021",15.92267,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BWA","Botswana","2021","2021",11.77284,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LVA","Latvia","2017","2017",17.20125,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LVA","Latvia","2018","2018",17.34582,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LVA","Latvia","2019","2019",17.1952,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LVA","Latvia","2020","2020",17.11668,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LVA","Latvia","2021","2021",17.25187,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LVA","Latvia","2022","2022",17.25741,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CUB","Cuba","2017","2017",14.51898,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CUB","Cuba","2018","2018",14.63139,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CUB","Cuba","2019","2019",14.85701,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CUB","Cuba","2020","2020",15.08477,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CUB","Cuba","2021","2021",15.26216,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MLT","Malta","2017","2017",15.15166,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MLT","Malta","2018","2018",15.33938,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MLT","Malta","2019","2019",15.17081,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MLT","Malta","2020","2020",15.01054,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MLT","Malta","2021","2021",15.20273,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MLT","Malta","2022","2022",15.28345,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","EGY","Egypt","2017","2017",12.10347,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","EGY","Egypt","2018","2018",12.38981,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","EGY","Egypt","2020","2020",12.79423,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SMR","San Marino","2018","2018",11.57508,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SMR","San Marino","2019","2019",11.78252,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SMR","San Marino","2020","2020",11.85292,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SMR","San Marino","2021","2021",12.08227,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SMR","San Marino","2022","2022",11.98106,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40640","Northern America ","2017","2017",15.97477,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40640","Northern America ","2018","2018",15.92745,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40640","Northern America ","2019","2019",15.89406,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40640","Northern America ","2020","2020",15.89834,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40640","Northern America ","2021","2021",15.57009,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40640","Northern America ","2022","2022",15.64502,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BRA","Brazil","2017","2017",15.02129,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BRA","Brazil","2018","2018",15.09226,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BRA","Brazil","2019","2019",14.98781,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BRA","Brazil","2020","2020",14.97253,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BRA","Brazil","2021","2021",14.95002,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","USA","United States of America","2017","2017",16.02009,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","USA","United States of America","2018","2018",15.97396,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","USA","United States of America","2019","2019",15.93802,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","USA","United States of America","2020","2020",15.94387,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","USA","United States of America","2021","2021",15.58569,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","USA","United States of America","2022","2022",15.05385,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BEL","Belgium","2017","2017",20.7676,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BEL","Belgium","2018","2018",20.55916,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BEL","Belgium","2019","2019",20.61998,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BEL","Belgium","2020","2020",20.31362,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BEL","Belgium","2021","2021",19.93109,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","POL","Poland","2017","2017",15.27369,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","POL","Poland","2018","2018",15.15309,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","POL","Poland","2019","2019",15.10784,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","POL","Poland","2020","2020",15.1181,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","POL","Poland","2021","2021",15.19221,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","POL","Poland","2022","2022",15.37729,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40630","Latin America and the Caribbean","2017","2017",14.20789,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40630","Latin America and the Caribbean","2018","2018",14.23805,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40630","Latin America and the Caribbean","2019","2019",14.23362,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40630","Latin America and the Caribbean","2020","2020",14.21128,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40630","Latin America and the Caribbean","2021","2021",14.14923,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40630","Latin America and the Caribbean","2022","2022",14.14981,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LTU","Lithuania","2017","2017",17.32931,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LTU","Lithuania","2018","2018",17.27771,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LTU","Lithuania","2019","2019",16.98307,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LTU","Lithuania","2020","2020",16.93458,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LTU","Lithuania","2021","2021",17.05356,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DEU","Germany","2017","2017",16.99616,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DEU","Germany","2018","2018",17.03128,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DEU","Germany","2019","2019",17.17854,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DEU","Germany","2020","2020",17.22357,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DEU","Germany","2021","2021",17.36998,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BEN","Benin","2020","2020",11.12107,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BEN","Benin","2021","2021",11.11866,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PRI","Puerto Rico","2018","2018",16.73429,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MNE","Montenegro","2017","2017",14.93637,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MNE","Montenegro","2018","2018",15.01454,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MNE","Montenegro","2019","2019",14.83263,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MNE","Montenegro","2020","2020",14.91078,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MNE","Montenegro","2021","2021",14.90963,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MNE","Montenegro","2022","2022",14.63003,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40619","Eastern and South-Eastern Asia","2017","2017",13.88107,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40619","Eastern and South-Eastern Asia","2018","2018",14.01946,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40619","Eastern and South-Eastern Asia","2019","2019",14.22214,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40619","Eastern and South-Eastern Asia","2020","2020",14.4231,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40619","Eastern and South-Eastern Asia","2021","2021",14.65389,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40619","Eastern and South-Eastern Asia","2022","2022",14.83901,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MMR","Myanmar","2018","2018",11.05974,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MLI","Mali","2017","2017",6.46582,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40344","Small Island Developing States","2017","2017",11.98011,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40344","Small Island Developing States","2018","2018",12.03146,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40344","Small Island Developing States","2019","2019",12.11713,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40344","Small Island Developing States","2020","2020",12.06696,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ZAF","South Africa","2017","2017",13.80505,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ZAF","South Africa","2018","2018",13.6606,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ZAF","South Africa","2019","2019",13.78166,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ZAF","South Africa","2020","2020",13.52111,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ZAF","South Africa","2021","2021",13.57099,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NER","Niger","2017","2017",5.99354,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40603","Northern Africa","2017","2017",12.13167,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40603","Northern Africa","2018","2018",12.25848,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40603","Northern Africa","2019","2019",12.41679,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40603","Northern Africa","2020","2020",12.53047,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40603","Northern Africa","2021","2021",12.59505,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVK","Slovakia","2017","2017",15.14685,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVK","Slovakia","2018","2018",15.07123,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVK","Slovakia","2019","2019",15.065,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVK","Slovakia","2020","2020",15.10183,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVK","Slovakia","2021","2021",15.27138,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SVK","Slovakia","2022","2022",15.52244,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MEX","Mexico","2017","2017",15.06762,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MEX","Mexico","2018","2018",15.19629,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MEX","Mexico","2019","2019",15.26714,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MEX","Mexico","2020","2020",15.1789,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MEX","Mexico","2021","2021",14.9595,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MEX","Mexico","2022","2022",15.02457,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40330","Landlocked Developing Countries","2017","2017",9.18628,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40330","Landlocked Developing Countries","2018","2018",9.24484,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40330","Landlocked Developing Countries","2019","2019",9.29572,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LIE","Liechtenstein","2017","2017",16.2804,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LIE","Liechtenstein","2018","2018",15.9973,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LIE","Liechtenstein","2019","2019",16.51158,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LIE","Liechtenstein","2020","2020",16.55512,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LIE","Liechtenstein","2021","2021",16.43379,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLR","Belarus","2017","2017",15.23234,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLR","Belarus","2018","2018",14.7965,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLR","Belarus","2019","2019",14.42213,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLR","Belarus","2020","2020",14.27358,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLR","Belarus","2021","2021",14.23576,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BLR","Belarus","2022","2022",13.91798,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HUN","Hungary","2017","2017",14.91645,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HUN","Hungary","2018","2018",14.86758,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HUN","Hungary","2019","2019",14.72406,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HUN","Hungary","2020","2020",14.74482,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HUN","Hungary","2021","2021",14.73847,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40030","Middle income countries","2017","2017",12.11809,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40030","Middle income countries","2018","2018",12.13422,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40030","Middle income countries","2019","2019",12.17852,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40030","Middle income countries","2020","2020",12.3857,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40030","Middle income countries","2021","2021",12.50691,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40030","Middle income countries","2022","2022",12.68195,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LKA","Sri Lanka","2017","2017",13.84747,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LKA","Sri Lanka","2018","2018",14.02978,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40505","Central Asia","2017","2017",12.7654,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40505","Central Asia","2018","2018",12.85327,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40505","Central Asia","2019","2019",13.04537,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40505","Central Asia","2020","2020",12.95203,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40505","Central Asia","2021","2021",13.04789,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40505","Central Asia","2022","2022",13.07705,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CPV","Cabo Verde","2017","2017",12.43094,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CPV","Cabo Verde","2018","2018",12.16748,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LAO","Lao People's Democratic Republic","2017","2017",11.22845,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LAO","Lao People's Democratic Republic","2018","2018",10.86178,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LAO","Lao People's Democratic Republic","2019","2019",10.73067,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LAO","Lao People's Democratic Republic","2020","2020",10.36781,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IRN","Iran (Islamic Republic of)","2017","2017",14.65385,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","IRN","Iran (Islamic Republic of)","2020","2020",14.06775,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CZE","Czechia","2017","2017",15.95336,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CZE","Czechia","2018","2018",15.60973,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CZE","Czechia","2019","2019",15.57077,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CZE","Czechia","2020","2020",15.58689,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CZE","Czechia","2021","2021",15.79063,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40535","South and West Asia","2017","2017",11.16549,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40535","South and West Asia","2018","2018",10.99643,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40535","South and West Asia","2019","2019",10.99246,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40535","South and West Asia","2020","2020",11.31686,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40535","South and West Asia","2021","2021",11.53943,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40535","South and West Asia","2022","2022",11.88714,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","COL","Colombia","2017","2017",14.47853,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","COL","Colombia","2018","2018",14.39854,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","COL","Colombia","2019","2019",14.32801,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","COL","Colombia","2020","2020",14.08671,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","COL","Colombia","2021","2021",14.2067,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","COL","Colombia","2022","2022",14.03887,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","USA","United States of America","2017","2017",17.34075,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","USA","United States of America","2018","2018",17.32986,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","USA","United States of America","2019","2019",17.35239,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","USA","United States of America","2020","2020",17.32647,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","USA","United States of America","2021","2021",17.26275,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","USA","United States of America","2022","2022",16.8248,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MOZ","Mozambique","2017","2017",9.88063,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BRN","Brunei Darussalam","2017","2017",14.51861,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BRN","Brunei Darussalam","2018","2018",14.3637,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BRN","Brunei Darussalam","2019","2019",14.23845,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BRN","Brunei Darussalam","2020","2020",14.17734,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ESP","Spain","2017","2017",17.06411,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ESP","Spain","2018","2018",17.06297,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ESP","Spain","2019","2019",16.99622,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ESP","Spain","2020","2020",16.92847,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ESP","Spain","2021","2021",17.20244,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40650","Oceania","2017","2017",16.38897,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40650","Oceania","2018","2018",15.66905,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40650","Oceania","2019","2019",16.20526,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40650","Oceania","2020","2020",15.87943,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40650","Oceania","2021","2021",15.93973,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40650","Oceania","2022","2022",15.8729,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UKR","Ukraine","2017","2017",13.90827,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UKR","Ukraine","2018","2018",13.86776,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UKR","Ukraine","2019","2019",13.95524,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UKR","Ukraine","2020","2020",13.77739,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UKR","Ukraine","2021","2021",13.54051,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAC","China, Macao Special Administrative Region","2017","2017",16.37515,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAC","China, Macao Special Administrative Region","2018","2018",15.57616,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAC","China, Macao Special Administrative Region","2019","2019",15.2303,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAC","China, Macao Special Administrative Region","2020","2020",15.15287,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAC","China, Macao Special Administrative Region","2021","2021",15.43617,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MAC","China, Macao Special Administrative Region","2022","2022",16.07115,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GHA","Ghana","2017","2017",10.7045,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GHA","Ghana","2018","2018",10.72536,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GHA","Ghana","2019","2019",11.11997,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GHA","Ghana","2020","2020",11.30471,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GHA","Ghana","2021","2021",11.4823,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GHA","Ghana","2022","2022",11.31787,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LCA","Saint Lucia","2017","2017",12.97766,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LCA","Saint Lucia","2018","2018",12.93203,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LCA","Saint Lucia","2019","2019",12.12052,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LCA","Saint Lucia","2020","2020",12.09832,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LCA","Saint Lucia","2022","2022",12.05116,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MDA","Republic of Moldova","2017","2017",14.02159,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MDA","Republic of Moldova","2018","2018",14.11803,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MDA","Republic of Moldova","2019","2019",14.25891,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MDA","Republic of Moldova","2020","2020",14.20628,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MDA","Republic of Moldova","2021","2021",14.39,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MDA","Republic of Moldova","2022","2022",14.443,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40612","Central Asia","2017","2017",12.65502,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40612","Central Asia","2018","2018",12.73106,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40612","Central Asia","2019","2019",12.85795,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40612","Central Asia","2020","2020",12.82796,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40612","Central Asia","2021","2021",12.8442,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40612","Central Asia","2022","2022",12.89107,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","VGB","British Virgin Islands","2021","2021",16.30032,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","VGB","British Virgin Islands","2022","2022",13.40863,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CAN","Canada","2017","2017",16.51124,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CAN","Canada","2018","2018",16.43121,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CAN","Canada","2019","2019",16.43435,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CAN","Canada","2020","2020",16.47273,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CAN","Canada","2021","2021",16.53594,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BGD","Bangladesh","2017","2017",10.65233,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BGD","Bangladesh","2018","2018",11.15711,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BGD","Bangladesh","2020","2020",11.50172,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LUX","Luxembourg","2017","2017",13.98403,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LUX","Luxembourg","2018","2018",14.05132,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LUX","Luxembourg","2019","2019",14.12903,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LUX","Luxembourg","2020","2020",14.11478,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LUX","Luxembourg","2021","2021",14.08836,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVN","Slovenia","2017","2017",16.75787,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVN","Slovenia","2018","2018",16.72535,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVN","Slovenia","2019","2019",16.56487,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVN","Slovenia","2020","2020",16.49482,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVN","Slovenia","2021","2021",16.58584,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SVN","Slovenia","2022","2022",16.66216,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SAU","Saudi Arabia","2017","2017",15.04058,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SAU","Saudi Arabia","2018","2018",15.21622,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SAU","Saudi Arabia","2019","2019",15.54208,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SAU","Saudi Arabia","2020","2020",15.38368,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SAU","Saudi Arabia","2021","2021",15.48644,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SAU","Saudi Arabia","2022","2022",16.3838,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GRC","Greece","2017","2017",18.85395,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GRC","Greece","2018","2018",19.2205,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GRC","Greece","2019","2019",19.76819,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GRC","Greece","2020","2020",19.82952,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GRC","Greece","2021","2021",20.19032,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ECU","Ecuador","2018","2018",14.4489,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ECU","Ecuador","2019","2019",14.16719,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ECU","Ecuador","2020","2020",14.44118,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ITA","Italy","2017","2017",15.86068,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ITA","Italy","2018","2018",15.98814,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ITA","Italy","2019","2019",16.02843,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ITA","Italy","2020","2020",16.09837,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ITA","Italy","2021","2021",16.20886,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BHR","Bahrain","2017","2017",16.91294,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BHR","Bahrain","2018","2018",16.58231,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BHR","Bahrain","2019","2019",16.98129,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BHR","Bahrain","2022","2022",17.00641,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LSO","Lesotho","2017","2017",10.97591,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","THA","Thailand","2020","2020",15.70824,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","EST","Estonia","2017","2017",16.60347,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","EST","Estonia","2018","2018",16.55525,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","EST","Estonia","2019","2019",16.5579,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","EST","Estonia","2020","2020",16.61121,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","EST","Estonia","2021","2021",16.80972,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","EST","Estonia","2022","2022",16.85848,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40630","Latin America and the Caribbean","2017","2017",15.01532,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40630","Latin America and the Caribbean","2018","2018",15.08706,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40630","Latin America and the Caribbean","2019","2019",15.14667,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40630","Latin America and the Caribbean","2020","2020",15.229,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40630","Latin America and the Caribbean","2021","2021",15.33639,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40630","Latin America and the Caribbean","2022","2022",15.32868,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40618","Central and Southern Asia","2017","2017",11.4057,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40618","Central and Southern Asia","2018","2018",10.85202,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40618","Central and Southern Asia","2019","2019",10.95065,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40618","Central and Southern Asia","2020","2020",11.13595,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40618","Central and Southern Asia","2021","2021",11.30518,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40618","Central and Southern Asia","2022","2022",11.69901,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40334","Least Developed Countries","2017","2017",8.90789,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40334","Least Developed Countries","2018","2018",9.04105,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40334","Least Developed Countries","2019","2019",9.12944,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MDG","Madagascar","2018","2018",9.82464,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MDG","Madagascar","2019","2019",9.27724,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NOR","Norway","2017","2017",18.78519,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NOR","Norway","2018","2018",18.87774,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NOR","Norway","2019","2019",18.96408,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NOR","Norway","2020","2020",19.07895,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NOR","Norway","2021","2021",19.52136,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NPL","Nepal","2017","2017",12.41463,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NPL","Nepal","2019","2019",12.55796,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NPL","Nepal","2020","2020",12.46627,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40520","Latin America and the Caribbean","2017","2017",14.20786,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40520","Latin America and the Caribbean","2018","2018",14.23803,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40520","Latin America and the Caribbean","2019","2019",14.23359,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40520","Latin America and the Caribbean","2020","2020",14.21126,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40520","Latin America and the Caribbean","2021","2021",14.14921,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40520","Latin America and the Caribbean","2022","2022",14.14979,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HKG","China, Hong Kong Special Administrative Region","2017","2017",16.55104,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HKG","China, Hong Kong Special Administrative Region","2018","2018",16.84246,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HKG","China, Hong Kong Special Administrative Region","2019","2019",16.93955,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HKG","China, Hong Kong Special Administrative Region","2020","2020",17.12826,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HKG","China, Hong Kong Special Administrative Region","2021","2021",17.56233,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HKG","China, Hong Kong Special Administrative Region","2022","2022",17.33457,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BEN","Benin","2020","2020",9.46247,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BEN","Benin","2021","2021",9.60493,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FRA","France","2017","2017",15.39769,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FRA","France","2018","2018",15.49095,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FRA","France","2019","2019",15.50574,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FRA","France","2020","2020",15.54038,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FRA","France","2021","2021",15.58458,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","FRA","France","2022","2022",15.61709,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AFG","Afghanistan","2018","2018",12.96442,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40525","Arab States","2017","2017",11.32022,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40525","Arab States","2018","2018",11.49056,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40525","Arab States","2019","2019",11.63272,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40525","Arab States","2020","2020",11.70201,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40525","Arab States","2021","2021",11.76952,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHE","Switzerland","2017","2017",16.15349,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHE","Switzerland","2018","2018",16.24296,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHE","Switzerland","2019","2019",16.34182,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHE","Switzerland","2020","2020",16.46333,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHE","Switzerland","2021","2021",16.67786,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CHE","Switzerland","2022","2022",16.79875,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PHL","Philippines","2017","2017",12.44195,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PHL","Philippines","2018","2018",12.43434,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PHL","Philippines","2019","2019",12.64123,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PHL","Philippines","2020","2020",12.37481,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","GTM","Guatemala","2019","2019",10.6469,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PAK","Pakistan","2017","2017",7.65513,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PAK","Pakistan","2018","2018",7.95126,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PAK","Pakistan","2019","2019",8.17716,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HRV","Croatia","2017","2017",14.70589,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HRV","Croatia","2018","2018",14.73092,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HRV","Croatia","2019","2019",14.66767,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HRV","Croatia","2020","2020",14.66011,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","HRV","Croatia","2021","2021",14.72341,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BDI","Burundi","2017","2017",10.4845,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BDI","Burundi","2018","2018",10.34485,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40043","Upper middle income countries","2017","2017",14.46576,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40043","Upper middle income countries","2018","2018",14.59896,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40043","Upper middle income countries","2019","2019",14.77861,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40043","Upper middle income countries","2020","2020",14.95696,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40043","Upper middle income countries","2021","2021",15.15823,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40043","Upper middle income countries","2022","2022",15.2822,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MNG","Mongolia","2019","2019",15.28515,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TON","Tonga","2020","2020",15.22015,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PER","Peru","2017","2017",14.51192,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KGZ","Kyrgyzstan","2017","2017",12.58061,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KGZ","Kyrgyzstan","2018","2018",12.56332,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KGZ","Kyrgyzstan","2019","2019",12.57027,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KGZ","Kyrgyzstan","2020","2020",12.75383,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KGZ","Kyrgyzstan","2021","2021",13.15699,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40642","Europe and Northern America","2017","2017",15.82997,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40642","Europe and Northern America","2018","2018",15.89151,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40642","Europe and Northern America","2019","2019",15.88292,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40642","Europe and Northern America","2020","2020",15.88723,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40642","Europe and Northern America","2021","2021",15.81995,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40642","Europe and Northern America","2022","2022",15.85483,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","OMN","Oman","2017","2017",14.92529,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","OMN","Oman","2018","2018",14.86847,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","OMN","Oman","2019","2019",14.64418,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","OMN","Oman","2020","2020",13.87254,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","OMN","Oman","2021","2021",13.46503,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40617","Northern Africa and Western Asia","2017","2017",12.25902,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40617","Northern Africa and Western Asia","2018","2018",12.45936,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40617","Northern Africa and Western Asia","2019","2019",12.60146,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40617","Northern Africa and Western Asia","2020","2020",12.71099,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40617","Northern Africa and Western Asia","2021","2021",12.8232,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MDV","Maldives","2019","2019",11.26266,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AZE","Azerbaijan","2018","2018",13.2161,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AZE","Azerbaijan","2019","2019",13.3343,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AZE","Azerbaijan","2020","2020",12.54786,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AZE","Azerbaijan","2021","2021",12.62805,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AZE","Azerbaijan","2022","2022",12.74398,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUS","Australia","2017","2017",22.39792,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUS","Australia","2018","2018",21.00313,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUS","Australia","2019","2019",22.01021,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUS","Australia","2020","2020",21.73602,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUS","Australia","2021","2021",21.98143,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUS","Australia","2022","2022",21.48183,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UZB","Uzbekistan","2017","2017",11.79387,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UZB","Uzbekistan","2018","2018",12.00045,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UZB","Uzbekistan","2019","2019",12.28444,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UZB","Uzbekistan","2020","2020",12.0064,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","UZB","Uzbekistan","2021","2021",12.02127,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40510","World","2017","2017",12.23558,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40510","World","2018","2018",12.16072,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40510","World","2019","2019",12.25032,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40510","World","2020","2020",12.39123,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40510","World","2021","2021",12.48,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40510","World","2022","2022",12.61754,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RUS","Russian Federation","2017","2017",15.09939,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RUS","Russian Federation","2018","2018",15.73216,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RUS","Russian Federation","2019","2019",15.73413,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RUS","Russian Federation","2020","2020",13.60529,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RUS","Russian Federation","2021","2021",13.5027,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RUS","Russian Federation","2022","2022",13.41428,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TUR","Türkiye","2017","2017",19.20394,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TUR","Türkiye","2018","2018",19.3805,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TUR","Türkiye","2019","2019",19.53996,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TUR","Türkiye","2020","2020",19.51246,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TUR","Türkiye","2021","2021",19.80444,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FIN","Finland","2017","2017",20.21212,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FIN","Finland","2018","2018",20.31839,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FIN","Finland","2019","2019",19.8794,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FIN","Finland","2020","2020",19.9711,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FIN","Finland","2021","2021",20.25945,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","FIN","Finland","2022","2022",20.65835,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SYC","Seychelles","2017","2017",12.30264,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SYC","Seychelles","2018","2018",12.45769,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SYC","Seychelles","2019","2019",12.30957,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SYC","Seychelles","2020","2020",12.31721,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SYC","Seychelles","2021","2021",12.42627,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SYC","Seychelles","2022","2022",12.6085,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40611","Eastern Asia","2017","2017",13.58757,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40611","Eastern Asia","2018","2018",13.72707,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40611","Eastern Asia","2019","2019",13.90701,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40611","Eastern Asia","2020","2020",14.24687,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40611","Eastern Asia","2021","2021",14.56986,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40611","Eastern Asia","2022","2022",14.828,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DOM","Dominican Republic","2017","2017",15.55697,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DOM","Dominican Republic","2020","2020",15.36625,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DOM","Dominican Republic","2021","2021",14.78892,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BGD","Bangladesh","2017","2017",11.19708,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BGD","Bangladesh","2018","2018",11.65119,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BGD","Bangladesh","2020","2020",12.40667,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40606","Sub-Saharan Africa","2017","2017",9.65678,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IDN","Indonesia","2017","2017",13.80362,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IDN","Indonesia","2018","2018",13.86205,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAR","Morocco","2017","2017",13.77802,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAR","Morocco","2018","2018",13.90754,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAR","Morocco","2019","2019",14.07904,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAR","Morocco","2020","2020",14.21162,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAR","Morocco","2021","2021",14.1926,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MAR","Morocco","2022","2022",14.68884,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","URY","Uruguay","2021","2021",15.94714,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40530","Central and Eastern Europe","2017","2017",15.73854,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40530","Central and Eastern Europe","2018","2018",16.01401,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40530","Central and Eastern Europe","2019","2019",16.06697,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40530","Central and Eastern Europe","2020","2020",16.1078,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40530","Central and Eastern Europe","2021","2021",16.14791,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40530","Central and Eastern Europe","2022","2022",16.15014,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MYS","Malaysia","2017","2017",13.62692,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MYS","Malaysia","2018","2018",13.61396,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MYS","Malaysia","2019","2019",13.58307,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MYS","Malaysia","2020","2020",13.44345,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MYS","Malaysia","2021","2021",13.39497,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARM","Armenia","2018","2018",13.58549,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARM","Armenia","2019","2019",13.7418,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARM","Armenia","2020","2020",13.76199,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARM","Armenia","2021","2021",14.13381,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ARM","Armenia","2022","2022",14.02234,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40520","Latin America and the Caribbean","2017","2017",15.01531,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40520","Latin America and the Caribbean","2018","2018",15.08705,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40520","Latin America and the Caribbean","2019","2019",15.14665,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40520","Latin America and the Caribbean","2020","2020",15.22899,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40520","Latin America and the Caribbean","2021","2021",15.33638,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40520","Latin America and the Caribbean","2022","2022",15.32866,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","POL","Poland","2017","2017",16.86481,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","POL","Poland","2018","2018",16.73478,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","POL","Poland","2019","2019",16.66987,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","POL","Poland","2020","2020",16.59943,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","POL","Poland","2021","2021",16.70746,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","POL","Poland","2022","2022",17.04921,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DEU","Germany","2017","2017",16.98592,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DEU","Germany","2018","2018",17.05264,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DEU","Germany","2019","2019",17.26806,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DEU","Germany","2020","2020",17.22988,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DEU","Germany","2021","2021",17.31983,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MRT","Mauritania","2017","2017",7.9925,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MRT","Mauritania","2018","2018",8.46513,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MRT","Mauritania","2019","2019",8.76499,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MRT","Mauritania","2020","2020",8.16034,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","EGY","Egypt","2017","2017",12.2233,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","EGY","Egypt","2018","2018",12.47455,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","EGY","Egypt","2020","2020",13.02345,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHL","Chile","2017","2017",16.30686,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHL","Chile","2018","2018",16.35615,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHL","Chile","2019","2019",16.40881,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHL","Chile","2020","2020",16.10942,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHL","Chile","2021","2021",16.46308,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","CHL","Chile","2022","2022",16.64814,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TUR","Türkiye","2017","2017",18.12502,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TUR","Türkiye","2018","2018",18.55944,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TUR","Türkiye","2019","2019",18.82059,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TUR","Türkiye","2020","2020",19.07266,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TUR","Türkiye","2021","2021",19.56439,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40500","North America and Western Europe","2017","2017",16.31402,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40500","North America and Western Europe","2018","2018",16.29066,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40500","North America and Western Europe","2019","2019",16.27867,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40500","North America and Western Europe","2020","2020",16.27545,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40500","North America and Western Europe","2021","2021",16.20212,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40500","North America and Western Europe","2022","2022",16.2454,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SRB","Serbia","2017","2017",15.48224,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SRB","Serbia","2018","2018",15.49904,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SRB","Serbia","2019","2019",15.43495,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SRB","Serbia","2020","2020",15.21388,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SRB","Serbia","2021","2021",15.27253,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SRB","Serbia","2022","2022",14.62045,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SMR","San Marino","2018","2018",12.27448,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SMR","San Marino","2019","2019",12.43733,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SMR","San Marino","2020","2020",13.01398,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SMR","San Marino","2021","2021",12.83869,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SMR","San Marino","2022","2022",12.88761,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SGP","Singapore","2017","2017",16.87475,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SGP","Singapore","2018","2018",16.9332,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SGP","Singapore","2019","2019",16.91782,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SGP","Singapore","2020","2020",16.92181,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SGP","Singapore","2021","2021",17.03402,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LAO","Lao People's Democratic Republic","2017","2017",10.66856,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LAO","Lao People's Democratic Republic","2018","2018",10.3981,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LAO","Lao People's Democratic Republic","2019","2019",10.27553,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LAO","Lao People's Democratic Republic","2020","2020",10.00139,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BRA","Brazil","2017","2017",15.79373,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BRA","Brazil","2018","2018",15.91962,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BRA","Brazil","2019","2019",15.91731,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BRA","Brazil","2020","2020",15.9354,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BRA","Brazil","2021","2021",16.22304,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40041","High income countries","2017","2017",16.93869,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40041","High income countries","2018","2018",16.91715,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40041","High income countries","2019","2019",16.98348,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40041","High income countries","2020","2020",16.97528,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40041","High income countries","2021","2021",17.08529,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40041","High income countries","2022","2022",17.11136,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISR","Israel","2017","2017",14.43557,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISR","Israel","2018","2018",14.36696,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISR","Israel","2019","2019",14.23538,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISR","Israel","2020","2020",14.30548,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISR","Israel","2021","2021",14.49588,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PSE","Palestine","2017","2017",12.65168,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PSE","Palestine","2018","2018",12.62984,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PSE","Palestine","2019","2019",12.5719,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PSE","Palestine","2020","2020",12.50302,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PSE","Palestine","2021","2021",12.44565,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PSE","Palestine","2022","2022",12.35841,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BEL","Belgium","2017","2017",18.78293,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BEL","Belgium","2018","2018",18.59174,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BEL","Belgium","2019","2019",18.54634,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BEL","Belgium","2020","2020",18.26886,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BEL","Belgium","2021","2021",17.99295,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CYP","Cyprus","2017","2017",15.74377,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CYP","Cyprus","2018","2018",15.78167,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CYP","Cyprus","2019","2019",16.07844,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CYP","Cyprus","2020","2020",16.38664,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CYP","Cyprus","2021","2021",16.64412,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TZA","United Republic of Tanzania","2017","2017",7.94102,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TZA","United Republic of Tanzania","2019","2019",8.63881,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TZA","United Republic of Tanzania","2021","2021",8.45033,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PAK","Pakistan","2017","2017",6.33755,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PAK","Pakistan","2018","2018",6.61825,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PAK","Pakistan","2019","2019",7.06352,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40603","Northern Africa","2017","2017",12.09423,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40603","Northern Africa","2018","2018",12.31721,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40603","Northern Africa","2019","2019",12.48806,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40603","Northern Africa","2020","2020",12.58339,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40603","Northern Africa","2021","2021",12.66585,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40550","Small Island Developing States","2017","2017",11.52341,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40550","Small Island Developing States","2018","2018",11.57059,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40550","Small Island Developing States","2019","2019",11.62405,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40550","Small Island Developing States","2020","2020",11.55884,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40550","Small Island Developing States","2021","2021",11.37839,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KOR","Republic of Korea","2017","2017",15.87677,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KOR","Republic of Korea","2018","2018",15.89699,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KOR","Republic of Korea","2019","2019",15.94014,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KOR","Republic of Korea","2020","2020",15.96579,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KOR","Republic of Korea","2021","2021",16.13556,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","KOR","Republic of Korea","2022","2022",16.28393,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUT","Austria","2017","2017",16.31935,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUT","Austria","2018","2018",16.37926,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUT","Austria","2019","2019",16.45075,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUT","Austria","2020","2020",16.52214,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AUT","Austria","2021","2021",16.8385,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2017","2017",16.87508,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2018","2018",16.60564,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2019","2019",16.60697,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2020","2020",16.5761,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2021","2021",17.05068,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GBR","United Kingdom of Great Britain and Northern Ireland","2022","2022",16.91354,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40613","South-Eastern Asia","2017","2017",12.89071,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40613","South-Eastern Asia","2018","2018",12.9014,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40613","South-Eastern Asia","2019","2019",12.97691,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40613","South-Eastern Asia","2020","2020",12.95962,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40613","South-Eastern Asia","2021","2021",13.12892,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GEO","Georgia","2017","2017",15.81172,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GEO","Georgia","2018","2018",16.01951,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GEO","Georgia","2019","2019",16.29449,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GEO","Georgia","2020","2020",16.15139,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GEO","Georgia","2021","2021",16.39154,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","GEO","Georgia","2022","2022",16.46576,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40614","Western Asia","2017","2017",13.27681,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40614","Western Asia","2018","2018",13.39549,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40614","Western Asia","2019","2019",13.49214,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40614","Western Asia","2020","2020",13.55768,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40614","Western Asia","2021","2021",13.67535,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40614","Western Asia","2022","2022",13.71846,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MKD","North Macedonia","2017","2017",13.42986,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MKD","North Macedonia","2018","2018",13.29535,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MKD","North Macedonia","2019","2019",13.13639,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MKD","North Macedonia","2020","2020",13.14543,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MKD","North Macedonia","2021","2021",13.429,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MKD","North Macedonia","2022","2022",13.57856,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RWA","Rwanda","2017","2017",11.1531,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RWA","Rwanda","2018","2018",10.81149,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RWA","Rwanda","2019","2019",10.88945,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","RWA","Rwanda","2022","2022",11.49433,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ECU","Ecuador","2018","2018",15.01103,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ECU","Ecuador","2019","2019",14.77847,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ECU","Ecuador","2020","2020",15.30182,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLZ","Belize","2017","2017",12.94362,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLZ","Belize","2018","2018",12.99148,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLZ","Belize","2019","2019",12.97905,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLZ","Belize","2020","2020",12.79092,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLZ","Belize","2021","2021",12.55363,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BLZ","Belize","2022","2022",12.05408,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PRT","Portugal","2017","2017",16.2926,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PRT","Portugal","2018","2018",16.33828,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PRT","Portugal","2019","2019",16.41724,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PRT","Portugal","2020","2020",16.46873,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","PRT","Portugal","2021","2021",16.57933,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LCA","Saint Lucia","2017","2017",14.73552,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LCA","Saint Lucia","2018","2018",14.57681,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LCA","Saint Lucia","2019","2019",13.31603,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LCA","Saint Lucia","2020","2020",13.29777,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","LCA","Saint Lucia","2022","2022",13.43453,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AZE","Azerbaijan","2018","2018",13.43628,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AZE","Azerbaijan","2019","2019",13.64858,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AZE","Azerbaijan","2020","2020",12.72765,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AZE","Azerbaijan","2021","2021",12.73447,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AZE","Azerbaijan","2022","2022",12.67574,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ROU","Romania","2017","2017",13.85111,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ROU","Romania","2018","2018",13.94508,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ROU","Romania","2019","2019",13.97002,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ROU","Romania","2020","2020",14.82732,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ROU","Romania","2021","2021",13.99918,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","VAT","Holy See","2017","2017",,"a","Category not applicable"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","VAT","Holy See","2018","2018",,"a","Category not applicable"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","VAT","Holy See","2019","2019",,"a","Category not applicable"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","VAT","Holy See","2020","2020",,"a","Category not applicable"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","VAT","Holy See","2021","2021",,"a","Category not applicable"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","VAT","Holy See","2022","2022",,"a","Category not applicable"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","VAT","Holy See","2023","2023",,"a","Category not applicable"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MLT","Malta","2017","2017",15.91905,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MLT","Malta","2018","2018",16.10957,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MLT","Malta","2019","2019",16.1382,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MLT","Malta","2020","2020",16.16622,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MLT","Malta","2021","2021",16.61197,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","MLT","Malta","2022","2022",16.62427,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISL","Iceland","2017","2017",17.68963,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISL","Iceland","2018","2018",17.47699,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISL","Iceland","2019","2019",17.1559,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISL","Iceland","2020","2020",17.1394,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","ISL","Iceland","2021","2021",17.83466,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NLD","Netherlands","2017","2017",18.65835,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NLD","Netherlands","2018","2018",18.55822,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NLD","Netherlands","2020","2020",18.70557,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","NLD","Netherlands","2021","2021",18.94419,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BFA","Burkina Faso","2017","2017",8.84923,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BFA","Burkina Faso","2018","2018",9.14273,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BFA","Burkina Faso","2019","2019",9.04479,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BFA","Burkina Faso","2020","2020",8.84642,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BFA","Burkina Faso","2021","2021",8.72078,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BFA","Burkina Faso","2022","2022",8.00153,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LTU","Lithuania","2017","2017",16.38776,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LTU","Lithuania","2018","2018",16.29754,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LTU","Lithuania","2019","2019",16.01029,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LTU","Lithuania","2020","2020",15.84598,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LTU","Lithuania","2021","2021",15.7969,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ESP","Spain","2017","2017",17.90936,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ESP","Spain","2018","2018",17.98947,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ESP","Spain","2019","2019",18.02186,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ESP","Spain","2020","2020",18.03096,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ESP","Spain","2021","2021",18.43926,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DNK","Denmark","2017","2017",18.21694,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DNK","Denmark","2018","2018",18.1355,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DNK","Denmark","2019","2019",18.04604,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DNK","Denmark","2020","2020",18.04153,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DNK","Denmark","2021","2021",18.19271,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DNK","Denmark","2022","2022",18.10002,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LVA","Latvia","2017","2017",15.77667,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LVA","Latvia","2018","2018",15.81379,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LVA","Latvia","2019","2019",15.91833,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LVA","Latvia","2020","2020",15.89343,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LVA","Latvia","2021","2021",15.89213,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","LVA","Latvia","2022","2022",15.74544,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40640","Northern America ","2017","2017",17.26617,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40640","Northern America ","2018","2018",17.24803,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40640","Northern America ","2019","2019",17.2684,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40640","Northern America ","2020","2020",17.24871,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40640","Northern America ","2021","2021",17.19686,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40640","Northern America ","2022","2022",17.25669,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40540","Sub-Saharan Africa","2017","2017",9.66575,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40515","East Asia and the Pacific","2017","2017",13.39933,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40515","East Asia and the Pacific","2018","2018",13.48616,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40515","East Asia and the Pacific","2019","2019",13.63118,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40515","East Asia and the Pacific","2020","2020",13.84135,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40515","East Asia and the Pacific","2021","2021",14.09095,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40515","East Asia and the Pacific","2022","2022",14.28085,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KAZ","Kazakhstan","2017","2017",13.93867,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KAZ","Kazakhstan","2018","2018",14.09527,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KAZ","Kazakhstan","2019","2019",14.31106,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","KAZ","Kazakhstan","2020","2020",14.61164,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BGR","Bulgaria","2017","2017",14.887,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BGR","Bulgaria","2018","2018",14.70811,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BGR","Bulgaria","2019","2019",14.52337,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BGR","Bulgaria","2020","2020",14.29481,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BGR","Bulgaria","2021","2021",14.12745,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","DZA","Algeria","2022","2022",16.26418,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SWE","Sweden","2017","2017",17.86141,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SWE","Sweden","2018","2018",17.77835,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SWE","Sweden","2019","2019",17.32243,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SWE","Sweden","2020","2020",17.30953,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SWE","Sweden","2021","2021",17.51425,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SWE","Sweden","2022","2022",17.38843,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TGO","Togo","2017","2017",13.62176,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARE","United Arab Emirates","2017","2017",16.01968,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARE","United Arab Emirates","2020","2020",19.75328,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40616","Southern Asia","2017","2017",11.16549,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40616","Southern Asia","2018","2018",10.99643,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40616","Southern Asia","2019","2019",10.99246,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40616","Southern Asia","2020","2020",11.31686,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40616","Southern Asia","2021","2021",11.53943,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","40616","Southern Asia","2022","2022",11.88714,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARG","Argentina","2017","2017",19.27321,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARG","Argentina","2018","2018",19.31156,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARG","Argentina","2019","2019",19.63069,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARG","Argentina","2020","2020",20.03861,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","ARG","Argentina","2021","2021",20.9149,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NZL","New Zealand","2017","2017",17.55066,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NZL","New Zealand","2018","2018",17.32427,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NZL","New Zealand","2019","2019",18.90193,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NZL","New Zealand","2020","2020",18.67567,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","NZL","New Zealand","2021","2021",19.19735,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IRL","Ireland","2017","2017",18.79073,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IRL","Ireland","2018","2018",20.23127,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IRL","Ireland","2019","2019",19.2366,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IRL","Ireland","2020","2020",19.22914,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","IRL","Ireland","2021","2021",19.4758,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CIV","Côte d'Ivoire","2017","2017",8.68615,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CIV","Côte d'Ivoire","2019","2019",9.27916,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CIV","Côte d'Ivoire","2020","2020",9.53283,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40675","World","2017","2017",12.23558,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40675","World","2018","2018",12.16072,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40675","World","2019","2019",12.25032,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40675","World","2020","2020",12.39123,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40675","World","2021","2021",12.48,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40675","World","2022","2022",12.61754,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SEN","Senegal","2019","2019",8.47511,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SEN","Senegal","2020","2020",8.54503,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SEN","Senegal","2021","2021",8.44111,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SEN","Senegal","2022","2022",8.42006,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CZE","Czechia","2017","2017",17.43717,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CZE","Czechia","2018","2018",16.66438,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CZE","Czechia","2019","2019",16.66478,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CZE","Czechia","2020","2020",16.72308,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","CZE","Czechia","2021","2021",16.93661,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BTN","Bhutan","2018","2018",12.39581,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MUS","Mauritius","2017","2017",14.19288,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MUS","Mauritius","2018","2018",14.22205,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MUS","Mauritius","2019","2019",14.49372,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MUS","Mauritius","2020","2020",14.05864,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40042","Lower middle income countries","2017","2017",10.99162,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40042","Lower middle income countries","2018","2018",10.71183,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40042","Lower middle income countries","2019","2019",10.83026,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40042","Lower middle income countries","2020","2020",10.97911,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40042","Lower middle income countries","2021","2021",11.1111,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","40042","Lower middle income countries","2022","2022",11.33514,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DOM","Dominican Republic","2017","2017",13.76869,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DOM","Dominican Republic","2020","2020",13.39978,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","DOM","Dominican Republic","2021","2021",12.35814,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","SUR","Suriname","2021","2021",11.33802,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","PRI","Puerto Rico","2018","2018",18.3609,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SGP","Singapore","2017","2017",16.53925,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SGP","Singapore","2018","2018",16.6086,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SGP","Singapore","2019","2019",16.62373,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SGP","Singapore","2020","2020",16.70577,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SGP","Singapore","2021","2021",16.81064,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TKM","Turkmenistan","2019","2019",12.21359,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TKM","Turkmenistan","2020","2020",12.4861,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TKM","Turkmenistan","2021","2021",12.93895,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TKM","Turkmenistan","2022","2022",13.23245,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MHL","Marshall Islands","2019","2019",15.12618,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","MHL","Marshall Islands","2022","2022",15.80325,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","SUR","Suriname","2021","2021",10.58965,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","JPN","Japan","2017","2017",15.3447,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","JPN","Japan","2018","2018",15.36118,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","JPN","Japan","2019","2019",15.40706,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","JPN","Japan","2020","2020",15.42417,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","JPN","Japan","2021","2021",15.394,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","JPN","Japan","2017","2017",15.4289,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","JPN","Japan","2018","2018",15.43761,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","JPN","Japan","2019","2019",15.4736,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","JPN","Japan","2020","2020",15.48671,"+","National Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","JPN","Japan","2021","2021",15.46965,"+","National Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BIH","Bosnia and Herzegovina","2017","2017",13.98637,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BIH","Bosnia and Herzegovina","2018","2018",13.95415,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BIH","Bosnia and Herzegovina","2019","2019",13.85529,"‡","UIS Estimation"
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BIH","Bosnia and Herzegovina","2020","2020",13.6861,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BIH","Bosnia and Herzegovina","2021","2021",13.76589,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","BIH","Bosnia and Herzegovina","2022","2022",13.77554,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AND","Andorra","2017","2017",11.89901,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AND","Andorra","2018","2018",11.97977,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AND","Andorra","2019","2019",11.97283,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AND","Andorra","2020","2020",11.94483,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AND","Andorra","2021","2021",11.97494,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","AND","Andorra","2022","2022",12.81063,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","TCA","Turks and Caicos Islands","2022","2022",14.24106,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","TCA","Turks and Caicos Islands","2022","2022",12.84343,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AND","Andorra","2017","2017",11.96364,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AND","Andorra","2018","2018",11.88763,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AND","Andorra","2019","2019",11.87524,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AND","Andorra","2020","2020",11.87711,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AND","Andorra","2021","2021",12.00349,,
+"SLE_1T8_F","School life expectancy, primary to tertiary, female (years)","AND","Andorra","2022","2022",12.76506,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BIH","Bosnia and Herzegovina","2017","2017",13.29195,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BIH","Bosnia and Herzegovina","2018","2018",13.22557,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BIH","Bosnia and Herzegovina","2019","2019",13.0525,"‡","UIS Estimation"
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BIH","Bosnia and Herzegovina","2020","2020",12.84987,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BIH","Bosnia and Herzegovina","2021","2021",12.81573,,
+"SLE_1T8_M","School life expectancy, primary to tertiary, male (years)","BIH","Bosnia and Herzegovina","2022","2022",12.80608,,

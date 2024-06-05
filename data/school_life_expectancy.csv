@@ -1,0 +1,2889 @@
+LOCATION,Country,TIME,Time,School_Life_Expectancy,sex
+BDI,Burundi,2017,2017,10.48098,Female
+BDI,Burundi,2018,2018,10.14888,Female
+NZL,New Zealand,2017,2017,19.38512,Female
+NZL,New Zealand,2018,2018,19.33179,Female
+NZL,New Zealand,2019,2019,20.03784,Female
+NZL,New Zealand,2020,2020,19.70184,Female
+NZL,New Zealand,2021,2021,20.16286,Female
+40525,Arab States,2017,2017,11.72997,Female
+40525,Arab States,2018,2018,11.83803,Female
+40525,Arab States,2019,2019,11.96801,Female
+40525,Arab States,2020,2020,12.04418,Female
+40525,Arab States,2021,2021,12.10455,Female
+GTM,Guatemala,2019,2019,10.93928,Female
+HKG,"China, Hong Kong Special Administrative Region",2017,2017,16.46075,Female
+HKG,"China, Hong Kong Special Administrative Region",2018,2018,16.7917,Female
+HKG,"China, Hong Kong Special Administrative Region",2019,2019,16.90179,Female
+HKG,"China, Hong Kong Special Administrative Region",2020,2020,17.01898,Female
+HKG,"China, Hong Kong Special Administrative Region",2021,2021,17.35923,Female
+HKG,"China, Hong Kong Special Administrative Region",2022,2022,17.18582,Female
+MHL,Marshall Islands,2019,2019,16.09599,Female
+MHL,Marshall Islands,2022,2022,17.01634,Female
+40612,Central Asia,2017,2017,12.44171,Female
+40612,Central Asia,2018,2018,12.54775,Female
+40612,Central Asia,2019,2019,12.72597,Female
+40612,Central Asia,2020,2020,12.69859,Female
+40612,Central Asia,2021,2021,12.79236,Female
+40612,Central Asia,2022,2022,12.82523,Female
+ISR,Israel,2017,2017,15.43283,Female
+ISR,Israel,2018,2018,15.36837,Female
+ISR,Israel,2019,2019,15.35238,Female
+ISR,Israel,2020,2020,15.37783,Female
+ISR,Israel,2021,2021,15.58276,Female
+RUS,Russian Federation,2017,2017,14.63001,Female
+RUS,Russian Federation,2018,2018,15.30922,Female
+RUS,Russian Federation,2019,2019,15.32356,Female
+RUS,Russian Federation,2020,2020,13.42469,Female
+RUS,Russian Federation,2021,2021,13.3858,Female
+RUS,Russian Federation,2022,2022,13.44124,Female
+FIN,Finland,2017,2017,18.58182,Female
+FIN,Finland,2018,2018,18.6307,Female
+FIN,Finland,2019,2019,18.25285,Female
+FIN,Finland,2020,2020,18.17844,Female
+FIN,Finland,2021,2021,18.25875,Female
+FIN,Finland,2022,2022,18.40107,Female
+IND,India,2017,2017,12.17948,Female
+IND,India,2018,2018,11.78324,Female
+IND,India,2019,2019,11.68172,Female
+IND,India,2020,2020,12.17147,Female
+IND,India,2021,2021,12.47907,Female
+IND,India,2022,2022,12.98404,Female
+IND,India,2023,2023,12.94106,Female
+CUB,Cuba,2017,2017,13.63932,Female
+CUB,Cuba,2018,2018,13.79585,Female
+CUB,Cuba,2019,2019,13.86809,Female
+CUB,Cuba,2020,2020,13.79964,Female
+CUB,Cuba,2021,2021,13.71633,Female
+40650,Oceania,2017,2017,16.7843,Female
+40650,Oceania,2018,2018,16.20458,Female
+40650,Oceania,2019,2019,16.71131,Female
+40650,Oceania,2020,2020,16.51216,Female
+40650,Oceania,2021,2021,16.66818,Female
+40650,Oceania,2022,2022,16.58956,Female
+ALB,Albania,2017,2017,15.11301,Female
+ALB,Albania,2018,2018,14.84559,Female
+ALB,Albania,2019,2019,14.90936,Female
+ALB,Albania,2020,2020,14.49291,Female
+ALB,Albania,2021,2021,14.28942,Female
+ALB,Albania,2022,2022,14.2922,Female
+NPL,Nepal,2017,2017,12.97947,Female
+NPL,Nepal,2019,2019,13.32362,Female
+NPL,Nepal,2020,2020,12.8238,Female
+UKR,Ukraine,2017,2017,13.45575,Female
+UKR,Ukraine,2018,2018,13.43034,Female
+UKR,Ukraine,2019,2019,13.48342,Female
+UKR,Ukraine,2020,2020,13.40917,Female
+UKR,Ukraine,2021,2021,13.12754,Female
+OMN,Oman,2017,2017,13.43154,Female
+OMN,Oman,2018,2018,13.50936,Female
+OMN,Oman,2019,2019,13.44144,Female
+OMN,Oman,2020,2020,12.73187,Female
+OMN,Oman,2021,2021,12.58941,Female
+40550,Small Island Developing States,2017,2017,11.79623,Female
+40550,Small Island Developing States,2018,2018,11.85808,Female
+40550,Small Island Developing States,2019,2019,11.95457,Female
+40550,Small Island Developing States,2020,2020,11.90644,Female
+40550,Small Island Developing States,2021,2021,11.86538,Female
+BFA,Burkina Faso,2017,2017,8.37919,Female
+BFA,Burkina Faso,2018,2018,8.7515,Female
+BFA,Burkina Faso,2019,2019,8.78297,Female
+BFA,Burkina Faso,2020,2020,8.7117,Female
+BFA,Burkina Faso,2021,2021,8.7512,Female
+BFA,Burkina Faso,2022,2022,8.18846,Female
+AUS,Australia,2017,2017,21.50828,Female
+AUS,Australia,2018,2018,19.86492,Female
+AUS,Australia,2019,2019,20.74703,Female
+AUS,Australia,2020,2020,20.15477,Female
+AUS,Australia,2021,2021,20.19376,Female
+AUS,Australia,2022,2022,19.84202,Female
+FRA,France,2017,2017,16.08797,Female
+FRA,France,2018,2018,16.20206,Female
+FRA,France,2019,2019,16.23834,Female
+FRA,France,2020,2020,16.33693,Female
+FRA,France,2021,2021,16.40241,Female
+FRA,France,2022,2022,16.54313,Female
+PHL,Philippines,2017,2017,13.21657,Female
+PHL,Philippines,2018,2018,13.27168,Female
+PHL,Philippines,2019,2019,13.45679,Female
+PHL,Philippines,2020,2020,13.21806,Female
+HRV,Croatia,2017,2017,16.13627,Female
+HRV,Croatia,2018,2018,16.21974,Female
+HRV,Croatia,2019,2019,16.30281,Female
+HRV,Croatia,2020,2020,16.36845,Female
+HRV,Croatia,2021,2021,16.48469,Female
+MLI,Mali,2017,2017,7.74829,Female
+SYC,Seychelles,2017,2017,14.2504,Female
+SYC,Seychelles,2018,2018,14.61841,Female
+SYC,Seychelles,2019,2019,14.84438,Female
+SYC,Seychelles,2020,2020,14.47248,Female
+SYC,Seychelles,2021,2021,15.57924,Female
+SYC,Seychelles,2022,2022,15.4465,Female
+TKM,Turkmenistan,2019,2019,12.05283,Female
+TKM,Turkmenistan,2020,2020,12.39632,Female
+TKM,Turkmenistan,2021,2021,12.89954,Female
+TKM,Turkmenistan,2022,2022,13.24945,Female
+ITA,Italy,2017,2017,16.45614,Female
+ITA,Italy,2018,2018,16.61316,Female
+ITA,Italy,2019,2019,16.76292,Female
+ITA,Italy,2020,2020,16.99852,Female
+ITA,Italy,2021,2021,17.14427,Female
+BWA,Botswana,2021,2021,11.08065,Female
+40334,Least Developed Countries,2017,2017,9.77998,Female
+40334,Least Developed Countries,2018,2018,9.94278,Female
+40334,Least Developed Countries,2019,2019,10.01267,Female
+ARM,Armenia,2018,2018,14.06499,Female
+ARM,Armenia,2019,2019,14.26832,Female
+ARM,Armenia,2020,2020,14.4081,Female
+ARM,Armenia,2021,2021,14.74233,Female
+ARM,Armenia,2022,2022,14.81291,Female
+URY,Uruguay,2021,2021,18.79311,Female
+40620,Europe,2017,2017,15.75054,Female
+40620,Europe,2018,2018,15.87223,Female
+40620,Europe,2019,2019,15.87684,Female
+40620,Europe,2020,2020,15.88114,Female
+40620,Europe,2021,2021,15.95818,Female
+40620,Europe,2022,2022,15.97113,Female
+CHE,Switzerland,2017,2017,16.1849,Female
+CHE,Switzerland,2018,2018,16.27742,Female
+CHE,Switzerland,2019,2019,16.35109,Female
+CHE,Switzerland,2020,2020,16.409,Female
+CHE,Switzerland,2021,2021,16.4982,Female
+CHE,Switzerland,2022,2022,16.54634,Female
+NOR,Norway,2017,2017,17.37583,Female
+NOR,Norway,2018,2018,17.45397,Female
+NOR,Norway,2019,2019,17.54578,Female
+NOR,Norway,2020,2020,17.58493,Female
+NOR,Norway,2021,2021,17.80384,Female
+BLR,Belarus,2017,2017,14.78567,Female
+BLR,Belarus,2018,2018,14.55329,Female
+BLR,Belarus,2019,2019,14.38135,Female
+BLR,Belarus,2020,2020,14.25777,Female
+BLR,Belarus,2021,2021,14.15603,Female
+BLR,Belarus,2022,2022,14.04238,Female
+ROU,Romania,2017,2017,14.62853,Female
+ROU,Romania,2018,2018,14.78753,Female
+ROU,Romania,2019,2019,14.8905,Female
+ROU,Romania,2020,2020,14.12422,Female
+ROU,Romania,2021,2021,15.04965,Female
+40030,Middle income countries,2017,2017,12.31231,Female
+40030,Middle income countries,2018,2018,12.21778,Female
+40030,Middle income countries,2019,2019,12.33165,Female
+40030,Middle income countries,2020,2020,12.50958,Female
+40030,Middle income countries,2021,2021,12.63608,Female
+40030,Middle income countries,2022,2022,12.83192,Female
+LIE,Liechtenstein,2017,2017,13.85361,Female
+LIE,Liechtenstein,2018,2018,13.67592,Female
+LIE,Liechtenstein,2019,2019,14.25338,Female
+LIE,Liechtenstein,2020,2020,14.18611,Female
+LIE,Liechtenstein,2021,2021,14.36024,Female
+UZB,Uzbekistan,2017,2017,12.11688,Female
+UZB,Uzbekistan,2018,2018,12.25071,Female
+UZB,Uzbekistan,2019,2019,12.41573,Female
+UZB,Uzbekistan,2020,2020,12.09179,Female
+UZB,Uzbekistan,2021,2021,11.96601,Female
+40617,Northern Africa and Western Asia,2017,2017,12.71405,Female
+40617,Northern Africa and Western Asia,2018,2018,12.83271,Female
+40617,Northern Africa and Western Asia,2019,2019,12.9528,Female
+40617,Northern Africa and Western Asia,2020,2020,13.03843,Female
+40617,Northern Africa and Western Asia,2021,2021,13.12016,Female
+IRN,Iran (Islamic Republic of),2017,2017,14.21577,Female
+IRN,Iran (Islamic Republic of),2020,2020,14.16625,Female
+QAT,Qatar,2017,2017,12.5171,Female
+QAT,Qatar,2018,2018,12.75271,Female
+QAT,Qatar,2019,2019,12.62609,Female
+QAT,Qatar,2020,2020,12.64909,Female
+40505,Central Asia,2017,2017,12.86283,Female
+40505,Central Asia,2018,2018,12.9279,Female
+40505,Central Asia,2019,2019,13.05528,Female
+40505,Central Asia,2020,2020,12.95712,Female
+40505,Central Asia,2021,2021,12.99099,Female
+40505,Central Asia,2022,2022,13.03535,Female
+MDV,Maldives,2019,2019,13.27128,Female
+LKA,Sri Lanka,2017,2017,12.95878,Female
+LKA,Sri Lanka,2018,2018,13.14461,Female
+CPV,Cabo Verde,2017,2017,11.81033,Female
+CPV,Cabo Verde,2018,2018,11.57099,Female
+LUX,Luxembourg,2017,2017,14.22867,Female
+LUX,Luxembourg,2018,2018,14.24567,Female
+LUX,Luxembourg,2019,2019,14.25139,Female
+LUX,Luxembourg,2020,2020,14.28886,Female
+LUX,Luxembourg,2021,2021,14.31557,Female
+COL,Colombia,2017,2017,14.99888,Female
+COL,Colombia,2018,2018,14.86277,Female
+COL,Colombia,2019,2019,14.72452,Female
+COL,Colombia,2020,2020,14.47732,Female
+COL,Colombia,2021,2021,14.67448,Female
+COL,Colombia,2022,2022,14.54108,Female
+BRN,Brunei Darussalam,2017,2017,13.64943,Female
+BRN,Brunei Darussalam,2018,2018,13.54666,Female
+BRN,Brunei Darussalam,2019,2019,13.31603,Female
+BRN,Brunei Darussalam,2020,2020,13.25225,Female
+PRT,Portugal,2017,2017,16.43869,Female
+PRT,Portugal,2018,2018,16.63084,Female
+PRT,Portugal,2019,2019,16.78882,Female
+PRT,Portugal,2020,2020,16.87392,Female
+PRT,Portugal,2021,2021,17.0702,Female
+40535,South and West Asia,2017,2017,11.36289,Female
+40535,South and West Asia,2018,2018,10.78044,Female
+40535,South and West Asia,2019,2019,10.87352,Female
+40535,South and West Asia,2020,2020,11.06459,Female
+40535,South and West Asia,2021,2021,11.23637,Female
+40535,South and West Asia,2022,2022,11.647,Female
+40611,Eastern Asia,2017,2017,14.27293,Female
+40611,Eastern Asia,2018,2018,14.43825,Female
+40611,Eastern Asia,2019,2019,14.73365,Female
+40611,Eastern Asia,2020,2020,15.03482,Female
+40611,Eastern Asia,2021,2021,15.325,Female
+40611,Eastern Asia,2022,2022,15.54384,Female
+40043,Upper middle income countries,2017,2017,13.93447,Female
+40043,Upper middle income countries,2018,2018,14.03914,Female
+40043,Upper middle income countries,2019,2019,14.1499,Female
+40043,Upper middle income countries,2020,2020,14.31388,Female
+40043,Upper middle income countries,2021,2021,14.47777,Female
+40043,Upper middle income countries,2022,2022,14.62304,Female
+40530,Central and Eastern Europe,2017,2017,15.97961,Female
+40530,Central and Eastern Europe,2018,2018,16.28614,Female
+40530,Central and Eastern Europe,2019,2019,16.35302,Female
+40530,Central and Eastern Europe,2020,2020,16.38068,Female
+40530,Central and Eastern Europe,2021,2021,16.57252,Female
+40530,Central and Eastern Europe,2022,2022,16.57471,Female
+MMR,Myanmar,2018,2018,11.96912,Female
+KGZ,Kyrgyzstan,2017,2017,12.45423,Female
+KGZ,Kyrgyzstan,2018,2018,12.33297,Female
+KGZ,Kyrgyzstan,2019,2019,12.40438,Female
+KGZ,Kyrgyzstan,2020,2020,12.5162,Female
+KGZ,Kyrgyzstan,2021,2021,12.83446,Female
+TON,Tonga,2020,2020,17.36093,Female
+40642,Europe and Northern America,2017,2017,16.74317,Female
+40642,Europe and Northern America,2018,2018,16.80888,Female
+40642,Europe and Northern America,2019,2019,16.82976,Female
+40642,Europe and Northern America,2020,2020,16.82016,Female
+40642,Europe and Northern America,2021,2021,16.90605,Female
+40642,Europe and Northern America,2022,2022,16.93663,Female
+ZAF,South Africa,2017,2017,14.73662,Female
+ZAF,South Africa,2018,2018,14.51227,Female
+ZAF,South Africa,2019,2019,14.65775,Female
+ZAF,South Africa,2020,2020,14.45914,Female
+ZAF,South Africa,2021,2021,14.67354,Female
+CAN,Canada,2017,2017,15.51483,Female
+CAN,Canada,2018,2018,15.465,Female
+CAN,Canada,2019,2019,15.45999,Female
+CAN,Canada,2020,2020,15.44533,Female
+CAN,Canada,2021,2021,15.41637,Female
+MAC,"China, Macao Special Administrative Region",2017,2017,15.06247,Female
+MAC,"China, Macao Special Administrative Region",2018,2018,14.51895,Female
+MAC,"China, Macao Special Administrative Region",2019,2019,14.31397,Female
+MAC,"China, Macao Special Administrative Region",2020,2020,14.25944,Female
+MAC,"China, Macao Special Administrative Region",2021,2021,14.61013,Female
+MAC,"China, Macao Special Administrative Region",2022,2022,15.37581,Female
+MNE,Montenegro,2017,2017,15.22664,Female
+MNE,Montenegro,2018,2018,15.20136,Female
+MNE,Montenegro,2019,2019,15.30406,Female
+MNE,Montenegro,2020,2020,15.50765,Female
+MNE,Montenegro,2021,2021,15.60671,Female
+MNE,Montenegro,2022,2022,15.55859,Female
+CRI,Costa Rica,2017,2017,14.48884,Female
+CRI,Costa Rica,2018,2018,14.71294,Female
+CRI,Costa Rica,2019,2019,15.31027,Female
+MDA,Republic of Moldova,2017,2017,14.56888,Female
+MDA,Republic of Moldova,2018,2018,14.66278,Female
+MDA,Republic of Moldova,2019,2019,14.69075,Female
+MDA,Republic of Moldova,2020,2020,14.88332,Female
+MDA,Republic of Moldova,2021,2021,15.16406,Female
+MDA,Republic of Moldova,2022,2022,15.38689,Female
+40651,Australia and New Zealand,2017,2017,20.84443,Female
+40651,Australia and New Zealand,2018,2018,19.44404,Female
+40651,Australia and New Zealand,2019,2019,20.44156,Female
+40651,Australia and New Zealand,2020,2020,19.90826,Female
+40651,Australia and New Zealand,2021,2021,20.02928,Female
+40651,Australia and New Zealand,2022,2022,20.02766,Female
+VGB,British Virgin Islands,2021,2021,17.68369,Female
+VGB,British Virgin Islands,2022,2022,14.08058,Female
+AFG,Afghanistan,2018,2018,7.98703,Female
+SVN,Slovenia,2017,2017,18.23362,Female
+SVN,Slovenia,2018,2018,18.21603,Female
+SVN,Slovenia,2019,2019,18.16566,Female
+SVN,Slovenia,2020,2020,18.13762,Female
+SVN,Slovenia,2021,2021,18.34461,Female
+SVN,Slovenia,2022,2022,18.3978,Female
+GEO,Georgia,2017,2017,15.812,Female
+GEO,Georgia,2018,2018,15.99838,Female
+GEO,Georgia,2019,2019,16.39799,Female
+GEO,Georgia,2020,2020,16.40266,Female
+GEO,Georgia,2021,2021,16.78897,Female
+GEO,Georgia,2022,2022,17.00892,Female
+NER,Niger,2017,2017,7.38756,Female
+THA,Thailand,2020,2020,15.13755,Female
+KAZ,Kazakhstan,2017,2017,14.49908,Female
+KAZ,Kazakhstan,2018,2018,14.61267,Female
+KAZ,Kazakhstan,2019,2019,14.86221,Female
+KAZ,Kazakhstan,2020,2020,15.02603,Female
+SAU,Saudi Arabia,2017,2017,16.65029,Female
+SAU,Saudi Arabia,2018,2018,16.69643,Female
+SAU,Saudi Arabia,2019,2019,16.63847,Female
+SAU,Saudi Arabia,2020,2020,16.32858,Female
+SAU,Saudi Arabia,2021,2021,16.18786,Female
+SAU,Saudi Arabia,2022,2022,17.86843,Female
+40618,Central and Southern Asia,2017,2017,11.22342,Female
+40618,Central and Southern Asia,2018,2018,11.06548,Female
+40618,Central and Southern Asia,2019,2019,11.06901,Female
+40618,Central and Southern Asia,2020,2020,11.38202,Female
+40618,Central and Southern Asia,2021,2021,11.59651,Female
+40618,Central and Southern Asia,2022,2022,11.93108,Female
+MEX,Mexico,2017,2017,14.6329,Female
+MEX,Mexico,2018,2018,14.64509,Female
+MEX,Mexico,2019,2019,14.62077,Female
+MEX,Mexico,2020,2020,14.46677,Female
+MEX,Mexico,2021,2021,14.053,Female
+MEX,Mexico,2022,2022,13.9166,Female
+BHR,Bahrain,2017,2017,15.48459,Female
+BHR,Bahrain,2018,2018,15.80702,Female
+BHR,Bahrain,2019,2019,16.14518,Female
+BHR,Bahrain,2022,2022,15.73036,Female
+40344,Small Island Developing States,2017,2017,11.67044,Female
+40344,Small Island Developing States,2018,2018,11.71019,Female
+40344,Small Island Developing States,2019,2019,11.7559,Female
+40344,Small Island Developing States,2020,2020,11.68967,Female
+HUN,Hungary,2017,2017,15.59085,Female
+HUN,Hungary,2018,2018,15.48612,Female
+HUN,Hungary,2019,2019,15.3533,Female
+HUN,Hungary,2020,2020,15.38947,Female
+HUN,Hungary,2021,2021,15.42618,Female
+40330,Landlocked Developing Countries,2017,2017,10.15666,Female
+40330,Landlocked Developing Countries,2018,2018,10.22621,Female
+40330,Landlocked Developing Countries,2019,2019,10.26706,Female
+MDG,Madagascar,2018,2018,9.93807,Female
+MDG,Madagascar,2019,2019,9.4649,Female
+LSO,Lesotho,2017,2017,11.67891,Female
+GHA,Ghana,2017,2017,11.26283,Female
+GHA,Ghana,2018,2018,11.18617,Female
+GHA,Ghana,2019,2019,11.45855,Female
+GHA,Ghana,2020,2020,11.55268,Female
+GHA,Ghana,2021,2021,11.68865,Female
+GHA,Ghana,2022,2022,11.51691,Female
+SVK,Slovakia,2017,2017,14.07819,Female
+SVK,Slovakia,2018,2018,14.03665,Female
+SVK,Slovakia,2019,2019,14.00949,Female
+SVK,Slovakia,2020,2020,14.06161,Female
+SVK,Slovakia,2021,2021,14.19749,Female
+SVK,Slovakia,2022,2022,14.39934,Female
+IRL,Ireland,2017,2017,18.62423,Female
+IRL,Ireland,2018,2018,19.26097,Female
+IRL,Ireland,2019,2019,18.64552,Female
+IRL,Ireland,2020,2020,18.44169,Female
+IRL,Ireland,2021,2021,18.77158,Female
+TZA,United Republic of Tanzania,2017,2017,7.99015,Female
+TZA,United Republic of Tanzania,2019,2019,8.76623,Female
+TZA,United Republic of Tanzania,2021,2021,8.72376,Female
+40515,East Asia and the Pacific,2017,2017,13.94182,Female
+40515,East Asia and the Pacific,2018,2018,14.06322,Female
+40515,East Asia and the Pacific,2019,2019,14.27354,Female
+40515,East Asia and the Pacific,2020,2020,14.4658,Female
+40515,East Asia and the Pacific,2021,2021,14.69742,Female
+40515,East Asia and the Pacific,2022,2022,14.87598,Female
+40540,Sub-Saharan Africa,2017,2017,8.80973,Female
+40613,South-Eastern Asia,2017,2017,13.23715,Female
+40613,South-Eastern Asia,2018,2018,13.28307,Female
+40613,South-Eastern Asia,2019,2019,13.35684,Female
+40613,South-Eastern Asia,2020,2020,13.35691,Female
+40613,South-Eastern Asia,2021,2021,13.5433,Female
+40614,Western Asia,2017,2017,12.41981,Female
+40614,Western Asia,2018,2018,12.60019,Female
+40614,Western Asia,2019,2019,12.71702,Female
+40614,Western Asia,2020,2020,12.84301,Female
+40614,Western Asia,2021,2021,12.99145,Female
+40614,Western Asia,2022,2022,13.03331,Female
+BGR,Bulgaria,2017,2017,14.41951,Female
+BGR,Bulgaria,2018,2018,14.30073,Female
+BGR,Bulgaria,2019,2019,14.00138,Female
+BGR,Bulgaria,2020,2020,13.79266,Female
+BGR,Bulgaria,2021,2021,13.62206,Female
+BLZ,Belize,2017,2017,13.55812,Female
+BLZ,Belize,2018,2018,13.61111,Female
+BLZ,Belize,2019,2019,13.65922,Female
+BLZ,Belize,2020,2020,13.55454,Female
+BLZ,Belize,2021,2021,13.19169,Female
+BLZ,Belize,2022,2022,12.80862,Female
+MKD,North Macedonia,2017,2017,12.95032,Female
+MKD,North Macedonia,2018,2018,12.81453,Female
+MKD,North Macedonia,2019,2019,12.53417,Female
+MKD,North Macedonia,2020,2020,12.50205,Female
+MKD,North Macedonia,2021,2021,12.60997,Female
+MKD,North Macedonia,2022,2022,12.67132,Female
+40041,High income countries,2017,2017,16.12171,Female
+40041,High income countries,2018,2018,16.06721,Female
+40041,High income countries,2019,2019,16.09518,Female
+40041,High income countries,2020,2020,16.08562,Female
+40041,High income countries,2021,2021,16.04986,Female
+40041,High income countries,2022,2022,16.07404,Female
+SWE,Sweden,2017,2017,19.91831,Female
+SWE,Sweden,2018,2018,20.06899,Female
+SWE,Sweden,2019,2019,19.78601,Female
+SWE,Sweden,2020,2020,20.07491,Female
+SWE,Sweden,2021,2021,20.65983,Female
+SWE,Sweden,2022,2022,20.70726,Female
+CIV,Côte d'Ivoire,2017,2017,10.24315,Female
+CIV,Côte d'Ivoire,2019,2019,10.54879,Female
+CIV,Côte d'Ivoire,2020,2020,10.6576,Female
+VAT,Holy See,2017,2017,,Female
+VAT,Holy See,2018,2018,,Female
+VAT,Holy See,2019,2019,,Female
+VAT,Holy See,2020,2020,,Female
+VAT,Holy See,2021,2021,,Female
+VAT,Holy See,2022,2022,,Female
+VAT,Holy See,2023,2023,,Female
+PER,Peru,2017,2017,14.47679,Female
+40620,Europe,2017,2017,16.45432,Female
+40620,Europe,2018,2018,16.57084,Female
+40620,Europe,2019,2019,16.58843,Female
+40620,Europe,2020,2020,16.58449,Female
+40620,Europe,2021,2021,16.74366,Female
+40620,Europe,2022,2022,16.75818,Female
+ALB,Albania,2017,2017,15.53131,Female
+ALB,Albania,2018,2018,15.36147,Female
+ALB,Albania,2019,2019,15.43577,Female
+ALB,Albania,2020,2020,15.01956,Female
+ALB,Albania,2021,2021,14.84925,Female
+ALB,Albania,2022,2022,14.68104,Female
+40510,World,2017,2017,12.17206,Female
+40510,World,2018,2018,12.18544,Female
+40510,World,2019,2019,12.22309,Female
+40510,World,2020,2020,12.38885,Female
+40510,World,2021,2021,12.46197,Female
+40510,World,2022,2022,12.58707,Female
+MRT,Mauritania,2017,2017,8.17936,Female
+MRT,Mauritania,2018,2018,8.56948,Female
+MRT,Mauritania,2019,2019,8.69101,Female
+MRT,Mauritania,2020,2020,7.95745,Female
+SEN,Senegal,2019,2019,9.36251,Female
+SEN,Senegal,2020,2020,9.57515,Female
+SEN,Senegal,2021,2021,9.71004,Female
+SEN,Senegal,2022,2022,9.88596,Female
+MUS,Mauritius,2017,2017,15.37428,Female
+MUS,Mauritius,2018,2018,15.37549,Female
+MUS,Mauritius,2019,2019,15.34187,Female
+MUS,Mauritius,2020,2020,15.18283,Female
+NLD,Netherlands,2017,2017,18.15489,Female
+NLD,Netherlands,2018,2018,18.11558,Female
+NLD,Netherlands,2020,2020,18.12661,Female
+NLD,Netherlands,2021,2021,18.23271,Female
+QAT,Qatar,2017,2017,14.93775,Female
+QAT,Qatar,2018,2018,14.95256,Female
+QAT,Qatar,2019,2019,15.16505,Female
+QAT,Qatar,2020,2020,15.28956,Female
+MYS,Malaysia,2017,2017,12.94913,Female
+MYS,Malaysia,2018,2018,12.71047,Female
+MYS,Malaysia,2019,2019,12.64428,Female
+MYS,Malaysia,2020,2020,12.50049,Female
+MYS,Malaysia,2021,2021,12.49646,Female
+CRI,Costa Rica,2017,2017,15.66827,Female
+CRI,Costa Rica,2018,2018,15.77196,Female
+CRI,Costa Rica,2019,2019,16.3951,Female
+EST,Estonia,2017,2017,15.06387,Female
+EST,Estonia,2018,2018,14.99603,Female
+EST,Estonia,2019,2019,14.97369,Female
+EST,Estonia,2020,2020,14.99682,Female
+EST,Estonia,2021,2021,15.13871,Female
+EST,Estonia,2022,2022,15.1443,Female
+40606,Sub-Saharan Africa,2017,2017,8.80366,Female
+MNG,Mongolia,2019,2019,13.76214,Female
+ISL,Iceland,2017,2017,19.8511,Female
+ISL,Iceland,2018,2018,19.61598,Female
+ISL,Iceland,2019,2019,19.42679,Female
+ISL,Iceland,2020,2020,19.46157,Female
+ISL,Iceland,2021,2021,20.50426,Female
+DNK,Denmark,2017,2017,19.45062,Female
+DNK,Denmark,2018,2018,19.3261,Female
+DNK,Denmark,2019,2019,19.21278,Female
+DNK,Denmark,2020,2020,19.25827,Female
+DNK,Denmark,2021,2021,19.37519,Female
+DNK,Denmark,2022,2022,19.32867,Female
+40619,Eastern and South-Eastern Asia,2017,2017,13.33679,Female
+40619,Eastern and South-Eastern Asia,2018,2018,13.44216,Female
+40619,Eastern and South-Eastern Asia,2019,2019,13.57716,Female
+40619,Eastern and South-Eastern Asia,2020,2020,13.79822,Female
+40619,Eastern and South-Eastern Asia,2021,2021,14.04912,Female
+40619,Eastern and South-Eastern Asia,2022,2022,14.24518,Female
+MOZ,Mozambique,2017,2017,10.85025,Female
+40500,North America and Western Europe,2017,2017,17.31182,Female
+40500,North America and Western Europe,2018,2018,17.31829,Female
+40500,North America and Western Europe,2019,2019,17.35273,Female
+40500,North America and Western Europe,2020,2020,17.37531,Female
+40500,North America and Western Europe,2021,2021,17.46155,Female
+40500,North America and Western Europe,2022,2022,17.49509,Female
+CHL,Chile,2017,2017,16.76624,Female
+CHL,Chile,2018,2018,16.86311,Female
+CHL,Chile,2019,2019,16.8846,Female
+CHL,Chile,2020,2020,16.57752,Female
+CHL,Chile,2021,2021,17.08077,Female
+CHL,Chile,2022,2022,17.18331,Female
+SRB,Serbia,2017,2017,14.46343,Female
+SRB,Serbia,2018,2018,14.39917,Female
+SRB,Serbia,2019,2019,14.30753,Female
+SRB,Serbia,2020,2020,14.04029,Female
+SRB,Serbia,2021,2021,13.98247,Female
+SRB,Serbia,2022,2022,13.29494,Female
+40675,World,2017,2017,12.17206,Female
+40675,World,2018,2018,12.18544,Female
+40675,World,2019,2019,12.22309,Female
+40675,World,2020,2020,12.38885,Female
+40675,World,2021,2021,12.46197,Female
+40675,World,2022,2022,12.58707,Female
+IND,India,2017,2017,12.86585,Female
+IND,India,2018,2018,11.85295,Female
+IND,India,2019,2019,11.83324,Female
+IND,India,2020,2020,12.083,Female
+IND,India,2021,2021,12.31828,Female
+IND,India,2022,2022,12.92634,Female
+IND,India,2023,2023,12.83378,Female
+KOR,Republic of Korea,2017,2017,16.8981,Female
+KOR,Republic of Korea,2018,2018,16.80244,Female
+KOR,Republic of Korea,2019,2019,16.75326,Female
+KOR,Republic of Korea,2020,2020,16.7398,Female
+KOR,Republic of Korea,2021,2021,16.84387,Female
+KOR,Republic of Korea,2022,2022,16.91987,Female
+GRC,Greece,2017,2017,18.88993,Female
+GRC,Greece,2018,2018,19.18727,Female
+GRC,Greece,2019,2019,19.58317,Female
+GRC,Greece,2020,2020,19.54765,Female
+GRC,Greece,2021,2021,19.89186,Female
+ARG,Argentina,2017,2017,16.47525,Female
+ARG,Argentina,2018,2018,16.46805,Female
+ARG,Argentina,2019,2019,16.61041,Female
+ARG,Argentina,2020,2020,16.75852,Female
+ARG,Argentina,2021,2021,17.13033,Female
+RWA,Rwanda,2017,2017,11.07409,Female
+RWA,Rwanda,2018,2018,10.76707,Female
+RWA,Rwanda,2019,2019,10.82271,Female
+RWA,Rwanda,2022,2022,11.28066,Female
+40616,Southern Asia,2017,2017,11.36289,Female
+40616,Southern Asia,2018,2018,10.78044,Female
+40616,Southern Asia,2019,2019,10.87352,Female
+40616,Southern Asia,2020,2020,11.06459,Female
+40616,Southern Asia,2021,2021,11.23637,Female
+40616,Southern Asia,2022,2022,11.647,Female
+CYP,Cyprus,2017,2017,15.27492,Female
+CYP,Cyprus,2018,2018,15.60838,Female
+CYP,Cyprus,2019,2019,15.96283,Female
+CYP,Cyprus,2020,2020,16.07854,Female
+CYP,Cyprus,2021,2021,15.84014,Female
+PSE,Palestine,2017,2017,13.98661,Female
+PSE,Palestine,2018,2018,14.01313,Female
+PSE,Palestine,2019,2019,14.024,Female
+PSE,Palestine,2020,2020,13.98743,Female
+PSE,Palestine,2021,2021,13.90925,Female
+PSE,Palestine,2022,2022,13.95714,Female
+40042,Lower middle income countries,2017,2017,10.96823,Female
+40042,Lower middle income countries,2018,2018,10.88681,Female
+40042,Lower middle income countries,2019,2019,10.92591,Female
+40042,Lower middle income countries,2020,2020,11.13515,Female
+40042,Lower middle income countries,2021,2021,11.28035,Female
+40042,Lower middle income countries,2022,2022,11.46012,Female
+BTN,Bhutan,2018,2018,13.41145,Female
+IDN,Indonesia,2017,2017,13.65792,Female
+IDN,Indonesia,2018,2018,13.71538,Female
+DZA,Algeria,2022,2022,14.74388,Female
+TGO,Togo,2017,2017,11.49271,Female
+40651,Australia and New Zealand,2017,2017,21.89015,Female
+40651,Australia and New Zealand,2018,2018,20.72389,Female
+40651,Australia and New Zealand,2019,2019,21.68706,Female
+40651,Australia and New Zealand,2020,2020,21.39726,Female
+40651,Australia and New Zealand,2021,2021,21.68283,Female
+40651,Australia and New Zealand,2022,2022,21.67509,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2017,2017,17.95723,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2018,2018,17.70611,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,2019,17.76353,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2020,2020,17.77357,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2021,2021,18.20904,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2022,2022,18.31003,Female
+ARE,United Arab Emirates,2017,2017,13.49002,Female
+ARE,United Arab Emirates,2020,2020,16.3799,Female
+MAR,Morocco,2017,2017,12.70623,Female
+MAR,Morocco,2018,2018,12.97946,Female
+MAR,Morocco,2019,2019,13.31498,Female
+MAR,Morocco,2020,2020,13.64076,Female
+MAR,Morocco,2021,2021,13.88286,Female
+MAR,Morocco,2022,2022,14.49855,Female
+AUT,Austria,2017,2017,15.59511,Female
+AUT,Austria,2018,2018,15.68981,Female
+AUT,Austria,2019,2019,15.72529,Female
+AUT,Austria,2020,2020,15.74914,Female
+AUT,Austria,2021,2021,15.92267,Female
+BWA,Botswana,2021,2021,11.77284,Female
+LVA,Latvia,2017,2017,17.20125,Female
+LVA,Latvia,2018,2018,17.34582,Female
+LVA,Latvia,2019,2019,17.1952,Female
+LVA,Latvia,2020,2020,17.11668,Female
+LVA,Latvia,2021,2021,17.25187,Female
+LVA,Latvia,2022,2022,17.25741,Female
+CUB,Cuba,2017,2017,14.51898,Female
+CUB,Cuba,2018,2018,14.63139,Female
+CUB,Cuba,2019,2019,14.85701,Female
+CUB,Cuba,2020,2020,15.08477,Female
+CUB,Cuba,2021,2021,15.26216,Female
+MLT,Malta,2017,2017,15.15166,Female
+MLT,Malta,2018,2018,15.33938,Female
+MLT,Malta,2019,2019,15.17081,Female
+MLT,Malta,2020,2020,15.01054,Female
+MLT,Malta,2021,2021,15.20273,Female
+MLT,Malta,2022,2022,15.28345,Female
+EGY,Egypt,2017,2017,12.10347,Female
+EGY,Egypt,2018,2018,12.38981,Female
+EGY,Egypt,2020,2020,12.79423,Female
+SMR,San Marino,2018,2018,11.57508,Female
+SMR,San Marino,2019,2019,11.78252,Female
+SMR,San Marino,2020,2020,11.85292,Female
+SMR,San Marino,2021,2021,12.08227,Female
+SMR,San Marino,2022,2022,11.98106,Female
+40640,Northern America ,2017,2017,15.97477,Female
+40640,Northern America ,2018,2018,15.92745,Female
+40640,Northern America ,2019,2019,15.89406,Female
+40640,Northern America ,2020,2020,15.89834,Female
+40640,Northern America ,2021,2021,15.57009,Female
+40640,Northern America ,2022,2022,15.64502,Female
+BRA,Brazil,2017,2017,15.02129,Female
+BRA,Brazil,2018,2018,15.09226,Female
+BRA,Brazil,2019,2019,14.98781,Female
+BRA,Brazil,2020,2020,14.97253,Female
+BRA,Brazil,2021,2021,14.95002,Female
+USA,United States of America,2017,2017,16.02009,Female
+USA,United States of America,2018,2018,15.97396,Female
+USA,United States of America,2019,2019,15.93802,Female
+USA,United States of America,2020,2020,15.94387,Female
+USA,United States of America,2021,2021,15.58569,Female
+USA,United States of America,2022,2022,15.05385,Female
+BEL,Belgium,2017,2017,20.7676,Female
+BEL,Belgium,2018,2018,20.55916,Female
+BEL,Belgium,2019,2019,20.61998,Female
+BEL,Belgium,2020,2020,20.31362,Female
+BEL,Belgium,2021,2021,19.93109,Female
+POL,Poland,2017,2017,15.27369,Female
+POL,Poland,2018,2018,15.15309,Female
+POL,Poland,2019,2019,15.10784,Female
+POL,Poland,2020,2020,15.1181,Female
+POL,Poland,2021,2021,15.19221,Female
+POL,Poland,2022,2022,15.37729,Female
+40630,Latin America and the Caribbean,2017,2017,14.20789,Female
+40630,Latin America and the Caribbean,2018,2018,14.23805,Female
+40630,Latin America and the Caribbean,2019,2019,14.23362,Female
+40630,Latin America and the Caribbean,2020,2020,14.21128,Female
+40630,Latin America and the Caribbean,2021,2021,14.14923,Female
+40630,Latin America and the Caribbean,2022,2022,14.14981,Female
+LTU,Lithuania,2017,2017,17.32931,Female
+LTU,Lithuania,2018,2018,17.27771,Female
+LTU,Lithuania,2019,2019,16.98307,Female
+LTU,Lithuania,2020,2020,16.93458,Female
+LTU,Lithuania,2021,2021,17.05356,Female
+DEU,Germany,2017,2017,16.99616,Female
+DEU,Germany,2018,2018,17.03128,Female
+DEU,Germany,2019,2019,17.17854,Female
+DEU,Germany,2020,2020,17.22357,Female
+DEU,Germany,2021,2021,17.36998,Female
+BEN,Benin,2020,2020,11.12107,Female
+BEN,Benin,2021,2021,11.11866,Female
+PRI,Puerto Rico,2018,2018,16.73429,Female
+MNE,Montenegro,2017,2017,14.93637,Female
+MNE,Montenegro,2018,2018,15.01454,Female
+MNE,Montenegro,2019,2019,14.83263,Female
+MNE,Montenegro,2020,2020,14.91078,Female
+MNE,Montenegro,2021,2021,14.90963,Female
+MNE,Montenegro,2022,2022,14.63003,Female
+40619,Eastern and South-Eastern Asia,2017,2017,13.88107,Female
+40619,Eastern and South-Eastern Asia,2018,2018,14.01946,Female
+40619,Eastern and South-Eastern Asia,2019,2019,14.22214,Female
+40619,Eastern and South-Eastern Asia,2020,2020,14.4231,Female
+40619,Eastern and South-Eastern Asia,2021,2021,14.65389,Female
+40619,Eastern and South-Eastern Asia,2022,2022,14.83901,Female
+MMR,Myanmar,2018,2018,11.05974,Female
+MLI,Mali,2017,2017,6.46582,Female
+40344,Small Island Developing States,2017,2017,11.98011,Female
+40344,Small Island Developing States,2018,2018,12.03146,Female
+40344,Small Island Developing States,2019,2019,12.11713,Female
+40344,Small Island Developing States,2020,2020,12.06696,Female
+ZAF,South Africa,2017,2017,13.80505,Female
+ZAF,South Africa,2018,2018,13.6606,Female
+ZAF,South Africa,2019,2019,13.78166,Female
+ZAF,South Africa,2020,2020,13.52111,Female
+ZAF,South Africa,2021,2021,13.57099,Female
+NER,Niger,2017,2017,5.99354,Female
+40603,Northern Africa,2017,2017,12.13167,Female
+40603,Northern Africa,2018,2018,12.25848,Female
+40603,Northern Africa,2019,2019,12.41679,Female
+40603,Northern Africa,2020,2020,12.53047,Female
+40603,Northern Africa,2021,2021,12.59505,Female
+SVK,Slovakia,2017,2017,15.14685,Female
+SVK,Slovakia,2018,2018,15.07123,Female
+SVK,Slovakia,2019,2019,15.065,Female
+SVK,Slovakia,2020,2020,15.10183,Female
+SVK,Slovakia,2021,2021,15.27138,Female
+SVK,Slovakia,2022,2022,15.52244,Female
+MEX,Mexico,2017,2017,15.06762,Female
+MEX,Mexico,2018,2018,15.19629,Female
+MEX,Mexico,2019,2019,15.26714,Female
+MEX,Mexico,2020,2020,15.1789,Female
+MEX,Mexico,2021,2021,14.9595,Female
+MEX,Mexico,2022,2022,15.02457,Female
+40330,Landlocked Developing Countries,2017,2017,9.18628,Female
+40330,Landlocked Developing Countries,2018,2018,9.24484,Female
+40330,Landlocked Developing Countries,2019,2019,9.29572,Female
+LIE,Liechtenstein,2017,2017,16.2804,Female
+LIE,Liechtenstein,2018,2018,15.9973,Female
+LIE,Liechtenstein,2019,2019,16.51158,Female
+LIE,Liechtenstein,2020,2020,16.55512,Female
+LIE,Liechtenstein,2021,2021,16.43379,Female
+BLR,Belarus,2017,2017,15.23234,Female
+BLR,Belarus,2018,2018,14.7965,Female
+BLR,Belarus,2019,2019,14.42213,Female
+BLR,Belarus,2020,2020,14.27358,Female
+BLR,Belarus,2021,2021,14.23576,Female
+BLR,Belarus,2022,2022,13.91798,Female
+HUN,Hungary,2017,2017,14.91645,Female
+HUN,Hungary,2018,2018,14.86758,Female
+HUN,Hungary,2019,2019,14.72406,Female
+HUN,Hungary,2020,2020,14.74482,Female
+HUN,Hungary,2021,2021,14.73847,Female
+40030,Middle income countries,2017,2017,12.11809,Female
+40030,Middle income countries,2018,2018,12.13422,Female
+40030,Middle income countries,2019,2019,12.17852,Female
+40030,Middle income countries,2020,2020,12.3857,Female
+40030,Middle income countries,2021,2021,12.50691,Female
+40030,Middle income countries,2022,2022,12.68195,Female
+LKA,Sri Lanka,2017,2017,13.84747,Female
+LKA,Sri Lanka,2018,2018,14.02978,Female
+40505,Central Asia,2017,2017,12.7654,Female
+40505,Central Asia,2018,2018,12.85327,Female
+40505,Central Asia,2019,2019,13.04537,Female
+40505,Central Asia,2020,2020,12.95203,Female
+40505,Central Asia,2021,2021,13.04789,Female
+40505,Central Asia,2022,2022,13.07705,Female
+CPV,Cabo Verde,2017,2017,12.43094,Female
+CPV,Cabo Verde,2018,2018,12.16748,Female
+LAO,Lao People's Democratic Republic,2017,2017,11.22845,Female
+LAO,Lao People's Democratic Republic,2018,2018,10.86178,Female
+LAO,Lao People's Democratic Republic,2019,2019,10.73067,Female
+LAO,Lao People's Democratic Republic,2020,2020,10.36781,Female
+IRN,Iran (Islamic Republic of),2017,2017,14.65385,Female
+IRN,Iran (Islamic Republic of),2020,2020,14.06775,Female
+CZE,Czechia,2017,2017,15.95336,Female
+CZE,Czechia,2018,2018,15.60973,Female
+CZE,Czechia,2019,2019,15.57077,Female
+CZE,Czechia,2020,2020,15.58689,Female
+CZE,Czechia,2021,2021,15.79063,Female
+40535,South and West Asia,2017,2017,11.16549,Female
+40535,South and West Asia,2018,2018,10.99643,Female
+40535,South and West Asia,2019,2019,10.99246,Female
+40535,South and West Asia,2020,2020,11.31686,Female
+40535,South and West Asia,2021,2021,11.53943,Female
+40535,South and West Asia,2022,2022,11.88714,Female
+COL,Colombia,2017,2017,14.47853,Female
+COL,Colombia,2018,2018,14.39854,Female
+COL,Colombia,2019,2019,14.32801,Female
+COL,Colombia,2020,2020,14.08671,Female
+COL,Colombia,2021,2021,14.2067,Female
+COL,Colombia,2022,2022,14.03887,Female
+USA,United States of America,2017,2017,17.34075,Female
+USA,United States of America,2018,2018,17.32986,Female
+USA,United States of America,2019,2019,17.35239,Female
+USA,United States of America,2020,2020,17.32647,Female
+USA,United States of America,2021,2021,17.26275,Female
+USA,United States of America,2022,2022,16.8248,Female
+MOZ,Mozambique,2017,2017,9.88063,Female
+BRN,Brunei Darussalam,2017,2017,14.51861,Female
+BRN,Brunei Darussalam,2018,2018,14.3637,Female
+BRN,Brunei Darussalam,2019,2019,14.23845,Female
+BRN,Brunei Darussalam,2020,2020,14.17734,Female
+ESP,Spain,2017,2017,17.06411,Female
+ESP,Spain,2018,2018,17.06297,Female
+ESP,Spain,2019,2019,16.99622,Female
+ESP,Spain,2020,2020,16.92847,Female
+ESP,Spain,2021,2021,17.20244,Female
+40650,Oceania,2017,2017,16.38897,Female
+40650,Oceania,2018,2018,15.66905,Female
+40650,Oceania,2019,2019,16.20526,Female
+40650,Oceania,2020,2020,15.87943,Female
+40650,Oceania,2021,2021,15.93973,Female
+40650,Oceania,2022,2022,15.8729,Female
+UKR,Ukraine,2017,2017,13.90827,Female
+UKR,Ukraine,2018,2018,13.86776,Female
+UKR,Ukraine,2019,2019,13.95524,Female
+UKR,Ukraine,2020,2020,13.77739,Female
+UKR,Ukraine,2021,2021,13.54051,Female
+MAC,"China, Macao Special Administrative Region",2017,2017,16.37515,Female
+MAC,"China, Macao Special Administrative Region",2018,2018,15.57616,Female
+MAC,"China, Macao Special Administrative Region",2019,2019,15.2303,Female
+MAC,"China, Macao Special Administrative Region",2020,2020,15.15287,Female
+MAC,"China, Macao Special Administrative Region",2021,2021,15.43617,Female
+MAC,"China, Macao Special Administrative Region",2022,2022,16.07115,Female
+GHA,Ghana,2017,2017,10.7045,Female
+GHA,Ghana,2018,2018,10.72536,Female
+GHA,Ghana,2019,2019,11.11997,Female
+GHA,Ghana,2020,2020,11.30471,Female
+GHA,Ghana,2021,2021,11.4823,Female
+GHA,Ghana,2022,2022,11.31787,Female
+LCA,Saint Lucia,2017,2017,12.97766,Female
+LCA,Saint Lucia,2018,2018,12.93203,Female
+LCA,Saint Lucia,2019,2019,12.12052,Female
+LCA,Saint Lucia,2020,2020,12.09832,Female
+LCA,Saint Lucia,2022,2022,12.05116,Female
+MDA,Republic of Moldova,2017,2017,14.02159,Female
+MDA,Republic of Moldova,2018,2018,14.11803,Female
+MDA,Republic of Moldova,2019,2019,14.25891,Female
+MDA,Republic of Moldova,2020,2020,14.20628,Female
+MDA,Republic of Moldova,2021,2021,14.39,Female
+MDA,Republic of Moldova,2022,2022,14.443,Female
+40612,Central Asia,2017,2017,12.65502,Female
+40612,Central Asia,2018,2018,12.73106,Female
+40612,Central Asia,2019,2019,12.85795,Female
+40612,Central Asia,2020,2020,12.82796,Female
+40612,Central Asia,2021,2021,12.8442,Female
+40612,Central Asia,2022,2022,12.89107,Female
+VGB,British Virgin Islands,2021,2021,16.30032,Female
+VGB,British Virgin Islands,2022,2022,13.40863,Female
+CAN,Canada,2017,2017,16.51124,Female
+CAN,Canada,2018,2018,16.43121,Female
+CAN,Canada,2019,2019,16.43435,Female
+CAN,Canada,2020,2020,16.47273,Female
+CAN,Canada,2021,2021,16.53594,Female
+BGD,Bangladesh,2017,2017,10.65233,Female
+BGD,Bangladesh,2018,2018,11.15711,Female
+BGD,Bangladesh,2020,2020,11.50172,Female
+LUX,Luxembourg,2017,2017,13.98403,Female
+LUX,Luxembourg,2018,2018,14.05132,Female
+LUX,Luxembourg,2019,2019,14.12903,Female
+LUX,Luxembourg,2020,2020,14.11478,Female
+LUX,Luxembourg,2021,2021,14.08836,Female
+SVN,Slovenia,2017,2017,16.75787,Female
+SVN,Slovenia,2018,2018,16.72535,Female
+SVN,Slovenia,2019,2019,16.56487,Female
+SVN,Slovenia,2020,2020,16.49482,Female
+SVN,Slovenia,2021,2021,16.58584,Female
+SVN,Slovenia,2022,2022,16.66216,Female
+SAU,Saudi Arabia,2017,2017,15.04058,Female
+SAU,Saudi Arabia,2018,2018,15.21622,Female
+SAU,Saudi Arabia,2019,2019,15.54208,Female
+SAU,Saudi Arabia,2020,2020,15.38368,Female
+SAU,Saudi Arabia,2021,2021,15.48644,Female
+SAU,Saudi Arabia,2022,2022,16.3838,Female
+GRC,Greece,2017,2017,18.85395,Female
+GRC,Greece,2018,2018,19.2205,Female
+GRC,Greece,2019,2019,19.76819,Female
+GRC,Greece,2020,2020,19.82952,Female
+GRC,Greece,2021,2021,20.19032,Female
+ECU,Ecuador,2018,2018,14.4489,Female
+ECU,Ecuador,2019,2019,14.16719,Female
+ECU,Ecuador,2020,2020,14.44118,Female
+ITA,Italy,2017,2017,15.86068,Female
+ITA,Italy,2018,2018,15.98814,Female
+ITA,Italy,2019,2019,16.02843,Female
+ITA,Italy,2020,2020,16.09837,Female
+ITA,Italy,2021,2021,16.20886,Female
+BHR,Bahrain,2017,2017,16.91294,Female
+BHR,Bahrain,2018,2018,16.58231,Female
+BHR,Bahrain,2019,2019,16.98129,Female
+BHR,Bahrain,2022,2022,17.00641,Female
+LSO,Lesotho,2017,2017,10.97591,Female
+THA,Thailand,2020,2020,15.70824,Female
+EST,Estonia,2017,2017,16.60347,Female
+EST,Estonia,2018,2018,16.55525,Female
+EST,Estonia,2019,2019,16.5579,Female
+EST,Estonia,2020,2020,16.61121,Female
+EST,Estonia,2021,2021,16.80972,Female
+EST,Estonia,2022,2022,16.85848,Female
+40630,Latin America and the Caribbean,2017,2017,15.01532,Female
+40630,Latin America and the Caribbean,2018,2018,15.08706,Female
+40630,Latin America and the Caribbean,2019,2019,15.14667,Female
+40630,Latin America and the Caribbean,2020,2020,15.229,Female
+40630,Latin America and the Caribbean,2021,2021,15.33639,Female
+40630,Latin America and the Caribbean,2022,2022,15.32868,Female
+40618,Central and Southern Asia,2017,2017,11.4057,Female
+40618,Central and Southern Asia,2018,2018,10.85202,Female
+40618,Central and Southern Asia,2019,2019,10.95065,Female
+40618,Central and Southern Asia,2020,2020,11.13595,Female
+40618,Central and Southern Asia,2021,2021,11.30518,Female
+40618,Central and Southern Asia,2022,2022,11.69901,Female
+40334,Least Developed Countries,2017,2017,8.90789,Female
+40334,Least Developed Countries,2018,2018,9.04105,Female
+40334,Least Developed Countries,2019,2019,9.12944,Female
+MDG,Madagascar,2018,2018,9.82464,Female
+MDG,Madagascar,2019,2019,9.27724,Female
+NOR,Norway,2017,2017,18.78519,Female
+NOR,Norway,2018,2018,18.87774,Female
+NOR,Norway,2019,2019,18.96408,Female
+NOR,Norway,2020,2020,19.07895,Female
+NOR,Norway,2021,2021,19.52136,Female
+NPL,Nepal,2017,2017,12.41463,Female
+NPL,Nepal,2019,2019,12.55796,Female
+NPL,Nepal,2020,2020,12.46627,Female
+40520,Latin America and the Caribbean,2017,2017,14.20786,Female
+40520,Latin America and the Caribbean,2018,2018,14.23803,Female
+40520,Latin America and the Caribbean,2019,2019,14.23359,Female
+40520,Latin America and the Caribbean,2020,2020,14.21126,Female
+40520,Latin America and the Caribbean,2021,2021,14.14921,Female
+40520,Latin America and the Caribbean,2022,2022,14.14979,Female
+HKG,"China, Hong Kong Special Administrative Region",2017,2017,16.55104,Female
+HKG,"China, Hong Kong Special Administrative Region",2018,2018,16.84246,Female
+HKG,"China, Hong Kong Special Administrative Region",2019,2019,16.93955,Female
+HKG,"China, Hong Kong Special Administrative Region",2020,2020,17.12826,Female
+HKG,"China, Hong Kong Special Administrative Region",2021,2021,17.56233,Female
+HKG,"China, Hong Kong Special Administrative Region",2022,2022,17.33457,Female
+BEN,Benin,2020,2020,9.46247,Female
+BEN,Benin,2021,2021,9.60493,Female
+FRA,France,2017,2017,15.39769,Female
+FRA,France,2018,2018,15.49095,Female
+FRA,France,2019,2019,15.50574,Female
+FRA,France,2020,2020,15.54038,Female
+FRA,France,2021,2021,15.58458,Female
+FRA,France,2022,2022,15.61709,Female
+AFG,Afghanistan,2018,2018,12.96442,Female
+40525,Arab States,2017,2017,11.32022,Female
+40525,Arab States,2018,2018,11.49056,Female
+40525,Arab States,2019,2019,11.63272,Female
+40525,Arab States,2020,2020,11.70201,Female
+40525,Arab States,2021,2021,11.76952,Female
+CHE,Switzerland,2017,2017,16.15349,Female
+CHE,Switzerland,2018,2018,16.24296,Female
+CHE,Switzerland,2019,2019,16.34182,Female
+CHE,Switzerland,2020,2020,16.46333,Female
+CHE,Switzerland,2021,2021,16.67786,Female
+CHE,Switzerland,2022,2022,16.79875,Female
+PHL,Philippines,2017,2017,12.44195,Female
+PHL,Philippines,2018,2018,12.43434,Female
+PHL,Philippines,2019,2019,12.64123,Female
+PHL,Philippines,2020,2020,12.37481,Female
+GTM,Guatemala,2019,2019,10.6469,Female
+PAK,Pakistan,2017,2017,7.65513,Female
+PAK,Pakistan,2018,2018,7.95126,Female
+PAK,Pakistan,2019,2019,8.17716,Female
+HRV,Croatia,2017,2017,14.70589,Female
+HRV,Croatia,2018,2018,14.73092,Female
+HRV,Croatia,2019,2019,14.66767,Female
+HRV,Croatia,2020,2020,14.66011,Female
+HRV,Croatia,2021,2021,14.72341,Female
+BDI,Burundi,2017,2017,10.4845,Female
+BDI,Burundi,2018,2018,10.34485,Female
+40043,Upper middle income countries,2017,2017,14.46576,Female
+40043,Upper middle income countries,2018,2018,14.59896,Female
+40043,Upper middle income countries,2019,2019,14.77861,Female
+40043,Upper middle income countries,2020,2020,14.95696,Female
+40043,Upper middle income countries,2021,2021,15.15823,Female
+40043,Upper middle income countries,2022,2022,15.2822,Female
+MNG,Mongolia,2019,2019,15.28515,Female
+TON,Tonga,2020,2020,15.22015,Female
+PER,Peru,2017,2017,14.51192,Female
+KGZ,Kyrgyzstan,2017,2017,12.58061,Female
+KGZ,Kyrgyzstan,2018,2018,12.56332,Female
+KGZ,Kyrgyzstan,2019,2019,12.57027,Female
+KGZ,Kyrgyzstan,2020,2020,12.75383,Female
+KGZ,Kyrgyzstan,2021,2021,13.15699,Female
+40642,Europe and Northern America,2017,2017,15.82997,Female
+40642,Europe and Northern America,2018,2018,15.89151,Female
+40642,Europe and Northern America,2019,2019,15.88292,Female
+40642,Europe and Northern America,2020,2020,15.88723,Female
+40642,Europe and Northern America,2021,2021,15.81995,Female
+40642,Europe and Northern America,2022,2022,15.85483,Female
+OMN,Oman,2017,2017,14.92529,Female
+OMN,Oman,2018,2018,14.86847,Female
+OMN,Oman,2019,2019,14.64418,Female
+OMN,Oman,2020,2020,13.87254,Female
+OMN,Oman,2021,2021,13.46503,Female
+40617,Northern Africa and Western Asia,2017,2017,12.25902,Female
+40617,Northern Africa and Western Asia,2018,2018,12.45936,Female
+40617,Northern Africa and Western Asia,2019,2019,12.60146,Female
+40617,Northern Africa and Western Asia,2020,2020,12.71099,Female
+40617,Northern Africa and Western Asia,2021,2021,12.8232,Female
+MDV,Maldives,2019,2019,11.26266,Female
+AZE,Azerbaijan,2018,2018,13.2161,Female
+AZE,Azerbaijan,2019,2019,13.3343,Female
+AZE,Azerbaijan,2020,2020,12.54786,Female
+AZE,Azerbaijan,2021,2021,12.62805,Female
+AZE,Azerbaijan,2022,2022,12.74398,Female
+AUS,Australia,2017,2017,22.39792,Female
+AUS,Australia,2018,2018,21.00313,Female
+AUS,Australia,2019,2019,22.01021,Female
+AUS,Australia,2020,2020,21.73602,Female
+AUS,Australia,2021,2021,21.98143,Female
+AUS,Australia,2022,2022,21.48183,Female
+UZB,Uzbekistan,2017,2017,11.79387,Female
+UZB,Uzbekistan,2018,2018,12.00045,Female
+UZB,Uzbekistan,2019,2019,12.28444,Female
+UZB,Uzbekistan,2020,2020,12.0064,Female
+UZB,Uzbekistan,2021,2021,12.02127,Female
+40510,World,2017,2017,12.23558,Female
+40510,World,2018,2018,12.16072,Female
+40510,World,2019,2019,12.25032,Female
+40510,World,2020,2020,12.39123,Female
+40510,World,2021,2021,12.48,Female
+40510,World,2022,2022,12.61754,Female
+RUS,Russian Federation,2017,2017,15.09939,Female
+RUS,Russian Federation,2018,2018,15.73216,Female
+RUS,Russian Federation,2019,2019,15.73413,Female
+RUS,Russian Federation,2020,2020,13.60529,Female
+RUS,Russian Federation,2021,2021,13.5027,Female
+RUS,Russian Federation,2022,2022,13.41428,Female
+TUR,Türkiye,2017,2017,19.20394,Female
+TUR,Türkiye,2018,2018,19.3805,Female
+TUR,Türkiye,2019,2019,19.53996,Female
+TUR,Türkiye,2020,2020,19.51246,Female
+TUR,Türkiye,2021,2021,19.80444,Female
+FIN,Finland,2017,2017,20.21212,Female
+FIN,Finland,2018,2018,20.31839,Female
+FIN,Finland,2019,2019,19.8794,Female
+FIN,Finland,2020,2020,19.9711,Female
+FIN,Finland,2021,2021,20.25945,Female
+FIN,Finland,2022,2022,20.65835,Female
+SYC,Seychelles,2017,2017,12.30264,Female
+SYC,Seychelles,2018,2018,12.45769,Female
+SYC,Seychelles,2019,2019,12.30957,Female
+SYC,Seychelles,2020,2020,12.31721,Female
+SYC,Seychelles,2021,2021,12.42627,Female
+SYC,Seychelles,2022,2022,12.6085,Female
+40611,Eastern Asia,2017,2017,13.58757,Female
+40611,Eastern Asia,2018,2018,13.72707,Female
+40611,Eastern Asia,2019,2019,13.90701,Female
+40611,Eastern Asia,2020,2020,14.24687,Female
+40611,Eastern Asia,2021,2021,14.56986,Female
+40611,Eastern Asia,2022,2022,14.828,Female
+DOM,Dominican Republic,2017,2017,15.55697,Female
+DOM,Dominican Republic,2020,2020,15.36625,Female
+DOM,Dominican Republic,2021,2021,14.78892,Female
+BGD,Bangladesh,2017,2017,11.19708,Female
+BGD,Bangladesh,2018,2018,11.65119,Female
+BGD,Bangladesh,2020,2020,12.40667,Female
+40606,Sub-Saharan Africa,2017,2017,9.65678,Female
+IDN,Indonesia,2017,2017,13.80362,Female
+IDN,Indonesia,2018,2018,13.86205,Female
+MAR,Morocco,2017,2017,13.77802,Female
+MAR,Morocco,2018,2018,13.90754,Female
+MAR,Morocco,2019,2019,14.07904,Female
+MAR,Morocco,2020,2020,14.21162,Female
+MAR,Morocco,2021,2021,14.1926,Female
+MAR,Morocco,2022,2022,14.68884,Female
+URY,Uruguay,2021,2021,15.94714,Female
+40530,Central and Eastern Europe,2017,2017,15.73854,Female
+40530,Central and Eastern Europe,2018,2018,16.01401,Female
+40530,Central and Eastern Europe,2019,2019,16.06697,Female
+40530,Central and Eastern Europe,2020,2020,16.1078,Female
+40530,Central and Eastern Europe,2021,2021,16.14791,Female
+40530,Central and Eastern Europe,2022,2022,16.15014,Female
+MYS,Malaysia,2017,2017,13.62692,Female
+MYS,Malaysia,2018,2018,13.61396,Female
+MYS,Malaysia,2019,2019,13.58307,Female
+MYS,Malaysia,2020,2020,13.44345,Female
+MYS,Malaysia,2021,2021,13.39497,Female
+ARM,Armenia,2018,2018,13.58549,Female
+ARM,Armenia,2019,2019,13.7418,Female
+ARM,Armenia,2020,2020,13.76199,Female
+ARM,Armenia,2021,2021,14.13381,Female
+ARM,Armenia,2022,2022,14.02234,Female
+40520,Latin America and the Caribbean,2017,2017,15.01531,Female
+40520,Latin America and the Caribbean,2018,2018,15.08705,Female
+40520,Latin America and the Caribbean,2019,2019,15.14665,Female
+40520,Latin America and the Caribbean,2020,2020,15.22899,Female
+40520,Latin America and the Caribbean,2021,2021,15.33638,Female
+40520,Latin America and the Caribbean,2022,2022,15.32866,Female
+POL,Poland,2017,2017,16.86481,Female
+POL,Poland,2018,2018,16.73478,Female
+POL,Poland,2019,2019,16.66987,Female
+POL,Poland,2020,2020,16.59943,Female
+POL,Poland,2021,2021,16.70746,Female
+POL,Poland,2022,2022,17.04921,Female
+DEU,Germany,2017,2017,16.98592,Female
+DEU,Germany,2018,2018,17.05264,Female
+DEU,Germany,2019,2019,17.26806,Female
+DEU,Germany,2020,2020,17.22988,Female
+DEU,Germany,2021,2021,17.31983,Female
+MRT,Mauritania,2017,2017,7.9925,Female
+MRT,Mauritania,2018,2018,8.46513,Female
+MRT,Mauritania,2019,2019,8.76499,Female
+MRT,Mauritania,2020,2020,8.16034,Female
+EGY,Egypt,2017,2017,12.2233,Female
+EGY,Egypt,2018,2018,12.47455,Female
+EGY,Egypt,2020,2020,13.02345,Female
+CHL,Chile,2017,2017,16.30686,Female
+CHL,Chile,2018,2018,16.35615,Female
+CHL,Chile,2019,2019,16.40881,Female
+CHL,Chile,2020,2020,16.10942,Female
+CHL,Chile,2021,2021,16.46308,Female
+CHL,Chile,2022,2022,16.64814,Female
+TUR,Türkiye,2017,2017,18.12502,Female
+TUR,Türkiye,2018,2018,18.55944,Female
+TUR,Türkiye,2019,2019,18.82059,Female
+TUR,Türkiye,2020,2020,19.07266,Female
+TUR,Türkiye,2021,2021,19.56439,Female
+40500,North America and Western Europe,2017,2017,16.31402,Female
+40500,North America and Western Europe,2018,2018,16.29066,Female
+40500,North America and Western Europe,2019,2019,16.27867,Female
+40500,North America and Western Europe,2020,2020,16.27545,Female
+40500,North America and Western Europe,2021,2021,16.20212,Female
+40500,North America and Western Europe,2022,2022,16.2454,Female
+SRB,Serbia,2017,2017,15.48224,Female
+SRB,Serbia,2018,2018,15.49904,Female
+SRB,Serbia,2019,2019,15.43495,Female
+SRB,Serbia,2020,2020,15.21388,Female
+SRB,Serbia,2021,2021,15.27253,Female
+SRB,Serbia,2022,2022,14.62045,Female
+SMR,San Marino,2018,2018,12.27448,Female
+SMR,San Marino,2019,2019,12.43733,Female
+SMR,San Marino,2020,2020,13.01398,Female
+SMR,San Marino,2021,2021,12.83869,Female
+SMR,San Marino,2022,2022,12.88761,Female
+SGP,Singapore,2017,2017,16.87475,Female
+SGP,Singapore,2018,2018,16.9332,Female
+SGP,Singapore,2019,2019,16.91782,Female
+SGP,Singapore,2020,2020,16.92181,Female
+SGP,Singapore,2021,2021,17.03402,Female
+LAO,Lao People's Democratic Republic,2017,2017,10.66856,Female
+LAO,Lao People's Democratic Republic,2018,2018,10.3981,Female
+LAO,Lao People's Democratic Republic,2019,2019,10.27553,Female
+LAO,Lao People's Democratic Republic,2020,2020,10.00139,Female
+BRA,Brazil,2017,2017,15.79373,Female
+BRA,Brazil,2018,2018,15.91962,Female
+BRA,Brazil,2019,2019,15.91731,Female
+BRA,Brazil,2020,2020,15.9354,Female
+BRA,Brazil,2021,2021,16.22304,Female
+40041,High income countries,2017,2017,16.93869,Female
+40041,High income countries,2018,2018,16.91715,Female
+40041,High income countries,2019,2019,16.98348,Female
+40041,High income countries,2020,2020,16.97528,Female
+40041,High income countries,2021,2021,17.08529,Female
+40041,High income countries,2022,2022,17.11136,Female
+ISR,Israel,2017,2017,14.43557,Female
+ISR,Israel,2018,2018,14.36696,Female
+ISR,Israel,2019,2019,14.23538,Female
+ISR,Israel,2020,2020,14.30548,Female
+ISR,Israel,2021,2021,14.49588,Female
+PSE,Palestine,2017,2017,12.65168,Female
+PSE,Palestine,2018,2018,12.62984,Female
+PSE,Palestine,2019,2019,12.5719,Female
+PSE,Palestine,2020,2020,12.50302,Female
+PSE,Palestine,2021,2021,12.44565,Female
+PSE,Palestine,2022,2022,12.35841,Female
+BEL,Belgium,2017,2017,18.78293,Female
+BEL,Belgium,2018,2018,18.59174,Female
+BEL,Belgium,2019,2019,18.54634,Female
+BEL,Belgium,2020,2020,18.26886,Female
+BEL,Belgium,2021,2021,17.99295,Female
+CYP,Cyprus,2017,2017,15.74377,Female
+CYP,Cyprus,2018,2018,15.78167,Female
+CYP,Cyprus,2019,2019,16.07844,Female
+CYP,Cyprus,2020,2020,16.38664,Female
+CYP,Cyprus,2021,2021,16.64412,Female
+TZA,United Republic of Tanzania,2017,2017,7.94102,Female
+TZA,United Republic of Tanzania,2019,2019,8.63881,Female
+TZA,United Republic of Tanzania,2021,2021,8.45033,Female
+PAK,Pakistan,2017,2017,6.33755,Female
+PAK,Pakistan,2018,2018,6.61825,Female
+PAK,Pakistan,2019,2019,7.06352,Female
+40603,Northern Africa,2017,2017,12.09423,Female
+40603,Northern Africa,2018,2018,12.31721,Female
+40603,Northern Africa,2019,2019,12.48806,Female
+40603,Northern Africa,2020,2020,12.58339,Female
+40603,Northern Africa,2021,2021,12.66585,Female
+40550,Small Island Developing States,2017,2017,11.52341,Female
+40550,Small Island Developing States,2018,2018,11.57059,Female
+40550,Small Island Developing States,2019,2019,11.62405,Female
+40550,Small Island Developing States,2020,2020,11.55884,Female
+40550,Small Island Developing States,2021,2021,11.37839,Female
+KOR,Republic of Korea,2017,2017,15.87677,Female
+KOR,Republic of Korea,2018,2018,15.89699,Female
+KOR,Republic of Korea,2019,2019,15.94014,Female
+KOR,Republic of Korea,2020,2020,15.96579,Female
+KOR,Republic of Korea,2021,2021,16.13556,Female
+KOR,Republic of Korea,2022,2022,16.28393,Female
+AUT,Austria,2017,2017,16.31935,Female
+AUT,Austria,2018,2018,16.37926,Female
+AUT,Austria,2019,2019,16.45075,Female
+AUT,Austria,2020,2020,16.52214,Female
+AUT,Austria,2021,2021,16.8385,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2017,2017,16.87508,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2018,2018,16.60564,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,2019,16.60697,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2020,2020,16.5761,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2021,2021,17.05068,Female
+GBR,United Kingdom of Great Britain and Northern Ireland,2022,2022,16.91354,Female
+40613,South-Eastern Asia,2017,2017,12.89071,Female
+40613,South-Eastern Asia,2018,2018,12.9014,Female
+40613,South-Eastern Asia,2019,2019,12.97691,Female
+40613,South-Eastern Asia,2020,2020,12.95962,Female
+40613,South-Eastern Asia,2021,2021,13.12892,Female
+GEO,Georgia,2017,2017,15.81172,Female
+GEO,Georgia,2018,2018,16.01951,Female
+GEO,Georgia,2019,2019,16.29449,Female
+GEO,Georgia,2020,2020,16.15139,Female
+GEO,Georgia,2021,2021,16.39154,Female
+GEO,Georgia,2022,2022,16.46576,Female
+40614,Western Asia,2017,2017,13.27681,Female
+40614,Western Asia,2018,2018,13.39549,Female
+40614,Western Asia,2019,2019,13.49214,Female
+40614,Western Asia,2020,2020,13.55768,Female
+40614,Western Asia,2021,2021,13.67535,Female
+40614,Western Asia,2022,2022,13.71846,Female
+MKD,North Macedonia,2017,2017,13.42986,Female
+MKD,North Macedonia,2018,2018,13.29535,Female
+MKD,North Macedonia,2019,2019,13.13639,Female
+MKD,North Macedonia,2020,2020,13.14543,Female
+MKD,North Macedonia,2021,2021,13.429,Female
+MKD,North Macedonia,2022,2022,13.57856,Female
+RWA,Rwanda,2017,2017,11.1531,Female
+RWA,Rwanda,2018,2018,10.81149,Female
+RWA,Rwanda,2019,2019,10.88945,Female
+RWA,Rwanda,2022,2022,11.49433,Female
+ECU,Ecuador,2018,2018,15.01103,Female
+ECU,Ecuador,2019,2019,14.77847,Female
+ECU,Ecuador,2020,2020,15.30182,Female
+BLZ,Belize,2017,2017,12.94362,Female
+BLZ,Belize,2018,2018,12.99148,Female
+BLZ,Belize,2019,2019,12.97905,Female
+BLZ,Belize,2020,2020,12.79092,Female
+BLZ,Belize,2021,2021,12.55363,Female
+BLZ,Belize,2022,2022,12.05408,Female
+PRT,Portugal,2017,2017,16.2926,Female
+PRT,Portugal,2018,2018,16.33828,Female
+PRT,Portugal,2019,2019,16.41724,Female
+PRT,Portugal,2020,2020,16.46873,Female
+PRT,Portugal,2021,2021,16.57933,Female
+LCA,Saint Lucia,2017,2017,14.73552,Female
+LCA,Saint Lucia,2018,2018,14.57681,Female
+LCA,Saint Lucia,2019,2019,13.31603,Female
+LCA,Saint Lucia,2020,2020,13.29777,Female
+LCA,Saint Lucia,2022,2022,13.43453,Female
+AZE,Azerbaijan,2018,2018,13.43628,Female
+AZE,Azerbaijan,2019,2019,13.64858,Female
+AZE,Azerbaijan,2020,2020,12.72765,Female
+AZE,Azerbaijan,2021,2021,12.73447,Female
+AZE,Azerbaijan,2022,2022,12.67574,Female
+ROU,Romania,2017,2017,13.85111,Female
+ROU,Romania,2018,2018,13.94508,Female
+ROU,Romania,2019,2019,13.97002,Female
+ROU,Romania,2020,2020,14.82732,Female
+ROU,Romania,2021,2021,13.99918,Female
+VAT,Holy See,2017,2017,,Female
+VAT,Holy See,2018,2018,,Female
+VAT,Holy See,2019,2019,,Female
+VAT,Holy See,2020,2020,,Female
+VAT,Holy See,2021,2021,,Female
+VAT,Holy See,2022,2022,,Female
+VAT,Holy See,2023,2023,,Female
+MLT,Malta,2017,2017,15.91905,Female
+MLT,Malta,2018,2018,16.10957,Female
+MLT,Malta,2019,2019,16.1382,Female
+MLT,Malta,2020,2020,16.16622,Female
+MLT,Malta,2021,2021,16.61197,Female
+MLT,Malta,2022,2022,16.62427,Female
+ISL,Iceland,2017,2017,17.68963,Female
+ISL,Iceland,2018,2018,17.47699,Female
+ISL,Iceland,2019,2019,17.1559,Female
+ISL,Iceland,2020,2020,17.1394,Female
+ISL,Iceland,2021,2021,17.83466,Female
+NLD,Netherlands,2017,2017,18.65835,Female
+NLD,Netherlands,2018,2018,18.55822,Female
+NLD,Netherlands,2020,2020,18.70557,Female
+NLD,Netherlands,2021,2021,18.94419,Female
+BFA,Burkina Faso,2017,2017,8.84923,Female
+BFA,Burkina Faso,2018,2018,9.14273,Female
+BFA,Burkina Faso,2019,2019,9.04479,Female
+BFA,Burkina Faso,2020,2020,8.84642,Female
+BFA,Burkina Faso,2021,2021,8.72078,Female
+BFA,Burkina Faso,2022,2022,8.00153,Female
+LTU,Lithuania,2017,2017,16.38776,Female
+LTU,Lithuania,2018,2018,16.29754,Female
+LTU,Lithuania,2019,2019,16.01029,Female
+LTU,Lithuania,2020,2020,15.84598,Female
+LTU,Lithuania,2021,2021,15.7969,Female
+ESP,Spain,2017,2017,17.90936,Female
+ESP,Spain,2018,2018,17.98947,Female
+ESP,Spain,2019,2019,18.02186,Female
+ESP,Spain,2020,2020,18.03096,Female
+ESP,Spain,2021,2021,18.43926,Female
+DNK,Denmark,2017,2017,18.21694,Female
+DNK,Denmark,2018,2018,18.1355,Female
+DNK,Denmark,2019,2019,18.04604,Female
+DNK,Denmark,2020,2020,18.04153,Female
+DNK,Denmark,2021,2021,18.19271,Female
+DNK,Denmark,2022,2022,18.10002,Female
+LVA,Latvia,2017,2017,15.77667,Female
+LVA,Latvia,2018,2018,15.81379,Female
+LVA,Latvia,2019,2019,15.91833,Female
+LVA,Latvia,2020,2020,15.89343,Female
+LVA,Latvia,2021,2021,15.89213,Female
+LVA,Latvia,2022,2022,15.74544,Female
+40640,Northern America ,2017,2017,17.26617,Female
+40640,Northern America ,2018,2018,17.24803,Female
+40640,Northern America ,2019,2019,17.2684,Female
+40640,Northern America ,2020,2020,17.24871,Female
+40640,Northern America ,2021,2021,17.19686,Female
+40640,Northern America ,2022,2022,17.25669,Female
+40540,Sub-Saharan Africa,2017,2017,9.66575,Female
+40515,East Asia and the Pacific,2017,2017,13.39933,Female
+40515,East Asia and the Pacific,2018,2018,13.48616,Female
+40515,East Asia and the Pacific,2019,2019,13.63118,Female
+40515,East Asia and the Pacific,2020,2020,13.84135,Female
+40515,East Asia and the Pacific,2021,2021,14.09095,Female
+40515,East Asia and the Pacific,2022,2022,14.28085,Female
+KAZ,Kazakhstan,2017,2017,13.93867,Female
+KAZ,Kazakhstan,2018,2018,14.09527,Female
+KAZ,Kazakhstan,2019,2019,14.31106,Female
+KAZ,Kazakhstan,2020,2020,14.61164,Female
+BGR,Bulgaria,2017,2017,14.887,Female
+BGR,Bulgaria,2018,2018,14.70811,Female
+BGR,Bulgaria,2019,2019,14.52337,Female
+BGR,Bulgaria,2020,2020,14.29481,Female
+BGR,Bulgaria,2021,2021,14.12745,Female
+DZA,Algeria,2022,2022,16.26418,Female
+SWE,Sweden,2017,2017,17.86141,Female
+SWE,Sweden,2018,2018,17.77835,Female
+SWE,Sweden,2019,2019,17.32243,Female
+SWE,Sweden,2020,2020,17.30953,Female
+SWE,Sweden,2021,2021,17.51425,Female
+SWE,Sweden,2022,2022,17.38843,Female
+TGO,Togo,2017,2017,13.62176,Female
+ARE,United Arab Emirates,2017,2017,16.01968,Female
+ARE,United Arab Emirates,2020,2020,19.75328,Female
+40616,Southern Asia,2017,2017,11.16549,Female
+40616,Southern Asia,2018,2018,10.99643,Female
+40616,Southern Asia,2019,2019,10.99246,Female
+40616,Southern Asia,2020,2020,11.31686,Female
+40616,Southern Asia,2021,2021,11.53943,Female
+40616,Southern Asia,2022,2022,11.88714,Female
+ARG,Argentina,2017,2017,19.27321,Female
+ARG,Argentina,2018,2018,19.31156,Female
+ARG,Argentina,2019,2019,19.63069,Female
+ARG,Argentina,2020,2020,20.03861,Female
+ARG,Argentina,2021,2021,20.9149,Female
+NZL,New Zealand,2017,2017,17.55066,Female
+NZL,New Zealand,2018,2018,17.32427,Female
+NZL,New Zealand,2019,2019,18.90193,Female
+NZL,New Zealand,2020,2020,18.67567,Female
+NZL,New Zealand,2021,2021,19.19735,Female
+IRL,Ireland,2017,2017,18.79073,Female
+IRL,Ireland,2018,2018,20.23127,Female
+IRL,Ireland,2019,2019,19.2366,Female
+IRL,Ireland,2020,2020,19.22914,Female
+IRL,Ireland,2021,2021,19.4758,Female
+CIV,Côte d'Ivoire,2017,2017,8.68615,Female
+CIV,Côte d'Ivoire,2019,2019,9.27916,Female
+CIV,Côte d'Ivoire,2020,2020,9.53283,Female
+40675,World,2017,2017,12.23558,Female
+40675,World,2018,2018,12.16072,Female
+40675,World,2019,2019,12.25032,Female
+40675,World,2020,2020,12.39123,Female
+40675,World,2021,2021,12.48,Female
+40675,World,2022,2022,12.61754,Female
+SEN,Senegal,2019,2019,8.47511,Female
+SEN,Senegal,2020,2020,8.54503,Female
+SEN,Senegal,2021,2021,8.44111,Female
+SEN,Senegal,2022,2022,8.42006,Female
+CZE,Czechia,2017,2017,17.43717,Female
+CZE,Czechia,2018,2018,16.66438,Female
+CZE,Czechia,2019,2019,16.66478,Female
+CZE,Czechia,2020,2020,16.72308,Female
+CZE,Czechia,2021,2021,16.93661,Female
+BTN,Bhutan,2018,2018,12.39581,Female
+MUS,Mauritius,2017,2017,14.19288,Female
+MUS,Mauritius,2018,2018,14.22205,Female
+MUS,Mauritius,2019,2019,14.49372,Female
+MUS,Mauritius,2020,2020,14.05864,Female
+40042,Lower middle income countries,2017,2017,10.99162,Female
+40042,Lower middle income countries,2018,2018,10.71183,Female
+40042,Lower middle income countries,2019,2019,10.83026,Female
+40042,Lower middle income countries,2020,2020,10.97911,Female
+40042,Lower middle income countries,2021,2021,11.1111,Female
+40042,Lower middle income countries,2022,2022,11.33514,Female
+DOM,Dominican Republic,2017,2017,13.76869,Female
+DOM,Dominican Republic,2020,2020,13.39978,Female
+DOM,Dominican Republic,2021,2021,12.35814,Female
+SUR,Suriname,2021,2021,11.33802,Female
+PRI,Puerto Rico,2018,2018,18.3609,Female
+SGP,Singapore,2017,2017,16.53925,Female
+SGP,Singapore,2018,2018,16.6086,Female
+SGP,Singapore,2019,2019,16.62373,Female
+SGP,Singapore,2020,2020,16.70577,Female
+SGP,Singapore,2021,2021,16.81064,Female
+TKM,Turkmenistan,2019,2019,12.21359,Female
+TKM,Turkmenistan,2020,2020,12.4861,Female
+TKM,Turkmenistan,2021,2021,12.93895,Female
+TKM,Turkmenistan,2022,2022,13.23245,Female
+MHL,Marshall Islands,2019,2019,15.12618,Female
+MHL,Marshall Islands,2022,2022,15.80325,Female
+SUR,Suriname,2021,2021,10.58965,Female
+JPN,Japan,2017,2017,15.3447,Female
+JPN,Japan,2018,2018,15.36118,Female
+JPN,Japan,2019,2019,15.40706,Female
+JPN,Japan,2020,2020,15.42417,Female
+JPN,Japan,2021,2021,15.394,Female
+JPN,Japan,2017,2017,15.4289,Female
+JPN,Japan,2018,2018,15.43761,Female
+JPN,Japan,2019,2019,15.4736,Female
+JPN,Japan,2020,2020,15.48671,Female
+JPN,Japan,2021,2021,15.46965,Female
+BIH,Bosnia and Herzegovina,2017,2017,13.98637,Female
+BIH,Bosnia and Herzegovina,2018,2018,13.95415,Female
+BIH,Bosnia and Herzegovina,2019,2019,13.85529,Female
+BIH,Bosnia and Herzegovina,2020,2020,13.6861,Female
+BIH,Bosnia and Herzegovina,2021,2021,13.76589,Female
+BIH,Bosnia and Herzegovina,2022,2022,13.77554,Female
+AND,Andorra,2017,2017,11.89901,Female
+AND,Andorra,2018,2018,11.97977,Female
+AND,Andorra,2019,2019,11.97283,Female
+AND,Andorra,2020,2020,11.94483,Female
+AND,Andorra,2021,2021,11.97494,Female
+AND,Andorra,2022,2022,12.81063,Female
+TCA,Turks and Caicos Islands,2022,2022,14.24106,Female
+TCA,Turks and Caicos Islands,2022,2022,12.84343,Female
+AND,Andorra,2017,2017,11.96364,Female
+AND,Andorra,2018,2018,11.88763,Female
+AND,Andorra,2019,2019,11.87524,Female
+AND,Andorra,2020,2020,11.87711,Female
+AND,Andorra,2021,2021,12.00349,Female
+AND,Andorra,2022,2022,12.76506,Female
+BIH,Bosnia and Herzegovina,2017,2017,13.29195,Female
+BIH,Bosnia and Herzegovina,2018,2018,13.22557,Female
+BIH,Bosnia and Herzegovina,2019,2019,13.0525,Female
+BIH,Bosnia and Herzegovina,2020,2020,12.84987,Female
+BIH,Bosnia and Herzegovina,2021,2021,12.81573,Female
+BIH,Bosnia and Herzegovina,2022,2022,12.80608,Female
+BDI,Burundi,2017,2017,10.48098,Male
+BDI,Burundi,2018,2018,10.14888,Male
+NZL,New Zealand,2017,2017,19.38512,Male
+NZL,New Zealand,2018,2018,19.33179,Male
+NZL,New Zealand,2019,2019,20.03784,Male
+NZL,New Zealand,2020,2020,19.70184,Male
+NZL,New Zealand,2021,2021,20.16286,Male
+40525,Arab States,2017,2017,11.72997,Male
+40525,Arab States,2018,2018,11.83803,Male
+40525,Arab States,2019,2019,11.96801,Male
+40525,Arab States,2020,2020,12.04418,Male
+40525,Arab States,2021,2021,12.10455,Male
+GTM,Guatemala,2019,2019,10.93928,Male
+HKG,"China, Hong Kong Special Administrative Region",2017,2017,16.46075,Male
+HKG,"China, Hong Kong Special Administrative Region",2018,2018,16.7917,Male
+HKG,"China, Hong Kong Special Administrative Region",2019,2019,16.90179,Male
+HKG,"China, Hong Kong Special Administrative Region",2020,2020,17.01898,Male
+HKG,"China, Hong Kong Special Administrative Region",2021,2021,17.35923,Male
+HKG,"China, Hong Kong Special Administrative Region",2022,2022,17.18582,Male
+MHL,Marshall Islands,2019,2019,16.09599,Male
+MHL,Marshall Islands,2022,2022,17.01634,Male
+40612,Central Asia,2017,2017,12.44171,Male
+40612,Central Asia,2018,2018,12.54775,Male
+40612,Central Asia,2019,2019,12.72597,Male
+40612,Central Asia,2020,2020,12.69859,Male
+40612,Central Asia,2021,2021,12.79236,Male
+40612,Central Asia,2022,2022,12.82523,Male
+ISR,Israel,2017,2017,15.43283,Male
+ISR,Israel,2018,2018,15.36837,Male
+ISR,Israel,2019,2019,15.35238,Male
+ISR,Israel,2020,2020,15.37783,Male
+ISR,Israel,2021,2021,15.58276,Male
+RUS,Russian Federation,2017,2017,14.63001,Male
+RUS,Russian Federation,2018,2018,15.30922,Male
+RUS,Russian Federation,2019,2019,15.32356,Male
+RUS,Russian Federation,2020,2020,13.42469,Male
+RUS,Russian Federation,2021,2021,13.3858,Male
+RUS,Russian Federation,2022,2022,13.44124,Male
+FIN,Finland,2017,2017,18.58182,Male
+FIN,Finland,2018,2018,18.6307,Male
+FIN,Finland,2019,2019,18.25285,Male
+FIN,Finland,2020,2020,18.17844,Male
+FIN,Finland,2021,2021,18.25875,Male
+FIN,Finland,2022,2022,18.40107,Male
+IND,India,2017,2017,12.17948,Male
+IND,India,2018,2018,11.78324,Male
+IND,India,2019,2019,11.68172,Male
+IND,India,2020,2020,12.17147,Male
+IND,India,2021,2021,12.47907,Male
+IND,India,2022,2022,12.98404,Male
+IND,India,2023,2023,12.94106,Male
+CUB,Cuba,2017,2017,13.63932,Male
+CUB,Cuba,2018,2018,13.79585,Male
+CUB,Cuba,2019,2019,13.86809,Male
+CUB,Cuba,2020,2020,13.79964,Male
+CUB,Cuba,2021,2021,13.71633,Male
+40650,Oceania,2017,2017,16.7843,Male
+40650,Oceania,2018,2018,16.20458,Male
+40650,Oceania,2019,2019,16.71131,Male
+40650,Oceania,2020,2020,16.51216,Male
+40650,Oceania,2021,2021,16.66818,Male
+40650,Oceania,2022,2022,16.58956,Male
+ALB,Albania,2017,2017,15.11301,Male
+ALB,Albania,2018,2018,14.84559,Male
+ALB,Albania,2019,2019,14.90936,Male
+ALB,Albania,2020,2020,14.49291,Male
+ALB,Albania,2021,2021,14.28942,Male
+ALB,Albania,2022,2022,14.2922,Male
+NPL,Nepal,2017,2017,12.97947,Male
+NPL,Nepal,2019,2019,13.32362,Male
+NPL,Nepal,2020,2020,12.8238,Male
+UKR,Ukraine,2017,2017,13.45575,Male
+UKR,Ukraine,2018,2018,13.43034,Male
+UKR,Ukraine,2019,2019,13.48342,Male
+UKR,Ukraine,2020,2020,13.40917,Male
+UKR,Ukraine,2021,2021,13.12754,Male
+OMN,Oman,2017,2017,13.43154,Male
+OMN,Oman,2018,2018,13.50936,Male
+OMN,Oman,2019,2019,13.44144,Male
+OMN,Oman,2020,2020,12.73187,Male
+OMN,Oman,2021,2021,12.58941,Male
+40550,Small Island Developing States,2017,2017,11.79623,Male
+40550,Small Island Developing States,2018,2018,11.85808,Male
+40550,Small Island Developing States,2019,2019,11.95457,Male
+40550,Small Island Developing States,2020,2020,11.90644,Male
+40550,Small Island Developing States,2021,2021,11.86538,Male
+BFA,Burkina Faso,2017,2017,8.37919,Male
+BFA,Burkina Faso,2018,2018,8.7515,Male
+BFA,Burkina Faso,2019,2019,8.78297,Male
+BFA,Burkina Faso,2020,2020,8.7117,Male
+BFA,Burkina Faso,2021,2021,8.7512,Male
+BFA,Burkina Faso,2022,2022,8.18846,Male
+AUS,Australia,2017,2017,21.50828,Male
+AUS,Australia,2018,2018,19.86492,Male
+AUS,Australia,2019,2019,20.74703,Male
+AUS,Australia,2020,2020,20.15477,Male
+AUS,Australia,2021,2021,20.19376,Male
+AUS,Australia,2022,2022,19.84202,Male
+FRA,France,2017,2017,16.08797,Male
+FRA,France,2018,2018,16.20206,Male
+FRA,France,2019,2019,16.23834,Male
+FRA,France,2020,2020,16.33693,Male
+FRA,France,2021,2021,16.40241,Male
+FRA,France,2022,2022,16.54313,Male
+PHL,Philippines,2017,2017,13.21657,Male
+PHL,Philippines,2018,2018,13.27168,Male
+PHL,Philippines,2019,2019,13.45679,Male
+PHL,Philippines,2020,2020,13.21806,Male
+HRV,Croatia,2017,2017,16.13627,Male
+HRV,Croatia,2018,2018,16.21974,Male
+HRV,Croatia,2019,2019,16.30281,Male
+HRV,Croatia,2020,2020,16.36845,Male
+HRV,Croatia,2021,2021,16.48469,Male
+MLI,Mali,2017,2017,7.74829,Male
+SYC,Seychelles,2017,2017,14.2504,Male
+SYC,Seychelles,2018,2018,14.61841,Male
+SYC,Seychelles,2019,2019,14.84438,Male
+SYC,Seychelles,2020,2020,14.47248,Male
+SYC,Seychelles,2021,2021,15.57924,Male
+SYC,Seychelles,2022,2022,15.4465,Male
+TKM,Turkmenistan,2019,2019,12.05283,Male
+TKM,Turkmenistan,2020,2020,12.39632,Male
+TKM,Turkmenistan,2021,2021,12.89954,Male
+TKM,Turkmenistan,2022,2022,13.24945,Male
+ITA,Italy,2017,2017,16.45614,Male
+ITA,Italy,2018,2018,16.61316,Male
+ITA,Italy,2019,2019,16.76292,Male
+ITA,Italy,2020,2020,16.99852,Male
+ITA,Italy,2021,2021,17.14427,Male
+BWA,Botswana,2021,2021,11.08065,Male
+40334,Least Developed Countries,2017,2017,9.77998,Male
+40334,Least Developed Countries,2018,2018,9.94278,Male
+40334,Least Developed Countries,2019,2019,10.01267,Male
+ARM,Armenia,2018,2018,14.06499,Male
+ARM,Armenia,2019,2019,14.26832,Male
+ARM,Armenia,2020,2020,14.4081,Male
+ARM,Armenia,2021,2021,14.74233,Male
+ARM,Armenia,2022,2022,14.81291,Male
+URY,Uruguay,2021,2021,18.79311,Male
+40620,Europe,2017,2017,15.75054,Male
+40620,Europe,2018,2018,15.87223,Male
+40620,Europe,2019,2019,15.87684,Male
+40620,Europe,2020,2020,15.88114,Male
+40620,Europe,2021,2021,15.95818,Male
+40620,Europe,2022,2022,15.97113,Male
+CHE,Switzerland,2017,2017,16.1849,Male
+CHE,Switzerland,2018,2018,16.27742,Male
+CHE,Switzerland,2019,2019,16.35109,Male
+CHE,Switzerland,2020,2020,16.409,Male
+CHE,Switzerland,2021,2021,16.4982,Male
+CHE,Switzerland,2022,2022,16.54634,Male
+NOR,Norway,2017,2017,17.37583,Male
+NOR,Norway,2018,2018,17.45397,Male
+NOR,Norway,2019,2019,17.54578,Male
+NOR,Norway,2020,2020,17.58493,Male
+NOR,Norway,2021,2021,17.80384,Male
+BLR,Belarus,2017,2017,14.78567,Male
+BLR,Belarus,2018,2018,14.55329,Male
+BLR,Belarus,2019,2019,14.38135,Male
+BLR,Belarus,2020,2020,14.25777,Male
+BLR,Belarus,2021,2021,14.15603,Male
+BLR,Belarus,2022,2022,14.04238,Male
+ROU,Romania,2017,2017,14.62853,Male
+ROU,Romania,2018,2018,14.78753,Male
+ROU,Romania,2019,2019,14.8905,Male
+ROU,Romania,2020,2020,14.12422,Male
+ROU,Romania,2021,2021,15.04965,Male
+40030,Middle income countries,2017,2017,12.31231,Male
+40030,Middle income countries,2018,2018,12.21778,Male
+40030,Middle income countries,2019,2019,12.33165,Male
+40030,Middle income countries,2020,2020,12.50958,Male
+40030,Middle income countries,2021,2021,12.63608,Male
+40030,Middle income countries,2022,2022,12.83192,Male
+LIE,Liechtenstein,2017,2017,13.85361,Male
+LIE,Liechtenstein,2018,2018,13.67592,Male
+LIE,Liechtenstein,2019,2019,14.25338,Male
+LIE,Liechtenstein,2020,2020,14.18611,Male
+LIE,Liechtenstein,2021,2021,14.36024,Male
+UZB,Uzbekistan,2017,2017,12.11688,Male
+UZB,Uzbekistan,2018,2018,12.25071,Male
+UZB,Uzbekistan,2019,2019,12.41573,Male
+UZB,Uzbekistan,2020,2020,12.09179,Male
+UZB,Uzbekistan,2021,2021,11.96601,Male
+40617,Northern Africa and Western Asia,2017,2017,12.71405,Male
+40617,Northern Africa and Western Asia,2018,2018,12.83271,Male
+40617,Northern Africa and Western Asia,2019,2019,12.9528,Male
+40617,Northern Africa and Western Asia,2020,2020,13.03843,Male
+40617,Northern Africa and Western Asia,2021,2021,13.12016,Male
+IRN,Iran (Islamic Republic of),2017,2017,14.21577,Male
+IRN,Iran (Islamic Republic of),2020,2020,14.16625,Male
+QAT,Qatar,2017,2017,12.5171,Male
+QAT,Qatar,2018,2018,12.75271,Male
+QAT,Qatar,2019,2019,12.62609,Male
+QAT,Qatar,2020,2020,12.64909,Male
+40505,Central Asia,2017,2017,12.86283,Male
+40505,Central Asia,2018,2018,12.9279,Male
+40505,Central Asia,2019,2019,13.05528,Male
+40505,Central Asia,2020,2020,12.95712,Male
+40505,Central Asia,2021,2021,12.99099,Male
+40505,Central Asia,2022,2022,13.03535,Male
+MDV,Maldives,2019,2019,13.27128,Male
+LKA,Sri Lanka,2017,2017,12.95878,Male
+LKA,Sri Lanka,2018,2018,13.14461,Male
+CPV,Cabo Verde,2017,2017,11.81033,Male
+CPV,Cabo Verde,2018,2018,11.57099,Male
+LUX,Luxembourg,2017,2017,14.22867,Male
+LUX,Luxembourg,2018,2018,14.24567,Male
+LUX,Luxembourg,2019,2019,14.25139,Male
+LUX,Luxembourg,2020,2020,14.28886,Male
+LUX,Luxembourg,2021,2021,14.31557,Male
+COL,Colombia,2017,2017,14.99888,Male
+COL,Colombia,2018,2018,14.86277,Male
+COL,Colombia,2019,2019,14.72452,Male
+COL,Colombia,2020,2020,14.47732,Male
+COL,Colombia,2021,2021,14.67448,Male
+COL,Colombia,2022,2022,14.54108,Male
+BRN,Brunei Darussalam,2017,2017,13.64943,Male
+BRN,Brunei Darussalam,2018,2018,13.54666,Male
+BRN,Brunei Darussalam,2019,2019,13.31603,Male
+BRN,Brunei Darussalam,2020,2020,13.25225,Male
+PRT,Portugal,2017,2017,16.43869,Male
+PRT,Portugal,2018,2018,16.63084,Male
+PRT,Portugal,2019,2019,16.78882,Male
+PRT,Portugal,2020,2020,16.87392,Male
+PRT,Portugal,2021,2021,17.0702,Male
+40535,South and West Asia,2017,2017,11.36289,Male
+40535,South and West Asia,2018,2018,10.78044,Male
+40535,South and West Asia,2019,2019,10.87352,Male
+40535,South and West Asia,2020,2020,11.06459,Male
+40535,South and West Asia,2021,2021,11.23637,Male
+40535,South and West Asia,2022,2022,11.647,Male
+40611,Eastern Asia,2017,2017,14.27293,Male
+40611,Eastern Asia,2018,2018,14.43825,Male
+40611,Eastern Asia,2019,2019,14.73365,Male
+40611,Eastern Asia,2020,2020,15.03482,Male
+40611,Eastern Asia,2021,2021,15.325,Male
+40611,Eastern Asia,2022,2022,15.54384,Male
+40043,Upper middle income countries,2017,2017,13.93447,Male
+40043,Upper middle income countries,2018,2018,14.03914,Male
+40043,Upper middle income countries,2019,2019,14.1499,Male
+40043,Upper middle income countries,2020,2020,14.31388,Male
+40043,Upper middle income countries,2021,2021,14.47777,Male
+40043,Upper middle income countries,2022,2022,14.62304,Male
+40530,Central and Eastern Europe,2017,2017,15.97961,Male
+40530,Central and Eastern Europe,2018,2018,16.28614,Male
+40530,Central and Eastern Europe,2019,2019,16.35302,Male
+40530,Central and Eastern Europe,2020,2020,16.38068,Male
+40530,Central and Eastern Europe,2021,2021,16.57252,Male
+40530,Central and Eastern Europe,2022,2022,16.57471,Male
+MMR,Myanmar,2018,2018,11.96912,Male
+KGZ,Kyrgyzstan,2017,2017,12.45423,Male
+KGZ,Kyrgyzstan,2018,2018,12.33297,Male
+KGZ,Kyrgyzstan,2019,2019,12.40438,Male
+KGZ,Kyrgyzstan,2020,2020,12.5162,Male
+KGZ,Kyrgyzstan,2021,2021,12.83446,Male
+TON,Tonga,2020,2020,17.36093,Male
+40642,Europe and Northern America,2017,2017,16.74317,Male
+40642,Europe and Northern America,2018,2018,16.80888,Male
+40642,Europe and Northern America,2019,2019,16.82976,Male
+40642,Europe and Northern America,2020,2020,16.82016,Male
+40642,Europe and Northern America,2021,2021,16.90605,Male
+40642,Europe and Northern America,2022,2022,16.93663,Male
+ZAF,South Africa,2017,2017,14.73662,Male
+ZAF,South Africa,2018,2018,14.51227,Male
+ZAF,South Africa,2019,2019,14.65775,Male
+ZAF,South Africa,2020,2020,14.45914,Male
+ZAF,South Africa,2021,2021,14.67354,Male
+CAN,Canada,2017,2017,15.51483,Male
+CAN,Canada,2018,2018,15.465,Male
+CAN,Canada,2019,2019,15.45999,Male
+CAN,Canada,2020,2020,15.44533,Male
+CAN,Canada,2021,2021,15.41637,Male
+MAC,"China, Macao Special Administrative Region",2017,2017,15.06247,Male
+MAC,"China, Macao Special Administrative Region",2018,2018,14.51895,Male
+MAC,"China, Macao Special Administrative Region",2019,2019,14.31397,Male
+MAC,"China, Macao Special Administrative Region",2020,2020,14.25944,Male
+MAC,"China, Macao Special Administrative Region",2021,2021,14.61013,Male
+MAC,"China, Macao Special Administrative Region",2022,2022,15.37581,Male
+MNE,Montenegro,2017,2017,15.22664,Male
+MNE,Montenegro,2018,2018,15.20136,Male
+MNE,Montenegro,2019,2019,15.30406,Male
+MNE,Montenegro,2020,2020,15.50765,Male
+MNE,Montenegro,2021,2021,15.60671,Male
+MNE,Montenegro,2022,2022,15.55859,Male
+CRI,Costa Rica,2017,2017,14.48884,Male
+CRI,Costa Rica,2018,2018,14.71294,Male
+CRI,Costa Rica,2019,2019,15.31027,Male
+MDA,Republic of Moldova,2017,2017,14.56888,Male
+MDA,Republic of Moldova,2018,2018,14.66278,Male
+MDA,Republic of Moldova,2019,2019,14.69075,Male
+MDA,Republic of Moldova,2020,2020,14.88332,Male
+MDA,Republic of Moldova,2021,2021,15.16406,Male
+MDA,Republic of Moldova,2022,2022,15.38689,Male
+40651,Australia and New Zealand,2017,2017,20.84443,Male
+40651,Australia and New Zealand,2018,2018,19.44404,Male
+40651,Australia and New Zealand,2019,2019,20.44156,Male
+40651,Australia and New Zealand,2020,2020,19.90826,Male
+40651,Australia and New Zealand,2021,2021,20.02928,Male
+40651,Australia and New Zealand,2022,2022,20.02766,Male
+VGB,British Virgin Islands,2021,2021,17.68369,Male
+VGB,British Virgin Islands,2022,2022,14.08058,Male
+AFG,Afghanistan,2018,2018,7.98703,Male
+SVN,Slovenia,2017,2017,18.23362,Male
+SVN,Slovenia,2018,2018,18.21603,Male
+SVN,Slovenia,2019,2019,18.16566,Male
+SVN,Slovenia,2020,2020,18.13762,Male
+SVN,Slovenia,2021,2021,18.34461,Male
+SVN,Slovenia,2022,2022,18.3978,Male
+GEO,Georgia,2017,2017,15.812,Male
+GEO,Georgia,2018,2018,15.99838,Male
+GEO,Georgia,2019,2019,16.39799,Male
+GEO,Georgia,2020,2020,16.40266,Male
+GEO,Georgia,2021,2021,16.78897,Male
+GEO,Georgia,2022,2022,17.00892,Male
+NER,Niger,2017,2017,7.38756,Male
+THA,Thailand,2020,2020,15.13755,Male
+KAZ,Kazakhstan,2017,2017,14.49908,Male
+KAZ,Kazakhstan,2018,2018,14.61267,Male
+KAZ,Kazakhstan,2019,2019,14.86221,Male
+KAZ,Kazakhstan,2020,2020,15.02603,Male
+SAU,Saudi Arabia,2017,2017,16.65029,Male
+SAU,Saudi Arabia,2018,2018,16.69643,Male
+SAU,Saudi Arabia,2019,2019,16.63847,Male
+SAU,Saudi Arabia,2020,2020,16.32858,Male
+SAU,Saudi Arabia,2021,2021,16.18786,Male
+SAU,Saudi Arabia,2022,2022,17.86843,Male
+40618,Central and Southern Asia,2017,2017,11.22342,Male
+40618,Central and Southern Asia,2018,2018,11.06548,Male
+40618,Central and Southern Asia,2019,2019,11.06901,Male
+40618,Central and Southern Asia,2020,2020,11.38202,Male
+40618,Central and Southern Asia,2021,2021,11.59651,Male
+40618,Central and Southern Asia,2022,2022,11.93108,Male
+MEX,Mexico,2017,2017,14.6329,Male
+MEX,Mexico,2018,2018,14.64509,Male
+MEX,Mexico,2019,2019,14.62077,Male
+MEX,Mexico,2020,2020,14.46677,Male
+MEX,Mexico,2021,2021,14.053,Male
+MEX,Mexico,2022,2022,13.9166,Male
+BHR,Bahrain,2017,2017,15.48459,Male
+BHR,Bahrain,2018,2018,15.80702,Male
+BHR,Bahrain,2019,2019,16.14518,Male
+BHR,Bahrain,2022,2022,15.73036,Male
+40344,Small Island Developing States,2017,2017,11.67044,Male
+40344,Small Island Developing States,2018,2018,11.71019,Male
+40344,Small Island Developing States,2019,2019,11.7559,Male
+40344,Small Island Developing States,2020,2020,11.68967,Male
+HUN,Hungary,2017,2017,15.59085,Male
+HUN,Hungary,2018,2018,15.48612,Male
+HUN,Hungary,2019,2019,15.3533,Male
+HUN,Hungary,2020,2020,15.38947,Male
+HUN,Hungary,2021,2021,15.42618,Male
+40330,Landlocked Developing Countries,2017,2017,10.15666,Male
+40330,Landlocked Developing Countries,2018,2018,10.22621,Male
+40330,Landlocked Developing Countries,2019,2019,10.26706,Male
+MDG,Madagascar,2018,2018,9.93807,Male
+MDG,Madagascar,2019,2019,9.4649,Male
+LSO,Lesotho,2017,2017,11.67891,Male
+GHA,Ghana,2017,2017,11.26283,Male
+GHA,Ghana,2018,2018,11.18617,Male
+GHA,Ghana,2019,2019,11.45855,Male
+GHA,Ghana,2020,2020,11.55268,Male
+GHA,Ghana,2021,2021,11.68865,Male
+GHA,Ghana,2022,2022,11.51691,Male
+SVK,Slovakia,2017,2017,14.07819,Male
+SVK,Slovakia,2018,2018,14.03665,Male
+SVK,Slovakia,2019,2019,14.00949,Male
+SVK,Slovakia,2020,2020,14.06161,Male
+SVK,Slovakia,2021,2021,14.19749,Male
+SVK,Slovakia,2022,2022,14.39934,Male
+IRL,Ireland,2017,2017,18.62423,Male
+IRL,Ireland,2018,2018,19.26097,Male
+IRL,Ireland,2019,2019,18.64552,Male
+IRL,Ireland,2020,2020,18.44169,Male
+IRL,Ireland,2021,2021,18.77158,Male
+TZA,United Republic of Tanzania,2017,2017,7.99015,Male
+TZA,United Republic of Tanzania,2019,2019,8.76623,Male
+TZA,United Republic of Tanzania,2021,2021,8.72376,Male
+40515,East Asia and the Pacific,2017,2017,13.94182,Male
+40515,East Asia and the Pacific,2018,2018,14.06322,Male
+40515,East Asia and the Pacific,2019,2019,14.27354,Male
+40515,East Asia and the Pacific,2020,2020,14.4658,Male
+40515,East Asia and the Pacific,2021,2021,14.69742,Male
+40515,East Asia and the Pacific,2022,2022,14.87598,Male
+40540,Sub-Saharan Africa,2017,2017,8.80973,Male
+40613,South-Eastern Asia,2017,2017,13.23715,Male
+40613,South-Eastern Asia,2018,2018,13.28307,Male
+40613,South-Eastern Asia,2019,2019,13.35684,Male
+40613,South-Eastern Asia,2020,2020,13.35691,Male
+40613,South-Eastern Asia,2021,2021,13.5433,Male
+40614,Western Asia,2017,2017,12.41981,Male
+40614,Western Asia,2018,2018,12.60019,Male
+40614,Western Asia,2019,2019,12.71702,Male
+40614,Western Asia,2020,2020,12.84301,Male
+40614,Western Asia,2021,2021,12.99145,Male
+40614,Western Asia,2022,2022,13.03331,Male
+BGR,Bulgaria,2017,2017,14.41951,Male
+BGR,Bulgaria,2018,2018,14.30073,Male
+BGR,Bulgaria,2019,2019,14.00138,Male
+BGR,Bulgaria,2020,2020,13.79266,Male
+BGR,Bulgaria,2021,2021,13.62206,Male
+BLZ,Belize,2017,2017,13.55812,Male
+BLZ,Belize,2018,2018,13.61111,Male
+BLZ,Belize,2019,2019,13.65922,Male
+BLZ,Belize,2020,2020,13.55454,Male
+BLZ,Belize,2021,2021,13.19169,Male
+BLZ,Belize,2022,2022,12.80862,Male
+MKD,North Macedonia,2017,2017,12.95032,Male
+MKD,North Macedonia,2018,2018,12.81453,Male
+MKD,North Macedonia,2019,2019,12.53417,Male
+MKD,North Macedonia,2020,2020,12.50205,Male
+MKD,North Macedonia,2021,2021,12.60997,Male
+MKD,North Macedonia,2022,2022,12.67132,Male
+40041,High income countries,2017,2017,16.12171,Male
+40041,High income countries,2018,2018,16.06721,Male
+40041,High income countries,2019,2019,16.09518,Male
+40041,High income countries,2020,2020,16.08562,Male
+40041,High income countries,2021,2021,16.04986,Male
+40041,High income countries,2022,2022,16.07404,Male
+SWE,Sweden,2017,2017,19.91831,Male
+SWE,Sweden,2018,2018,20.06899,Male
+SWE,Sweden,2019,2019,19.78601,Male
+SWE,Sweden,2020,2020,20.07491,Male
+SWE,Sweden,2021,2021,20.65983,Male
+SWE,Sweden,2022,2022,20.70726,Male
+CIV,Côte d'Ivoire,2017,2017,10.24315,Male
+CIV,Côte d'Ivoire,2019,2019,10.54879,Male
+CIV,Côte d'Ivoire,2020,2020,10.6576,Male
+VAT,Holy See,2017,2017,,Male
+VAT,Holy See,2018,2018,,Male
+VAT,Holy See,2019,2019,,Male
+VAT,Holy See,2020,2020,,Male
+VAT,Holy See,2021,2021,,Male
+VAT,Holy See,2022,2022,,Male
+VAT,Holy See,2023,2023,,Male
+PER,Peru,2017,2017,14.47679,Male
+40620,Europe,2017,2017,16.45432,Male
+40620,Europe,2018,2018,16.57084,Male
+40620,Europe,2019,2019,16.58843,Male
+40620,Europe,2020,2020,16.58449,Male
+40620,Europe,2021,2021,16.74366,Male
+40620,Europe,2022,2022,16.75818,Male
+ALB,Albania,2017,2017,15.53131,Male
+ALB,Albania,2018,2018,15.36147,Male
+ALB,Albania,2019,2019,15.43577,Male
+ALB,Albania,2020,2020,15.01956,Male
+ALB,Albania,2021,2021,14.84925,Male
+ALB,Albania,2022,2022,14.68104,Male
+40510,World,2017,2017,12.17206,Male
+40510,World,2018,2018,12.18544,Male
+40510,World,2019,2019,12.22309,Male
+40510,World,2020,2020,12.38885,Male
+40510,World,2021,2021,12.46197,Male
+40510,World,2022,2022,12.58707,Male
+MRT,Mauritania,2017,2017,8.17936,Male
+MRT,Mauritania,2018,2018,8.56948,Male
+MRT,Mauritania,2019,2019,8.69101,Male
+MRT,Mauritania,2020,2020,7.95745,Male
+SEN,Senegal,2019,2019,9.36251,Male
+SEN,Senegal,2020,2020,9.57515,Male
+SEN,Senegal,2021,2021,9.71004,Male
+SEN,Senegal,2022,2022,9.88596,Male
+MUS,Mauritius,2017,2017,15.37428,Male
+MUS,Mauritius,2018,2018,15.37549,Male
+MUS,Mauritius,2019,2019,15.34187,Male
+MUS,Mauritius,2020,2020,15.18283,Male
+NLD,Netherlands,2017,2017,18.15489,Male
+NLD,Netherlands,2018,2018,18.11558,Male
+NLD,Netherlands,2020,2020,18.12661,Male
+NLD,Netherlands,2021,2021,18.23271,Male
+QAT,Qatar,2017,2017,14.93775,Male
+QAT,Qatar,2018,2018,14.95256,Male
+QAT,Qatar,2019,2019,15.16505,Male
+QAT,Qatar,2020,2020,15.28956,Male
+MYS,Malaysia,2017,2017,12.94913,Male
+MYS,Malaysia,2018,2018,12.71047,Male
+MYS,Malaysia,2019,2019,12.64428,Male
+MYS,Malaysia,2020,2020,12.50049,Male
+MYS,Malaysia,2021,2021,12.49646,Male
+CRI,Costa Rica,2017,2017,15.66827,Male
+CRI,Costa Rica,2018,2018,15.77196,Male
+CRI,Costa Rica,2019,2019,16.3951,Male
+EST,Estonia,2017,2017,15.06387,Male
+EST,Estonia,2018,2018,14.99603,Male
+EST,Estonia,2019,2019,14.97369,Male
+EST,Estonia,2020,2020,14.99682,Male
+EST,Estonia,2021,2021,15.13871,Male
+EST,Estonia,2022,2022,15.1443,Male
+40606,Sub-Saharan Africa,2017,2017,8.80366,Male
+MNG,Mongolia,2019,2019,13.76214,Male
+ISL,Iceland,2017,2017,19.8511,Male
+ISL,Iceland,2018,2018,19.61598,Male
+ISL,Iceland,2019,2019,19.42679,Male
+ISL,Iceland,2020,2020,19.46157,Male
+ISL,Iceland,2021,2021,20.50426,Male
+DNK,Denmark,2017,2017,19.45062,Male
+DNK,Denmark,2018,2018,19.3261,Male
+DNK,Denmark,2019,2019,19.21278,Male
+DNK,Denmark,2020,2020,19.25827,Male
+DNK,Denmark,2021,2021,19.37519,Male
+DNK,Denmark,2022,2022,19.32867,Male
+40619,Eastern and South-Eastern Asia,2017,2017,13.33679,Male
+40619,Eastern and South-Eastern Asia,2018,2018,13.44216,Male
+40619,Eastern and South-Eastern Asia,2019,2019,13.57716,Male
+40619,Eastern and South-Eastern Asia,2020,2020,13.79822,Male
+40619,Eastern and South-Eastern Asia,2021,2021,14.04912,Male
+40619,Eastern and South-Eastern Asia,2022,2022,14.24518,Male
+MOZ,Mozambique,2017,2017,10.85025,Male
+40500,North America and Western Europe,2017,2017,17.31182,Male
+40500,North America and Western Europe,2018,2018,17.31829,Male
+40500,North America and Western Europe,2019,2019,17.35273,Male
+40500,North America and Western Europe,2020,2020,17.37531,Male
+40500,North America and Western Europe,2021,2021,17.46155,Male
+40500,North America and Western Europe,2022,2022,17.49509,Male
+CHL,Chile,2017,2017,16.76624,Male
+CHL,Chile,2018,2018,16.86311,Male
+CHL,Chile,2019,2019,16.8846,Male
+CHL,Chile,2020,2020,16.57752,Male
+CHL,Chile,2021,2021,17.08077,Male
+CHL,Chile,2022,2022,17.18331,Male
+SRB,Serbia,2017,2017,14.46343,Male
+SRB,Serbia,2018,2018,14.39917,Male
+SRB,Serbia,2019,2019,14.30753,Male
+SRB,Serbia,2020,2020,14.04029,Male
+SRB,Serbia,2021,2021,13.98247,Male
+SRB,Serbia,2022,2022,13.29494,Male
+40675,World,2017,2017,12.17206,Male
+40675,World,2018,2018,12.18544,Male
+40675,World,2019,2019,12.22309,Male
+40675,World,2020,2020,12.38885,Male
+40675,World,2021,2021,12.46197,Male
+40675,World,2022,2022,12.58707,Male
+IND,India,2017,2017,12.86585,Male
+IND,India,2018,2018,11.85295,Male
+IND,India,2019,2019,11.83324,Male
+IND,India,2020,2020,12.083,Male
+IND,India,2021,2021,12.31828,Male
+IND,India,2022,2022,12.92634,Male
+IND,India,2023,2023,12.83378,Male
+KOR,Republic of Korea,2017,2017,16.8981,Male
+KOR,Republic of Korea,2018,2018,16.80244,Male
+KOR,Republic of Korea,2019,2019,16.75326,Male
+KOR,Republic of Korea,2020,2020,16.7398,Male
+KOR,Republic of Korea,2021,2021,16.84387,Male
+KOR,Republic of Korea,2022,2022,16.91987,Male
+GRC,Greece,2017,2017,18.88993,Male
+GRC,Greece,2018,2018,19.18727,Male
+GRC,Greece,2019,2019,19.58317,Male
+GRC,Greece,2020,2020,19.54765,Male
+GRC,Greece,2021,2021,19.89186,Male
+ARG,Argentina,2017,2017,16.47525,Male
+ARG,Argentina,2018,2018,16.46805,Male
+ARG,Argentina,2019,2019,16.61041,Male
+ARG,Argentina,2020,2020,16.75852,Male
+ARG,Argentina,2021,2021,17.13033,Male
+RWA,Rwanda,2017,2017,11.07409,Male
+RWA,Rwanda,2018,2018,10.76707,Male
+RWA,Rwanda,2019,2019,10.82271,Male
+RWA,Rwanda,2022,2022,11.28066,Male
+40616,Southern Asia,2017,2017,11.36289,Male
+40616,Southern Asia,2018,2018,10.78044,Male
+40616,Southern Asia,2019,2019,10.87352,Male
+40616,Southern Asia,2020,2020,11.06459,Male
+40616,Southern Asia,2021,2021,11.23637,Male
+40616,Southern Asia,2022,2022,11.647,Male
+CYP,Cyprus,2017,2017,15.27492,Male
+CYP,Cyprus,2018,2018,15.60838,Male
+CYP,Cyprus,2019,2019,15.96283,Male
+CYP,Cyprus,2020,2020,16.07854,Male
+CYP,Cyprus,2021,2021,15.84014,Male
+PSE,Palestine,2017,2017,13.98661,Male
+PSE,Palestine,2018,2018,14.01313,Male
+PSE,Palestine,2019,2019,14.024,Male
+PSE,Palestine,2020,2020,13.98743,Male
+PSE,Palestine,2021,2021,13.90925,Male
+PSE,Palestine,2022,2022,13.95714,Male
+40042,Lower middle income countries,2017,2017,10.96823,Male
+40042,Lower middle income countries,2018,2018,10.88681,Male
+40042,Lower middle income countries,2019,2019,10.92591,Male
+40042,Lower middle income countries,2020,2020,11.13515,Male
+40042,Lower middle income countries,2021,2021,11.28035,Male
+40042,Lower middle income countries,2022,2022,11.46012,Male
+BTN,Bhutan,2018,2018,13.41145,Male
+IDN,Indonesia,2017,2017,13.65792,Male
+IDN,Indonesia,2018,2018,13.71538,Male
+DZA,Algeria,2022,2022,14.74388,Male
+TGO,Togo,2017,2017,11.49271,Male
+40651,Australia and New Zealand,2017,2017,21.89015,Male
+40651,Australia and New Zealand,2018,2018,20.72389,Male
+40651,Australia and New Zealand,2019,2019,21.68706,Male
+40651,Australia and New Zealand,2020,2020,21.39726,Male
+40651,Australia and New Zealand,2021,2021,21.68283,Male
+40651,Australia and New Zealand,2022,2022,21.67509,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2017,2017,17.95723,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2018,2018,17.70611,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,2019,17.76353,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2020,2020,17.77357,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2021,2021,18.20904,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2022,2022,18.31003,Male
+ARE,United Arab Emirates,2017,2017,13.49002,Male
+ARE,United Arab Emirates,2020,2020,16.3799,Male
+MAR,Morocco,2017,2017,12.70623,Male
+MAR,Morocco,2018,2018,12.97946,Male
+MAR,Morocco,2019,2019,13.31498,Male
+MAR,Morocco,2020,2020,13.64076,Male
+MAR,Morocco,2021,2021,13.88286,Male
+MAR,Morocco,2022,2022,14.49855,Male
+AUT,Austria,2017,2017,15.59511,Male
+AUT,Austria,2018,2018,15.68981,Male
+AUT,Austria,2019,2019,15.72529,Male
+AUT,Austria,2020,2020,15.74914,Male
+AUT,Austria,2021,2021,15.92267,Male
+BWA,Botswana,2021,2021,11.77284,Male
+LVA,Latvia,2017,2017,17.20125,Male
+LVA,Latvia,2018,2018,17.34582,Male
+LVA,Latvia,2019,2019,17.1952,Male
+LVA,Latvia,2020,2020,17.11668,Male
+LVA,Latvia,2021,2021,17.25187,Male
+LVA,Latvia,2022,2022,17.25741,Male
+CUB,Cuba,2017,2017,14.51898,Male
+CUB,Cuba,2018,2018,14.63139,Male
+CUB,Cuba,2019,2019,14.85701,Male
+CUB,Cuba,2020,2020,15.08477,Male
+CUB,Cuba,2021,2021,15.26216,Male
+MLT,Malta,2017,2017,15.15166,Male
+MLT,Malta,2018,2018,15.33938,Male
+MLT,Malta,2019,2019,15.17081,Male
+MLT,Malta,2020,2020,15.01054,Male
+MLT,Malta,2021,2021,15.20273,Male
+MLT,Malta,2022,2022,15.28345,Male
+EGY,Egypt,2017,2017,12.10347,Male
+EGY,Egypt,2018,2018,12.38981,Male
+EGY,Egypt,2020,2020,12.79423,Male
+SMR,San Marino,2018,2018,11.57508,Male
+SMR,San Marino,2019,2019,11.78252,Male
+SMR,San Marino,2020,2020,11.85292,Male
+SMR,San Marino,2021,2021,12.08227,Male
+SMR,San Marino,2022,2022,11.98106,Male
+40640,Northern America ,2017,2017,15.97477,Male
+40640,Northern America ,2018,2018,15.92745,Male
+40640,Northern America ,2019,2019,15.89406,Male
+40640,Northern America ,2020,2020,15.89834,Male
+40640,Northern America ,2021,2021,15.57009,Male
+40640,Northern America ,2022,2022,15.64502,Male
+BRA,Brazil,2017,2017,15.02129,Male
+BRA,Brazil,2018,2018,15.09226,Male
+BRA,Brazil,2019,2019,14.98781,Male
+BRA,Brazil,2020,2020,14.97253,Male
+BRA,Brazil,2021,2021,14.95002,Male
+USA,United States of America,2017,2017,16.02009,Male
+USA,United States of America,2018,2018,15.97396,Male
+USA,United States of America,2019,2019,15.93802,Male
+USA,United States of America,2020,2020,15.94387,Male
+USA,United States of America,2021,2021,15.58569,Male
+USA,United States of America,2022,2022,15.05385,Male
+BEL,Belgium,2017,2017,20.7676,Male
+BEL,Belgium,2018,2018,20.55916,Male
+BEL,Belgium,2019,2019,20.61998,Male
+BEL,Belgium,2020,2020,20.31362,Male
+BEL,Belgium,2021,2021,19.93109,Male
+POL,Poland,2017,2017,15.27369,Male
+POL,Poland,2018,2018,15.15309,Male
+POL,Poland,2019,2019,15.10784,Male
+POL,Poland,2020,2020,15.1181,Male
+POL,Poland,2021,2021,15.19221,Male
+POL,Poland,2022,2022,15.37729,Male
+40630,Latin America and the Caribbean,2017,2017,14.20789,Male
+40630,Latin America and the Caribbean,2018,2018,14.23805,Male
+40630,Latin America and the Caribbean,2019,2019,14.23362,Male
+40630,Latin America and the Caribbean,2020,2020,14.21128,Male
+40630,Latin America and the Caribbean,2021,2021,14.14923,Male
+40630,Latin America and the Caribbean,2022,2022,14.14981,Male
+LTU,Lithuania,2017,2017,17.32931,Male
+LTU,Lithuania,2018,2018,17.27771,Male
+LTU,Lithuania,2019,2019,16.98307,Male
+LTU,Lithuania,2020,2020,16.93458,Male
+LTU,Lithuania,2021,2021,17.05356,Male
+DEU,Germany,2017,2017,16.99616,Male
+DEU,Germany,2018,2018,17.03128,Male
+DEU,Germany,2019,2019,17.17854,Male
+DEU,Germany,2020,2020,17.22357,Male
+DEU,Germany,2021,2021,17.36998,Male
+BEN,Benin,2020,2020,11.12107,Male
+BEN,Benin,2021,2021,11.11866,Male
+PRI,Puerto Rico,2018,2018,16.73429,Male
+MNE,Montenegro,2017,2017,14.93637,Male
+MNE,Montenegro,2018,2018,15.01454,Male
+MNE,Montenegro,2019,2019,14.83263,Male
+MNE,Montenegro,2020,2020,14.91078,Male
+MNE,Montenegro,2021,2021,14.90963,Male
+MNE,Montenegro,2022,2022,14.63003,Male
+40619,Eastern and South-Eastern Asia,2017,2017,13.88107,Male
+40619,Eastern and South-Eastern Asia,2018,2018,14.01946,Male
+40619,Eastern and South-Eastern Asia,2019,2019,14.22214,Male
+40619,Eastern and South-Eastern Asia,2020,2020,14.4231,Male
+40619,Eastern and South-Eastern Asia,2021,2021,14.65389,Male
+40619,Eastern and South-Eastern Asia,2022,2022,14.83901,Male
+MMR,Myanmar,2018,2018,11.05974,Male
+MLI,Mali,2017,2017,6.46582,Male
+40344,Small Island Developing States,2017,2017,11.98011,Male
+40344,Small Island Developing States,2018,2018,12.03146,Male
+40344,Small Island Developing States,2019,2019,12.11713,Male
+40344,Small Island Developing States,2020,2020,12.06696,Male
+ZAF,South Africa,2017,2017,13.80505,Male
+ZAF,South Africa,2018,2018,13.6606,Male
+ZAF,South Africa,2019,2019,13.78166,Male
+ZAF,South Africa,2020,2020,13.52111,Male
+ZAF,South Africa,2021,2021,13.57099,Male
+NER,Niger,2017,2017,5.99354,Male
+40603,Northern Africa,2017,2017,12.13167,Male
+40603,Northern Africa,2018,2018,12.25848,Male
+40603,Northern Africa,2019,2019,12.41679,Male
+40603,Northern Africa,2020,2020,12.53047,Male
+40603,Northern Africa,2021,2021,12.59505,Male
+SVK,Slovakia,2017,2017,15.14685,Male
+SVK,Slovakia,2018,2018,15.07123,Male
+SVK,Slovakia,2019,2019,15.065,Male
+SVK,Slovakia,2020,2020,15.10183,Male
+SVK,Slovakia,2021,2021,15.27138,Male
+SVK,Slovakia,2022,2022,15.52244,Male
+MEX,Mexico,2017,2017,15.06762,Male
+MEX,Mexico,2018,2018,15.19629,Male
+MEX,Mexico,2019,2019,15.26714,Male
+MEX,Mexico,2020,2020,15.1789,Male
+MEX,Mexico,2021,2021,14.9595,Male
+MEX,Mexico,2022,2022,15.02457,Male
+40330,Landlocked Developing Countries,2017,2017,9.18628,Male
+40330,Landlocked Developing Countries,2018,2018,9.24484,Male
+40330,Landlocked Developing Countries,2019,2019,9.29572,Male
+LIE,Liechtenstein,2017,2017,16.2804,Male
+LIE,Liechtenstein,2018,2018,15.9973,Male
+LIE,Liechtenstein,2019,2019,16.51158,Male
+LIE,Liechtenstein,2020,2020,16.55512,Male
+LIE,Liechtenstein,2021,2021,16.43379,Male
+BLR,Belarus,2017,2017,15.23234,Male
+BLR,Belarus,2018,2018,14.7965,Male
+BLR,Belarus,2019,2019,14.42213,Male
+BLR,Belarus,2020,2020,14.27358,Male
+BLR,Belarus,2021,2021,14.23576,Male
+BLR,Belarus,2022,2022,13.91798,Male
+HUN,Hungary,2017,2017,14.91645,Male
+HUN,Hungary,2018,2018,14.86758,Male
+HUN,Hungary,2019,2019,14.72406,Male
+HUN,Hungary,2020,2020,14.74482,Male
+HUN,Hungary,2021,2021,14.73847,Male
+40030,Middle income countries,2017,2017,12.11809,Male
+40030,Middle income countries,2018,2018,12.13422,Male
+40030,Middle income countries,2019,2019,12.17852,Male
+40030,Middle income countries,2020,2020,12.3857,Male
+40030,Middle income countries,2021,2021,12.50691,Male
+40030,Middle income countries,2022,2022,12.68195,Male
+LKA,Sri Lanka,2017,2017,13.84747,Male
+LKA,Sri Lanka,2018,2018,14.02978,Male
+40505,Central Asia,2017,2017,12.7654,Male
+40505,Central Asia,2018,2018,12.85327,Male
+40505,Central Asia,2019,2019,13.04537,Male
+40505,Central Asia,2020,2020,12.95203,Male
+40505,Central Asia,2021,2021,13.04789,Male
+40505,Central Asia,2022,2022,13.07705,Male
+CPV,Cabo Verde,2017,2017,12.43094,Male
+CPV,Cabo Verde,2018,2018,12.16748,Male
+LAO,Lao People's Democratic Republic,2017,2017,11.22845,Male
+LAO,Lao People's Democratic Republic,2018,2018,10.86178,Male
+LAO,Lao People's Democratic Republic,2019,2019,10.73067,Male
+LAO,Lao People's Democratic Republic,2020,2020,10.36781,Male
+IRN,Iran (Islamic Republic of),2017,2017,14.65385,Male
+IRN,Iran (Islamic Republic of),2020,2020,14.06775,Male
+CZE,Czechia,2017,2017,15.95336,Male
+CZE,Czechia,2018,2018,15.60973,Male
+CZE,Czechia,2019,2019,15.57077,Male
+CZE,Czechia,2020,2020,15.58689,Male
+CZE,Czechia,2021,2021,15.79063,Male
+40535,South and West Asia,2017,2017,11.16549,Male
+40535,South and West Asia,2018,2018,10.99643,Male
+40535,South and West Asia,2019,2019,10.99246,Male
+40535,South and West Asia,2020,2020,11.31686,Male
+40535,South and West Asia,2021,2021,11.53943,Male
+40535,South and West Asia,2022,2022,11.88714,Male
+COL,Colombia,2017,2017,14.47853,Male
+COL,Colombia,2018,2018,14.39854,Male
+COL,Colombia,2019,2019,14.32801,Male
+COL,Colombia,2020,2020,14.08671,Male
+COL,Colombia,2021,2021,14.2067,Male
+COL,Colombia,2022,2022,14.03887,Male
+USA,United States of America,2017,2017,17.34075,Male
+USA,United States of America,2018,2018,17.32986,Male
+USA,United States of America,2019,2019,17.35239,Male
+USA,United States of America,2020,2020,17.32647,Male
+USA,United States of America,2021,2021,17.26275,Male
+USA,United States of America,2022,2022,16.8248,Male
+MOZ,Mozambique,2017,2017,9.88063,Male
+BRN,Brunei Darussalam,2017,2017,14.51861,Male
+BRN,Brunei Darussalam,2018,2018,14.3637,Male
+BRN,Brunei Darussalam,2019,2019,14.23845,Male
+BRN,Brunei Darussalam,2020,2020,14.17734,Male
+ESP,Spain,2017,2017,17.06411,Male
+ESP,Spain,2018,2018,17.06297,Male
+ESP,Spain,2019,2019,16.99622,Male
+ESP,Spain,2020,2020,16.92847,Male
+ESP,Spain,2021,2021,17.20244,Male
+40650,Oceania,2017,2017,16.38897,Male
+40650,Oceania,2018,2018,15.66905,Male
+40650,Oceania,2019,2019,16.20526,Male
+40650,Oceania,2020,2020,15.87943,Male
+40650,Oceania,2021,2021,15.93973,Male
+40650,Oceania,2022,2022,15.8729,Male
+UKR,Ukraine,2017,2017,13.90827,Male
+UKR,Ukraine,2018,2018,13.86776,Male
+UKR,Ukraine,2019,2019,13.95524,Male
+UKR,Ukraine,2020,2020,13.77739,Male
+UKR,Ukraine,2021,2021,13.54051,Male
+MAC,"China, Macao Special Administrative Region",2017,2017,16.37515,Male
+MAC,"China, Macao Special Administrative Region",2018,2018,15.57616,Male
+MAC,"China, Macao Special Administrative Region",2019,2019,15.2303,Male
+MAC,"China, Macao Special Administrative Region",2020,2020,15.15287,Male
+MAC,"China, Macao Special Administrative Region",2021,2021,15.43617,Male
+MAC,"China, Macao Special Administrative Region",2022,2022,16.07115,Male
+GHA,Ghana,2017,2017,10.7045,Male
+GHA,Ghana,2018,2018,10.72536,Male
+GHA,Ghana,2019,2019,11.11997,Male
+GHA,Ghana,2020,2020,11.30471,Male
+GHA,Ghana,2021,2021,11.4823,Male
+GHA,Ghana,2022,2022,11.31787,Male
+LCA,Saint Lucia,2017,2017,12.97766,Male
+LCA,Saint Lucia,2018,2018,12.93203,Male
+LCA,Saint Lucia,2019,2019,12.12052,Male
+LCA,Saint Lucia,2020,2020,12.09832,Male
+LCA,Saint Lucia,2022,2022,12.05116,Male
+MDA,Republic of Moldova,2017,2017,14.02159,Male
+MDA,Republic of Moldova,2018,2018,14.11803,Male
+MDA,Republic of Moldova,2019,2019,14.25891,Male
+MDA,Republic of Moldova,2020,2020,14.20628,Male
+MDA,Republic of Moldova,2021,2021,14.39,Male
+MDA,Republic of Moldova,2022,2022,14.443,Male
+40612,Central Asia,2017,2017,12.65502,Male
+40612,Central Asia,2018,2018,12.73106,Male
+40612,Central Asia,2019,2019,12.85795,Male
+40612,Central Asia,2020,2020,12.82796,Male
+40612,Central Asia,2021,2021,12.8442,Male
+40612,Central Asia,2022,2022,12.89107,Male
+VGB,British Virgin Islands,2021,2021,16.30032,Male
+VGB,British Virgin Islands,2022,2022,13.40863,Male
+CAN,Canada,2017,2017,16.51124,Male
+CAN,Canada,2018,2018,16.43121,Male
+CAN,Canada,2019,2019,16.43435,Male
+CAN,Canada,2020,2020,16.47273,Male
+CAN,Canada,2021,2021,16.53594,Male
+BGD,Bangladesh,2017,2017,10.65233,Male
+BGD,Bangladesh,2018,2018,11.15711,Male
+BGD,Bangladesh,2020,2020,11.50172,Male
+LUX,Luxembourg,2017,2017,13.98403,Male
+LUX,Luxembourg,2018,2018,14.05132,Male
+LUX,Luxembourg,2019,2019,14.12903,Male
+LUX,Luxembourg,2020,2020,14.11478,Male
+LUX,Luxembourg,2021,2021,14.08836,Male
+SVN,Slovenia,2017,2017,16.75787,Male
+SVN,Slovenia,2018,2018,16.72535,Male
+SVN,Slovenia,2019,2019,16.56487,Male
+SVN,Slovenia,2020,2020,16.49482,Male
+SVN,Slovenia,2021,2021,16.58584,Male
+SVN,Slovenia,2022,2022,16.66216,Male
+SAU,Saudi Arabia,2017,2017,15.04058,Male
+SAU,Saudi Arabia,2018,2018,15.21622,Male
+SAU,Saudi Arabia,2019,2019,15.54208,Male
+SAU,Saudi Arabia,2020,2020,15.38368,Male
+SAU,Saudi Arabia,2021,2021,15.48644,Male
+SAU,Saudi Arabia,2022,2022,16.3838,Male
+GRC,Greece,2017,2017,18.85395,Male
+GRC,Greece,2018,2018,19.2205,Male
+GRC,Greece,2019,2019,19.76819,Male
+GRC,Greece,2020,2020,19.82952,Male
+GRC,Greece,2021,2021,20.19032,Male
+ECU,Ecuador,2018,2018,14.4489,Male
+ECU,Ecuador,2019,2019,14.16719,Male
+ECU,Ecuador,2020,2020,14.44118,Male
+ITA,Italy,2017,2017,15.86068,Male
+ITA,Italy,2018,2018,15.98814,Male
+ITA,Italy,2019,2019,16.02843,Male
+ITA,Italy,2020,2020,16.09837,Male
+ITA,Italy,2021,2021,16.20886,Male
+BHR,Bahrain,2017,2017,16.91294,Male
+BHR,Bahrain,2018,2018,16.58231,Male
+BHR,Bahrain,2019,2019,16.98129,Male
+BHR,Bahrain,2022,2022,17.00641,Male
+LSO,Lesotho,2017,2017,10.97591,Male
+THA,Thailand,2020,2020,15.70824,Male
+EST,Estonia,2017,2017,16.60347,Male
+EST,Estonia,2018,2018,16.55525,Male
+EST,Estonia,2019,2019,16.5579,Male
+EST,Estonia,2020,2020,16.61121,Male
+EST,Estonia,2021,2021,16.80972,Male
+EST,Estonia,2022,2022,16.85848,Male
+40630,Latin America and the Caribbean,2017,2017,15.01532,Male
+40630,Latin America and the Caribbean,2018,2018,15.08706,Male
+40630,Latin America and the Caribbean,2019,2019,15.14667,Male
+40630,Latin America and the Caribbean,2020,2020,15.229,Male
+40630,Latin America and the Caribbean,2021,2021,15.33639,Male
+40630,Latin America and the Caribbean,2022,2022,15.32868,Male
+40618,Central and Southern Asia,2017,2017,11.4057,Male
+40618,Central and Southern Asia,2018,2018,10.85202,Male
+40618,Central and Southern Asia,2019,2019,10.95065,Male
+40618,Central and Southern Asia,2020,2020,11.13595,Male
+40618,Central and Southern Asia,2021,2021,11.30518,Male
+40618,Central and Southern Asia,2022,2022,11.69901,Male
+40334,Least Developed Countries,2017,2017,8.90789,Male
+40334,Least Developed Countries,2018,2018,9.04105,Male
+40334,Least Developed Countries,2019,2019,9.12944,Male
+MDG,Madagascar,2018,2018,9.82464,Male
+MDG,Madagascar,2019,2019,9.27724,Male
+NOR,Norway,2017,2017,18.78519,Male
+NOR,Norway,2018,2018,18.87774,Male
+NOR,Norway,2019,2019,18.96408,Male
+NOR,Norway,2020,2020,19.07895,Male
+NOR,Norway,2021,2021,19.52136,Male
+NPL,Nepal,2017,2017,12.41463,Male
+NPL,Nepal,2019,2019,12.55796,Male
+NPL,Nepal,2020,2020,12.46627,Male
+40520,Latin America and the Caribbean,2017,2017,14.20786,Male
+40520,Latin America and the Caribbean,2018,2018,14.23803,Male
+40520,Latin America and the Caribbean,2019,2019,14.23359,Male
+40520,Latin America and the Caribbean,2020,2020,14.21126,Male
+40520,Latin America and the Caribbean,2021,2021,14.14921,Male
+40520,Latin America and the Caribbean,2022,2022,14.14979,Male
+HKG,"China, Hong Kong Special Administrative Region",2017,2017,16.55104,Male
+HKG,"China, Hong Kong Special Administrative Region",2018,2018,16.84246,Male
+HKG,"China, Hong Kong Special Administrative Region",2019,2019,16.93955,Male
+HKG,"China, Hong Kong Special Administrative Region",2020,2020,17.12826,Male
+HKG,"China, Hong Kong Special Administrative Region",2021,2021,17.56233,Male
+HKG,"China, Hong Kong Special Administrative Region",2022,2022,17.33457,Male
+BEN,Benin,2020,2020,9.46247,Male
+BEN,Benin,2021,2021,9.60493,Male
+FRA,France,2017,2017,15.39769,Male
+FRA,France,2018,2018,15.49095,Male
+FRA,France,2019,2019,15.50574,Male
+FRA,France,2020,2020,15.54038,Male
+FRA,France,2021,2021,15.58458,Male
+FRA,France,2022,2022,15.61709,Male
+AFG,Afghanistan,2018,2018,12.96442,Male
+40525,Arab States,2017,2017,11.32022,Male
+40525,Arab States,2018,2018,11.49056,Male
+40525,Arab States,2019,2019,11.63272,Male
+40525,Arab States,2020,2020,11.70201,Male
+40525,Arab States,2021,2021,11.76952,Male
+CHE,Switzerland,2017,2017,16.15349,Male
+CHE,Switzerland,2018,2018,16.24296,Male
+CHE,Switzerland,2019,2019,16.34182,Male
+CHE,Switzerland,2020,2020,16.46333,Male
+CHE,Switzerland,2021,2021,16.67786,Male
+CHE,Switzerland,2022,2022,16.79875,Male
+PHL,Philippines,2017,2017,12.44195,Male
+PHL,Philippines,2018,2018,12.43434,Male
+PHL,Philippines,2019,2019,12.64123,Male
+PHL,Philippines,2020,2020,12.37481,Male
+GTM,Guatemala,2019,2019,10.6469,Male
+PAK,Pakistan,2017,2017,7.65513,Male
+PAK,Pakistan,2018,2018,7.95126,Male
+PAK,Pakistan,2019,2019,8.17716,Male
+HRV,Croatia,2017,2017,14.70589,Male
+HRV,Croatia,2018,2018,14.73092,Male
+HRV,Croatia,2019,2019,14.66767,Male
+HRV,Croatia,2020,2020,14.66011,Male
+HRV,Croatia,2021,2021,14.72341,Male
+BDI,Burundi,2017,2017,10.4845,Male
+BDI,Burundi,2018,2018,10.34485,Male
+40043,Upper middle income countries,2017,2017,14.46576,Male
+40043,Upper middle income countries,2018,2018,14.59896,Male
+40043,Upper middle income countries,2019,2019,14.77861,Male
+40043,Upper middle income countries,2020,2020,14.95696,Male
+40043,Upper middle income countries,2021,2021,15.15823,Male
+40043,Upper middle income countries,2022,2022,15.2822,Male
+MNG,Mongolia,2019,2019,15.28515,Male
+TON,Tonga,2020,2020,15.22015,Male
+PER,Peru,2017,2017,14.51192,Male
+KGZ,Kyrgyzstan,2017,2017,12.58061,Male
+KGZ,Kyrgyzstan,2018,2018,12.56332,Male
+KGZ,Kyrgyzstan,2019,2019,12.57027,Male
+KGZ,Kyrgyzstan,2020,2020,12.75383,Male
+KGZ,Kyrgyzstan,2021,2021,13.15699,Male
+40642,Europe and Northern America,2017,2017,15.82997,Male
+40642,Europe and Northern America,2018,2018,15.89151,Male
+40642,Europe and Northern America,2019,2019,15.88292,Male
+40642,Europe and Northern America,2020,2020,15.88723,Male
+40642,Europe and Northern America,2021,2021,15.81995,Male
+40642,Europe and Northern America,2022,2022,15.85483,Male
+OMN,Oman,2017,2017,14.92529,Male
+OMN,Oman,2018,2018,14.86847,Male
+OMN,Oman,2019,2019,14.64418,Male
+OMN,Oman,2020,2020,13.87254,Male
+OMN,Oman,2021,2021,13.46503,Male
+40617,Northern Africa and Western Asia,2017,2017,12.25902,Male
+40617,Northern Africa and Western Asia,2018,2018,12.45936,Male
+40617,Northern Africa and Western Asia,2019,2019,12.60146,Male
+40617,Northern Africa and Western Asia,2020,2020,12.71099,Male
+40617,Northern Africa and Western Asia,2021,2021,12.8232,Male
+MDV,Maldives,2019,2019,11.26266,Male
+AZE,Azerbaijan,2018,2018,13.2161,Male
+AZE,Azerbaijan,2019,2019,13.3343,Male
+AZE,Azerbaijan,2020,2020,12.54786,Male
+AZE,Azerbaijan,2021,2021,12.62805,Male
+AZE,Azerbaijan,2022,2022,12.74398,Male
+AUS,Australia,2017,2017,22.39792,Male
+AUS,Australia,2018,2018,21.00313,Male
+AUS,Australia,2019,2019,22.01021,Male
+AUS,Australia,2020,2020,21.73602,Male
+AUS,Australia,2021,2021,21.98143,Male
+AUS,Australia,2022,2022,21.48183,Male
+UZB,Uzbekistan,2017,2017,11.79387,Male
+UZB,Uzbekistan,2018,2018,12.00045,Male
+UZB,Uzbekistan,2019,2019,12.28444,Male
+UZB,Uzbekistan,2020,2020,12.0064,Male
+UZB,Uzbekistan,2021,2021,12.02127,Male
+40510,World,2017,2017,12.23558,Male
+40510,World,2018,2018,12.16072,Male
+40510,World,2019,2019,12.25032,Male
+40510,World,2020,2020,12.39123,Male
+40510,World,2021,2021,12.48,Male
+40510,World,2022,2022,12.61754,Male
+RUS,Russian Federation,2017,2017,15.09939,Male
+RUS,Russian Federation,2018,2018,15.73216,Male
+RUS,Russian Federation,2019,2019,15.73413,Male
+RUS,Russian Federation,2020,2020,13.60529,Male
+RUS,Russian Federation,2021,2021,13.5027,Male
+RUS,Russian Federation,2022,2022,13.41428,Male
+TUR,Türkiye,2017,2017,19.20394,Male
+TUR,Türkiye,2018,2018,19.3805,Male
+TUR,Türkiye,2019,2019,19.53996,Male
+TUR,Türkiye,2020,2020,19.51246,Male
+TUR,Türkiye,2021,2021,19.80444,Male
+FIN,Finland,2017,2017,20.21212,Male
+FIN,Finland,2018,2018,20.31839,Male
+FIN,Finland,2019,2019,19.8794,Male
+FIN,Finland,2020,2020,19.9711,Male
+FIN,Finland,2021,2021,20.25945,Male
+FIN,Finland,2022,2022,20.65835,Male
+SYC,Seychelles,2017,2017,12.30264,Male
+SYC,Seychelles,2018,2018,12.45769,Male
+SYC,Seychelles,2019,2019,12.30957,Male
+SYC,Seychelles,2020,2020,12.31721,Male
+SYC,Seychelles,2021,2021,12.42627,Male
+SYC,Seychelles,2022,2022,12.6085,Male
+40611,Eastern Asia,2017,2017,13.58757,Male
+40611,Eastern Asia,2018,2018,13.72707,Male
+40611,Eastern Asia,2019,2019,13.90701,Male
+40611,Eastern Asia,2020,2020,14.24687,Male
+40611,Eastern Asia,2021,2021,14.56986,Male
+40611,Eastern Asia,2022,2022,14.828,Male
+DOM,Dominican Republic,2017,2017,15.55697,Male
+DOM,Dominican Republic,2020,2020,15.36625,Male
+DOM,Dominican Republic,2021,2021,14.78892,Male
+BGD,Bangladesh,2017,2017,11.19708,Male
+BGD,Bangladesh,2018,2018,11.65119,Male
+BGD,Bangladesh,2020,2020,12.40667,Male
+40606,Sub-Saharan Africa,2017,2017,9.65678,Male
+IDN,Indonesia,2017,2017,13.80362,Male
+IDN,Indonesia,2018,2018,13.86205,Male
+MAR,Morocco,2017,2017,13.77802,Male
+MAR,Morocco,2018,2018,13.90754,Male
+MAR,Morocco,2019,2019,14.07904,Male
+MAR,Morocco,2020,2020,14.21162,Male
+MAR,Morocco,2021,2021,14.1926,Male
+MAR,Morocco,2022,2022,14.68884,Male
+URY,Uruguay,2021,2021,15.94714,Male
+40530,Central and Eastern Europe,2017,2017,15.73854,Male
+40530,Central and Eastern Europe,2018,2018,16.01401,Male
+40530,Central and Eastern Europe,2019,2019,16.06697,Male
+40530,Central and Eastern Europe,2020,2020,16.1078,Male
+40530,Central and Eastern Europe,2021,2021,16.14791,Male
+40530,Central and Eastern Europe,2022,2022,16.15014,Male
+MYS,Malaysia,2017,2017,13.62692,Male
+MYS,Malaysia,2018,2018,13.61396,Male
+MYS,Malaysia,2019,2019,13.58307,Male
+MYS,Malaysia,2020,2020,13.44345,Male
+MYS,Malaysia,2021,2021,13.39497,Male
+ARM,Armenia,2018,2018,13.58549,Male
+ARM,Armenia,2019,2019,13.7418,Male
+ARM,Armenia,2020,2020,13.76199,Male
+ARM,Armenia,2021,2021,14.13381,Male
+ARM,Armenia,2022,2022,14.02234,Male
+40520,Latin America and the Caribbean,2017,2017,15.01531,Male
+40520,Latin America and the Caribbean,2018,2018,15.08705,Male
+40520,Latin America and the Caribbean,2019,2019,15.14665,Male
+40520,Latin America and the Caribbean,2020,2020,15.22899,Male
+40520,Latin America and the Caribbean,2021,2021,15.33638,Male
+40520,Latin America and the Caribbean,2022,2022,15.32866,Male
+POL,Poland,2017,2017,16.86481,Male
+POL,Poland,2018,2018,16.73478,Male
+POL,Poland,2019,2019,16.66987,Male
+POL,Poland,2020,2020,16.59943,Male
+POL,Poland,2021,2021,16.70746,Male
+POL,Poland,2022,2022,17.04921,Male
+DEU,Germany,2017,2017,16.98592,Male
+DEU,Germany,2018,2018,17.05264,Male
+DEU,Germany,2019,2019,17.26806,Male
+DEU,Germany,2020,2020,17.22988,Male
+DEU,Germany,2021,2021,17.31983,Male
+MRT,Mauritania,2017,2017,7.9925,Male
+MRT,Mauritania,2018,2018,8.46513,Male
+MRT,Mauritania,2019,2019,8.76499,Male
+MRT,Mauritania,2020,2020,8.16034,Male
+EGY,Egypt,2017,2017,12.2233,Male
+EGY,Egypt,2018,2018,12.47455,Male
+EGY,Egypt,2020,2020,13.02345,Male
+CHL,Chile,2017,2017,16.30686,Male
+CHL,Chile,2018,2018,16.35615,Male
+CHL,Chile,2019,2019,16.40881,Male
+CHL,Chile,2020,2020,16.10942,Male
+CHL,Chile,2021,2021,16.46308,Male
+CHL,Chile,2022,2022,16.64814,Male
+TUR,Türkiye,2017,2017,18.12502,Male
+TUR,Türkiye,2018,2018,18.55944,Male
+TUR,Türkiye,2019,2019,18.82059,Male
+TUR,Türkiye,2020,2020,19.07266,Male
+TUR,Türkiye,2021,2021,19.56439,Male
+40500,North America and Western Europe,2017,2017,16.31402,Male
+40500,North America and Western Europe,2018,2018,16.29066,Male
+40500,North America and Western Europe,2019,2019,16.27867,Male
+40500,North America and Western Europe,2020,2020,16.27545,Male
+40500,North America and Western Europe,2021,2021,16.20212,Male
+40500,North America and Western Europe,2022,2022,16.2454,Male
+SRB,Serbia,2017,2017,15.48224,Male
+SRB,Serbia,2018,2018,15.49904,Male
+SRB,Serbia,2019,2019,15.43495,Male
+SRB,Serbia,2020,2020,15.21388,Male
+SRB,Serbia,2021,2021,15.27253,Male
+SRB,Serbia,2022,2022,14.62045,Male
+SMR,San Marino,2018,2018,12.27448,Male
+SMR,San Marino,2019,2019,12.43733,Male
+SMR,San Marino,2020,2020,13.01398,Male
+SMR,San Marino,2021,2021,12.83869,Male
+SMR,San Marino,2022,2022,12.88761,Male
+SGP,Singapore,2017,2017,16.87475,Male
+SGP,Singapore,2018,2018,16.9332,Male
+SGP,Singapore,2019,2019,16.91782,Male
+SGP,Singapore,2020,2020,16.92181,Male
+SGP,Singapore,2021,2021,17.03402,Male
+LAO,Lao People's Democratic Republic,2017,2017,10.66856,Male
+LAO,Lao People's Democratic Republic,2018,2018,10.3981,Male
+LAO,Lao People's Democratic Republic,2019,2019,10.27553,Male
+LAO,Lao People's Democratic Republic,2020,2020,10.00139,Male
+BRA,Brazil,2017,2017,15.79373,Male
+BRA,Brazil,2018,2018,15.91962,Male
+BRA,Brazil,2019,2019,15.91731,Male
+BRA,Brazil,2020,2020,15.9354,Male
+BRA,Brazil,2021,2021,16.22304,Male
+40041,High income countries,2017,2017,16.93869,Male
+40041,High income countries,2018,2018,16.91715,Male
+40041,High income countries,2019,2019,16.98348,Male
+40041,High income countries,2020,2020,16.97528,Male
+40041,High income countries,2021,2021,17.08529,Male
+40041,High income countries,2022,2022,17.11136,Male
+ISR,Israel,2017,2017,14.43557,Male
+ISR,Israel,2018,2018,14.36696,Male
+ISR,Israel,2019,2019,14.23538,Male
+ISR,Israel,2020,2020,14.30548,Male
+ISR,Israel,2021,2021,14.49588,Male
+PSE,Palestine,2017,2017,12.65168,Male
+PSE,Palestine,2018,2018,12.62984,Male
+PSE,Palestine,2019,2019,12.5719,Male
+PSE,Palestine,2020,2020,12.50302,Male
+PSE,Palestine,2021,2021,12.44565,Male
+PSE,Palestine,2022,2022,12.35841,Male
+BEL,Belgium,2017,2017,18.78293,Male
+BEL,Belgium,2018,2018,18.59174,Male
+BEL,Belgium,2019,2019,18.54634,Male
+BEL,Belgium,2020,2020,18.26886,Male
+BEL,Belgium,2021,2021,17.99295,Male
+CYP,Cyprus,2017,2017,15.74377,Male
+CYP,Cyprus,2018,2018,15.78167,Male
+CYP,Cyprus,2019,2019,16.07844,Male
+CYP,Cyprus,2020,2020,16.38664,Male
+CYP,Cyprus,2021,2021,16.64412,Male
+TZA,United Republic of Tanzania,2017,2017,7.94102,Male
+TZA,United Republic of Tanzania,2019,2019,8.63881,Male
+TZA,United Republic of Tanzania,2021,2021,8.45033,Male
+PAK,Pakistan,2017,2017,6.33755,Male
+PAK,Pakistan,2018,2018,6.61825,Male
+PAK,Pakistan,2019,2019,7.06352,Male
+40603,Northern Africa,2017,2017,12.09423,Male
+40603,Northern Africa,2018,2018,12.31721,Male
+40603,Northern Africa,2019,2019,12.48806,Male
+40603,Northern Africa,2020,2020,12.58339,Male
+40603,Northern Africa,2021,2021,12.66585,Male
+40550,Small Island Developing States,2017,2017,11.52341,Male
+40550,Small Island Developing States,2018,2018,11.57059,Male
+40550,Small Island Developing States,2019,2019,11.62405,Male
+40550,Small Island Developing States,2020,2020,11.55884,Male
+40550,Small Island Developing States,2021,2021,11.37839,Male
+KOR,Republic of Korea,2017,2017,15.87677,Male
+KOR,Republic of Korea,2018,2018,15.89699,Male
+KOR,Republic of Korea,2019,2019,15.94014,Male
+KOR,Republic of Korea,2020,2020,15.96579,Male
+KOR,Republic of Korea,2021,2021,16.13556,Male
+KOR,Republic of Korea,2022,2022,16.28393,Male
+AUT,Austria,2017,2017,16.31935,Male
+AUT,Austria,2018,2018,16.37926,Male
+AUT,Austria,2019,2019,16.45075,Male
+AUT,Austria,2020,2020,16.52214,Male
+AUT,Austria,2021,2021,16.8385,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2017,2017,16.87508,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2018,2018,16.60564,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,2019,16.60697,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2020,2020,16.5761,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2021,2021,17.05068,Male
+GBR,United Kingdom of Great Britain and Northern Ireland,2022,2022,16.91354,Male
+40613,South-Eastern Asia,2017,2017,12.89071,Male
+40613,South-Eastern Asia,2018,2018,12.9014,Male
+40613,South-Eastern Asia,2019,2019,12.97691,Male
+40613,South-Eastern Asia,2020,2020,12.95962,Male
+40613,South-Eastern Asia,2021,2021,13.12892,Male
+GEO,Georgia,2017,2017,15.81172,Male
+GEO,Georgia,2018,2018,16.01951,Male
+GEO,Georgia,2019,2019,16.29449,Male
+GEO,Georgia,2020,2020,16.15139,Male
+GEO,Georgia,2021,2021,16.39154,Male
+GEO,Georgia,2022,2022,16.46576,Male
+40614,Western Asia,2017,2017,13.27681,Male
+40614,Western Asia,2018,2018,13.39549,Male
+40614,Western Asia,2019,2019,13.49214,Male
+40614,Western Asia,2020,2020,13.55768,Male
+40614,Western Asia,2021,2021,13.67535,Male
+40614,Western Asia,2022,2022,13.71846,Male
+MKD,North Macedonia,2017,2017,13.42986,Male
+MKD,North Macedonia,2018,2018,13.29535,Male
+MKD,North Macedonia,2019,2019,13.13639,Male
+MKD,North Macedonia,2020,2020,13.14543,Male
+MKD,North Macedonia,2021,2021,13.429,Male
+MKD,North Macedonia,2022,2022,13.57856,Male
+RWA,Rwanda,2017,2017,11.1531,Male
+RWA,Rwanda,2018,2018,10.81149,Male
+RWA,Rwanda,2019,2019,10.88945,Male
+RWA,Rwanda,2022,2022,11.49433,Male
+ECU,Ecuador,2018,2018,15.01103,Male
+ECU,Ecuador,2019,2019,14.77847,Male
+ECU,Ecuador,2020,2020,15.30182,Male
+BLZ,Belize,2017,2017,12.94362,Male
+BLZ,Belize,2018,2018,12.99148,Male
+BLZ,Belize,2019,2019,12.97905,Male
+BLZ,Belize,2020,2020,12.79092,Male
+BLZ,Belize,2021,2021,12.55363,Male
+BLZ,Belize,2022,2022,12.05408,Male
+PRT,Portugal,2017,2017,16.2926,Male
+PRT,Portugal,2018,2018,16.33828,Male
+PRT,Portugal,2019,2019,16.41724,Male
+PRT,Portugal,2020,2020,16.46873,Male
+PRT,Portugal,2021,2021,16.57933,Male
+LCA,Saint Lucia,2017,2017,14.73552,Male
+LCA,Saint Lucia,2018,2018,14.57681,Male
+LCA,Saint Lucia,2019,2019,13.31603,Male
+LCA,Saint Lucia,2020,2020,13.29777,Male
+LCA,Saint Lucia,2022,2022,13.43453,Male
+AZE,Azerbaijan,2018,2018,13.43628,Male
+AZE,Azerbaijan,2019,2019,13.64858,Male
+AZE,Azerbaijan,2020,2020,12.72765,Male
+AZE,Azerbaijan,2021,2021,12.73447,Male
+AZE,Azerbaijan,2022,2022,12.67574,Male
+ROU,Romania,2017,2017,13.85111,Male
+ROU,Romania,2018,2018,13.94508,Male
+ROU,Romania,2019,2019,13.97002,Male
+ROU,Romania,2020,2020,14.82732,Male
+ROU,Romania,2021,2021,13.99918,Male
+VAT,Holy See,2017,2017,,Male
+VAT,Holy See,2018,2018,,Male
+VAT,Holy See,2019,2019,,Male
+VAT,Holy See,2020,2020,,Male
+VAT,Holy See,2021,2021,,Male
+VAT,Holy See,2022,2022,,Male
+VAT,Holy See,2023,2023,,Male
+MLT,Malta,2017,2017,15.91905,Male
+MLT,Malta,2018,2018,16.10957,Male
+MLT,Malta,2019,2019,16.1382,Male
+MLT,Malta,2020,2020,16.16622,Male
+MLT,Malta,2021,2021,16.61197,Male
+MLT,Malta,2022,2022,16.62427,Male
+ISL,Iceland,2017,2017,17.68963,Male
+ISL,Iceland,2018,2018,17.47699,Male
+ISL,Iceland,2019,2019,17.1559,Male
+ISL,Iceland,2020,2020,17.1394,Male
+ISL,Iceland,2021,2021,17.83466,Male
+NLD,Netherlands,2017,2017,18.65835,Male
+NLD,Netherlands,2018,2018,18.55822,Male
+NLD,Netherlands,2020,2020,18.70557,Male
+NLD,Netherlands,2021,2021,18.94419,Male
+BFA,Burkina Faso,2017,2017,8.84923,Male
+BFA,Burkina Faso,2018,2018,9.14273,Male
+BFA,Burkina Faso,2019,2019,9.04479,Male
+BFA,Burkina Faso,2020,2020,8.84642,Male
+BFA,Burkina Faso,2021,2021,8.72078,Male
+BFA,Burkina Faso,2022,2022,8.00153,Male
+LTU,Lithuania,2017,2017,16.38776,Male
+LTU,Lithuania,2018,2018,16.29754,Male
+LTU,Lithuania,2019,2019,16.01029,Male
+LTU,Lithuania,2020,2020,15.84598,Male
+LTU,Lithuania,2021,2021,15.7969,Male
+ESP,Spain,2017,2017,17.90936,Male
+ESP,Spain,2018,2018,17.98947,Male
+ESP,Spain,2019,2019,18.02186,Male
+ESP,Spain,2020,2020,18.03096,Male
+ESP,Spain,2021,2021,18.43926,Male
+DNK,Denmark,2017,2017,18.21694,Male
+DNK,Denmark,2018,2018,18.1355,Male
+DNK,Denmark,2019,2019,18.04604,Male
+DNK,Denmark,2020,2020,18.04153,Male
+DNK,Denmark,2021,2021,18.19271,Male
+DNK,Denmark,2022,2022,18.10002,Male
+LVA,Latvia,2017,2017,15.77667,Male
+LVA,Latvia,2018,2018,15.81379,Male
+LVA,Latvia,2019,2019,15.91833,Male
+LVA,Latvia,2020,2020,15.89343,Male
+LVA,Latvia,2021,2021,15.89213,Male
+LVA,Latvia,2022,2022,15.74544,Male
+40640,Northern America ,2017,2017,17.26617,Male
+40640,Northern America ,2018,2018,17.24803,Male
+40640,Northern America ,2019,2019,17.2684,Male
+40640,Northern America ,2020,2020,17.24871,Male
+40640,Northern America ,2021,2021,17.19686,Male
+40640,Northern America ,2022,2022,17.25669,Male
+40540,Sub-Saharan Africa,2017,2017,9.66575,Male
+40515,East Asia and the Pacific,2017,2017,13.39933,Male
+40515,East Asia and the Pacific,2018,2018,13.48616,Male
+40515,East Asia and the Pacific,2019,2019,13.63118,Male
+40515,East Asia and the Pacific,2020,2020,13.84135,Male
+40515,East Asia and the Pacific,2021,2021,14.09095,Male
+40515,East Asia and the Pacific,2022,2022,14.28085,Male
+KAZ,Kazakhstan,2017,2017,13.93867,Male
+KAZ,Kazakhstan,2018,2018,14.09527,Male
+KAZ,Kazakhstan,2019,2019,14.31106,Male
+KAZ,Kazakhstan,2020,2020,14.61164,Male
+BGR,Bulgaria,2017,2017,14.887,Male
+BGR,Bulgaria,2018,2018,14.70811,Male
+BGR,Bulgaria,2019,2019,14.52337,Male
+BGR,Bulgaria,2020,2020,14.29481,Male
+BGR,Bulgaria,2021,2021,14.12745,Male
+DZA,Algeria,2022,2022,16.26418,Male
+SWE,Sweden,2017,2017,17.86141,Male
+SWE,Sweden,2018,2018,17.77835,Male
+SWE,Sweden,2019,2019,17.32243,Male
+SWE,Sweden,2020,2020,17.30953,Male
+SWE,Sweden,2021,2021,17.51425,Male
+SWE,Sweden,2022,2022,17.38843,Male
+TGO,Togo,2017,2017,13.62176,Male
+ARE,United Arab Emirates,2017,2017,16.01968,Male
+ARE,United Arab Emirates,2020,2020,19.75328,Male
+40616,Southern Asia,2017,2017,11.16549,Male
+40616,Southern Asia,2018,2018,10.99643,Male
+40616,Southern Asia,2019,2019,10.99246,Male
+40616,Southern Asia,2020,2020,11.31686,Male
+40616,Southern Asia,2021,2021,11.53943,Male
+40616,Southern Asia,2022,2022,11.88714,Male
+ARG,Argentina,2017,2017,19.27321,Male
+ARG,Argentina,2018,2018,19.31156,Male
+ARG,Argentina,2019,2019,19.63069,Male
+ARG,Argentina,2020,2020,20.03861,Male
+ARG,Argentina,2021,2021,20.9149,Male
+NZL,New Zealand,2017,2017,17.55066,Male
+NZL,New Zealand,2018,2018,17.32427,Male
+NZL,New Zealand,2019,2019,18.90193,Male
+NZL,New Zealand,2020,2020,18.67567,Male
+NZL,New Zealand,2021,2021,19.19735,Male
+IRL,Ireland,2017,2017,18.79073,Male
+IRL,Ireland,2018,2018,20.23127,Male
+IRL,Ireland,2019,2019,19.2366,Male
+IRL,Ireland,2020,2020,19.22914,Male
+IRL,Ireland,2021,2021,19.4758,Male
+CIV,Côte d'Ivoire,2017,2017,8.68615,Male
+CIV,Côte d'Ivoire,2019,2019,9.27916,Male
+CIV,Côte d'Ivoire,2020,2020,9.53283,Male
+40675,World,2017,2017,12.23558,Male
+40675,World,2018,2018,12.16072,Male
+40675,World,2019,2019,12.25032,Male
+40675,World,2020,2020,12.39123,Male
+40675,World,2021,2021,12.48,Male
+40675,World,2022,2022,12.61754,Male
+SEN,Senegal,2019,2019,8.47511,Male
+SEN,Senegal,2020,2020,8.54503,Male
+SEN,Senegal,2021,2021,8.44111,Male
+SEN,Senegal,2022,2022,8.42006,Male
+CZE,Czechia,2017,2017,17.43717,Male
+CZE,Czechia,2018,2018,16.66438,Male
+CZE,Czechia,2019,2019,16.66478,Male
+CZE,Czechia,2020,2020,16.72308,Male
+CZE,Czechia,2021,2021,16.93661,Male
+BTN,Bhutan,2018,2018,12.39581,Male
+MUS,Mauritius,2017,2017,14.19288,Male
+MUS,Mauritius,2018,2018,14.22205,Male
+MUS,Mauritius,2019,2019,14.49372,Male
+MUS,Mauritius,2020,2020,14.05864,Male
+40042,Lower middle income countries,2017,2017,10.99162,Male
+40042,Lower middle income countries,2018,2018,10.71183,Male
+40042,Lower middle income countries,2019,2019,10.83026,Male
+40042,Lower middle income countries,2020,2020,10.97911,Male
+40042,Lower middle income countries,2021,2021,11.1111,Male
+40042,Lower middle income countries,2022,2022,11.33514,Male
+DOM,Dominican Republic,2017,2017,13.76869,Male
+DOM,Dominican Republic,2020,2020,13.39978,Male
+DOM,Dominican Republic,2021,2021,12.35814,Male
+SUR,Suriname,2021,2021,11.33802,Male
+PRI,Puerto Rico,2018,2018,18.3609,Male
+SGP,Singapore,2017,2017,16.53925,Male
+SGP,Singapore,2018,2018,16.6086,Male
+SGP,Singapore,2019,2019,16.62373,Male
+SGP,Singapore,2020,2020,16.70577,Male
+SGP,Singapore,2021,2021,16.81064,Male
+TKM,Turkmenistan,2019,2019,12.21359,Male
+TKM,Turkmenistan,2020,2020,12.4861,Male
+TKM,Turkmenistan,2021,2021,12.93895,Male
+TKM,Turkmenistan,2022,2022,13.23245,Male
+MHL,Marshall Islands,2019,2019,15.12618,Male
+MHL,Marshall Islands,2022,2022,15.80325,Male
+SUR,Suriname,2021,2021,10.58965,Male
+JPN,Japan,2017,2017,15.3447,Male
+JPN,Japan,2018,2018,15.36118,Male
+JPN,Japan,2019,2019,15.40706,Male
+JPN,Japan,2020,2020,15.42417,Male
+JPN,Japan,2021,2021,15.394,Male
+JPN,Japan,2017,2017,15.4289,Male
+JPN,Japan,2018,2018,15.43761,Male
+JPN,Japan,2019,2019,15.4736,Male
+JPN,Japan,2020,2020,15.48671,Male
+JPN,Japan,2021,2021,15.46965,Male
+BIH,Bosnia and Herzegovina,2017,2017,13.98637,Male
+BIH,Bosnia and Herzegovina,2018,2018,13.95415,Male
+BIH,Bosnia and Herzegovina,2019,2019,13.85529,Male
+BIH,Bosnia and Herzegovina,2020,2020,13.6861,Male
+BIH,Bosnia and Herzegovina,2021,2021,13.76589,Male
+BIH,Bosnia and Herzegovina,2022,2022,13.77554,Male
+AND,Andorra,2017,2017,11.89901,Male
+AND,Andorra,2018,2018,11.97977,Male
+AND,Andorra,2019,2019,11.97283,Male
+AND,Andorra,2020,2020,11.94483,Male
+AND,Andorra,2021,2021,11.97494,Male
+AND,Andorra,2022,2022,12.81063,Male
+TCA,Turks and Caicos Islands,2022,2022,14.24106,Male
+TCA,Turks and Caicos Islands,2022,2022,12.84343,Male
+AND,Andorra,2017,2017,11.96364,Male
+AND,Andorra,2018,2018,11.88763,Male
+AND,Andorra,2019,2019,11.87524,Male
+AND,Andorra,2020,2020,11.87711,Male
+AND,Andorra,2021,2021,12.00349,Male
+AND,Andorra,2022,2022,12.76506,Male
+BIH,Bosnia and Herzegovina,2017,2017,13.29195,Male
+BIH,Bosnia and Herzegovina,2018,2018,13.22557,Male
+BIH,Bosnia and Herzegovina,2019,2019,13.0525,Male
+BIH,Bosnia and Herzegovina,2020,2020,12.84987,Male
+BIH,Bosnia and Herzegovina,2021,2021,12.81573,Male
+BIH,Bosnia and Herzegovina,2022,2022,12.80608,Male
