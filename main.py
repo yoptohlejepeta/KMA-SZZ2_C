@@ -118,6 +118,24 @@ with tab2:
         "Posledních 10", help="Zobrazeny jsou pouze státy, kde byla dostupná data"
     )
     col3.dataframe(gpgi_sorted.tail(10), hide_index=True)
+    
+    tab_hdp, tab_lifeexp, tab_schoolexpm, tab_schoolexpf = st.tabs(
+        [
+            "HDP",
+            "Očekávaná průměrná délka života",
+            "Průměrná délka školní docházky - Muži",
+            "Průměrná délka školní docházky - Ženy",
+        ]
+    )
+
+    with tab_hdp:
+        st.plotly_chart(graphs.create_bubble_gdp(), key="gdp")
+    with tab_lifeexp:
+        st.plotly_chart(graphs.create_bubble_lifeexp(), key="lifeexp")
+    with tab_schoolexpm:
+        st.plotly_chart(graphs.bubble_school_exp_male(), key="schoolexpm")
+    with tab_schoolexpf:
+        st.plotly_chart(graphs.bubble_school_exp_female(), key="schoolexpf")
 
     st.plotly_chart(graphs.top_10graph())
 
@@ -136,23 +154,6 @@ with tab2:
     st.header("Porovnání GPGI s vybranými demografickými ukazateli")
 
     # indicator = st.selectbox("ad",["HDP", "Očekávaná průměrná délka života", "Průměrná délka školní docházky - Ženy", "Průměrná délka školní docházky - Muži"])
-    tab_hdp, tab_lifeexp, tab_schoolexpm, tab_schoolexpf = st.tabs(
-        [
-            "HDP",
-            "Očekávaná průměrná délka života",
-            "Průměrná délka školní docházky - Muži",
-            "Průměrná délka školní docházky - Ženy",
-        ]
-    )
-
-    with tab_hdp:
-        st.plotly_chart(graphs.create_bubble_gdp(), key="gdp")
-    with tab_lifeexp:
-        st.plotly_chart(graphs.create_bubble_lifeexp(), key="lifeexp")
-    with tab_schoolexpm:
-        st.plotly_chart(graphs.bubble_school_exp_male(), key="schoolexpm")
-    with tab_schoolexpf:
-        st.plotly_chart(graphs.bubble_school_exp_female(), key="schoolexpf")
 
 with tab3:
     st.header("Čeká Republika")
