@@ -119,6 +119,8 @@ with tab2:
     )
     col3.dataframe(gpgi_sorted.tail(10), hide_index=True)
     
+    st.header("Porovnání GPGI s vybranými demografickými ukazateli")
+    
     tab_hdp, tab_lifeexp, tab_schoolexpm, tab_schoolexpf = st.tabs(
         [
             "HDP",
@@ -151,7 +153,6 @@ with tab2:
 
     st.divider()
 
-    st.header("Porovnání GPGI s vybranými demografickými ukazateli")
 
     # indicator = st.selectbox("ad",["HDP", "Očekávaná průměrná délka života", "Průměrná délka školní docházky - Ženy", "Průměrná délka školní docházky - Muži"])
 
